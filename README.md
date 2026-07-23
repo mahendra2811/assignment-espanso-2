@@ -31,7 +31,7 @@ npm install
 npm run dev        # → http://localhost:5173 (proxies /api to :8000)
 ```
 
-### Option B — no Docker (SQLite fallback)
+<!-- ### Option B — no Docker (SQLite fallback)
 
 ```bash
 cd backend
@@ -44,7 +44,7 @@ uvicorn app.main:app --port 8000
 
 Postgres is the intended production database (and what docker-compose
 runs); the code is dialect-portable so a reviewer without Docker can still
-run everything, including tests.
+run everything, including tests. -->
 
 ### Tests
 
