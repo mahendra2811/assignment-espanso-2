@@ -75,24 +75,6 @@ Ingest summary for this feed: **313 order records → 285 unique orders**,
 120 customers + 5 placeholders, 37 logged issues. Verify with
 `GET /api/data-quality`.
 
-## Assumptions (decisions a real integration would confirm with the vendor)
-
-1. **Slash dates are `DD/MM/YYYY`** — provable from the data (day > 12 in half
-   the samples); assumed consistent for the ambiguous rest.
-2. **Digit-string dates are epoch seconds** (values fall in 2025–2026 when
-   read that way). Values outside 2000–2100 would be rejected, not guessed.
-3. **`DD/MM/YYYY` dates have no time component** → stored as midnight UTC.
-   Fine for day-level analytics; flagged here for honesty.
-4. **For duplicated order_ids the latest `order_date` copy is canonical** —
-   the pairs differ by minutes, which looks like an updated re-emission of the
-   same event, and "last write wins" is the standard feed convention.
-5. **A "purchase" for repeat-rate = any non-cancelled order.** A refunded
-   order was still purchasing behaviour. AOV, by contrast, uses completed
-   orders only, so refunds don't distort basket size.
-6. **Currency is uniformly INR** (true in this feed). A non-INR order would be
-   stored as-is and flagged `unexpected_currency`, not converted.
-7. **Amounts are rupees** (not paise), stored as `NUMERIC(12,2)`; API responses
-   serialise them as JSON numbers rounded to 2dp.
 
 ## Schema decisions
 
