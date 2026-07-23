@@ -1,0 +1,8028 @@
+[
+  {
+    "order_id": "ORD-00087",
+    "customer_id": "CUST-0104",
+    "order_date": "2026-06-03T20:11:00Z",
+    "items": [
+      {
+        "sku": "SKU-SC-014",
+        "name": "Vitamin C Serum 30ml",
+        "qty": 2,
+        "unit_price": 799
+      },
+      {
+        "sku": "SKU-SH-019",
+        "name": "Anti-Dandruff Shampoo 200ml",
+        "qty": 1,
+        "unit_price": 449
+      }
+    ],
+    "total_amount": 2047,
+    "currency": "INR",
+    "status": "completed"
+  },
+  {
+    "order_id": "ORD-00149",
+    "customer_id": "CUST-0108",
+    "order_date": "31/10/2025",
+    "items": [
+      {
+        "sku": "SKU-FW-001",
+        "name": "Everyday Face Wash 100ml",
+        "qty": 1,
+        "unit_price": 349
+      }
+    ],
+    "total_amount": 349,
+    "currency": "INR",
+    "status": "completed"
+  },
+  {
+    "order_id": "ORD-00020",
+    "customer_id": "CUST-0098",
+    "order_date": "2026-02-15T18:02:00Z",
+    "items": [
+      {
+        "sku": "SKU-FM-005",
+        "name": "Clay Face Mask 75g",
+        "qty": 3,
+        "unit_price": 599
+      },
+      {
+        "sku": "SKU-LB-003",
+        "name": "Nourishing Lip Balm",
+        "qty": 2,
+        "unit_price": 199
+      }
+    ],
+    "total_amount": -2195,
+    "currency": "INR",
+    "status": "refunded"
+  },
+  {
+    "order_id": "ORD-00231",
+    "customer_id": "CUST-0057",
+    "order_date": "01/10/2025",
+    "items": [
+      {
+        "sku": "SKU-MC-007",
+        "name": "Hydrating Moisturizer 50ml",
+        "qty": 2,
+        "unit_price": 549
+      },
+      {
+        "sku": "SKU-SS-022",
+        "name": "Mineral Sunscreen SPF50 50ml",
+        "qty": 3,
+        "unit_price": 649
+      },
+      {
+        "sku": "SKU-BW-011",
+        "name": "Body Wash Citrus 250ml",
+        "qty": 2,
+        "unit_price": 399
+      },
+      {
+        "sku": "SKU-SH-019",
+        "name": "Anti-Dandruff Shampoo 200ml",
+        "qty": 1,
+        "unit_price": 449
+      }
+    ],
+    "total_amount": 4292,
+    "currency": "INR",
+    "status": "completed"
+  },
+  {
+    "order_id": "ORD-00198",
+    "customer_id": "CUST-0111",
+    "order_date": "2026-03-12T04:24:00Z",
+    "items": [
+      {
+        "sku": "SKU-SH-019",
+        "name": "Anti-Dandruff Shampoo 200ml",
+        "qty": 2,
+        "unit_price": 449
+      },
+      {
+        "sku": "SKU-LB-003",
+        "name": "Nourishing Lip Balm",
+        "qty": 1,
+        "unit_price": 199
+      },
+      {
+        "sku": "SKU-FM-005",
+        "name": "Clay Face Mask 75g",
+        "qty": 1,
+        "unit_price": 599
+      },
+      {
+        "sku": "SKU-SC-014",
+        "name": "Vitamin C Serum 30ml",
+        "qty": 3,
+        "unit_price": 799
+      }
+    ],
+    "total_amount": 4093,
+    "currency": "INR",
+    "status": "completed"
+  },
+  {
+    "order_id": "ORD-00122",
+    "customer_id": "CUST-0093",
+    "order_date": "2026-01-27T17:47:00Z",
+    "items": [
+      {
+        "sku": "SKU-MC-007",
+        "name": "Hydrating Moisturizer 50ml",
+        "qty": 2,
+        "unit_price": 549
+      }
+    ],
+    "total_amount": 1098,
+    "currency": "INR",
+    "status": "completed"
+  },
+  {
+    "order_id": "ORD-00272",
+    "customer_id": "CUST-0013",
+    "order_date": "2025-11-08T23:46:00Z",
+    "items": [
+      {
+        "sku": "SKU-SS-022",
+        "name": "Mineral Sunscreen SPF50 50ml",
+        "qty": 2,
+        "unit_price": 649
+      },
+      {
+        "sku": "SKU-FM-005",
+        "name": "Clay Face Mask 75g",
+        "qty": 2,
+        "unit_price": 599
+      },
+      {
+        "sku": "SKU-MC-007",
+        "name": "Hydrating Moisturizer 50ml",
+        "qty": 1,
+        "unit_price": 549
+      }
+    ],
+    "total_amount": 3045,
+    "currency": "INR",
+    "status": "completed"
+  },
+  {
+    "order_id": "ORD-00220",
+    "customer_id": "CUST-0113",
+    "order_date": "2026-03-01T15:26:00Z",
+    "items": [
+      {
+        "sku": "SKU-FW-001",
+        "name": "Everyday Face Wash 100ml",
+        "qty": 1,
+        "unit_price": 349
+      },
+      {
+        "sku": "SKU-FM-005",
+        "name": "Clay Face Mask 75g",
+        "qty": 2,
+        "unit_price": 599
+      },
+      {
+        "sku": "SKU-MC-007",
+        "name": "Hydrating Moisturizer 50ml",
+        "qty": 1,
+        "unit_price": 549
+      },
+      {
+        "sku": "SKU-SS-022",
+        "name": "Mineral Sunscreen SPF50 50ml",
+        "qty": 3,
+        "unit_price": 649
+      }
+    ],
+    "total_amount": 4043,
+    "currency": "INR",
+    "status": "completed"
+  },
+  {
+    "order_id": "ORD-00023",
+    "customer_id": "CUST-0098",
+    "order_date": 1781382480,
+    "items": [
+      {
+        "sku": "SKU-SS-022",
+        "name": "Mineral Sunscreen SPF50 50ml",
+        "qty": 2,
+        "unit_price": 649
+      }
+    ],
+    "total_amount": 1298,
+    "currency": "INR",
+    "status": "completed"
+  },
+  {
+    "order_id": "ORD-00015",
+    "customer_id": "CUST-0013",
+    "order_date": "31/10/2025",
+    "items": [
+      {
+        "sku": "SKU-SS-022",
+        "name": "Mineral Sunscreen SPF50 50ml",
+        "qty": 3,
+        "unit_price": 649
+      },
+      {
+        "sku": "SKU-MC-007",
+        "name": "Hydrating Moisturizer 50ml",
+        "qty": 1,
+        "unit_price": 549
+      }
+    ],
+    "total_amount": 2496,
+    "currency": "INR",
+    "status": "completed"
+  },
+  {
+    "order_id": "ORD-00266",
+    "customer_id": "CUST-0094",
+    "order_date": "2025-10-10T07:14:00Z",
+    "items": [
+      {
+        "sku": "SKU-SS-022",
+        "name": "Mineral Sunscreen SPF50 50ml",
+        "qty": 1,
+        "unit_price": 649
+      },
+      {
+        "sku": "SKU-SH-019",
+        "name": "Anti-Dandruff Shampoo 200ml",
+        "qty": 3,
+        "unit_price": 449
+      }
+    ],
+    "total_amount": 1996,
+    "currency": "INR",
+    "status": "completed"
+  },
+  {
+    "order_id": "ORD-00246",
+    "customer_id": "CUST-0054",
+    "order_date": "14/03/2026",
+    "items": [
+      {
+        "sku": "SKU-SS-022",
+        "name": "Mineral Sunscreen SPF50 50ml",
+        "qty": 2,
+        "unit_price": 649
+      }
+    ],
+    "total_amount": 1298,
+    "currency": "INR",
+    "status": "completed"
+  },
+  {
+    "order_id": "ORD-00125",
+    "customer_id": "CUST-0097",
+    "order_date": "2026-03-01T18:43:00Z",
+    "items": [
+      {
+        "sku": "SKU-MC-007",
+        "name": "Hydrating Moisturizer 50ml",
+        "qty": 3,
+        "unit_price": 549
+      },
+      {
+        "sku": "SKU-LB-003",
+        "name": "Nourishing Lip Balm",
+        "qty": 2,
+        "unit_price": 199
+      }
+    ],
+    "total_amount": 2045,
+    "currency": "INR",
+    "status": "completed"
+  },
+  {
+    "order_id": "ORD-00104",
+    "customer_id": "CUST-0104",
+    "order_date": "2026-03-04T15:15:00Z",
+    "items": [
+      {
+        "sku": "SKU-LB-003",
+        "name": "Nourishing Lip Balm",
+        "qty": 1,
+        "unit_price": 199
+      },
+      {
+        "sku": "SKU-SS-022",
+        "name": "Mineral Sunscreen SPF50 50ml",
+        "qty": 2,
+        "unit_price": 649
+      },
+      {
+        "sku": "SKU-FW-001",
+        "name": "Everyday Face Wash 100ml",
+        "qty": 2,
+        "unit_price": 349
+      },
+      {
+        "sku": "SKU-SH-019",
+        "name": "Anti-Dandruff Shampoo 200ml",
+        "qty": 2,
+        "unit_price": 449
+      }
+    ],
+    "total_amount": 3093,
+    "currency": "INR",
+    "status": "completed"
+  },
+  {
+    "order_id": "ORD-00278",
+    "customer_id": "CUST-0044",
+    "order_date": "2026-01-23T21:55:00Z",
+    "items": [
+      {
+        "sku": "SKU-BW-011",
+        "name": "Body Wash Citrus 250ml",
+        "qty": 3,
+        "unit_price": 399
+      }
+    ],
+    "total_amount": 1197,
+    "currency": "INR",
+    "status": "completed"
+  },
+  {
+    "order_id": "ORD-00085",
+    "customer_id": "CUST-0050",
+    "order_date": "2026-06-17T17:01:00Z",
+    "items": [
+      {
+        "sku": "SKU-FW-001",
+        "name": "Everyday Face Wash 100ml",
+        "qty": 2,
+        "unit_price": 349
+      },
+      {
+        "sku": "SKU-SH-019",
+        "name": "Anti-Dandruff Shampoo 200ml",
+        "qty": 3,
+        "unit_price": 449
+      },
+      {
+        "sku": "SKU-SS-022",
+        "name": "Mineral Sunscreen SPF50 50ml",
+        "qty": 1,
+        "unit_price": 649
+      },
+      {
+        "sku": "SKU-MC-007",
+        "name": "Hydrating Moisturizer 50ml",
+        "qty": 2,
+        "unit_price": 549
+      }
+    ],
+    "total_amount": 3792,
+    "currency": "INR",
+    "status": "completed"
+  },
+  {
+    "order_id": "ORD-00263",
+    "customer_id": "CUST-0003",
+    "order_date": "2026-03-14T16:12:00Z",
+    "items": [
+      {
+        "sku": "SKU-SS-022",
+        "name": "Mineral Sunscreen SPF50 50ml",
+        "qty": 1,
+        "unit_price": 649
+      }
+    ],
+    "total_amount": 649,
+    "currency": "INR",
+    "status": "completed"
+  },
+  {
+    "order_id": "ORD-00076",
+    "customer_id": "CUST-0024",
+    "order_date": "2026-04-11T04:10:00Z",
+    "items": [
+      {
+        "sku": "SKU-FM-005",
+        "name": "Clay Face Mask 75g",
+        "qty": 2,
+        "unit_price": 599
+      },
+      {
+        "sku": "SKU-FW-001",
+        "name": "Everyday Face Wash 100ml",
+        "qty": 2,
+        "unit_price": 349
+      }
+    ],
+    "total_amount": 1896,
+    "currency": "INR",
+    "status": "completed"
+  },
+  {
+    "order_id": "ORD-00225",
+    "customer_id": "CUST-0092",
+    "order_date": 1768191660,
+    "items": [
+      {
+        "sku": "SKU-SH-019",
+        "name": "Anti-Dandruff Shampoo 200ml",
+        "qty": 1,
+        "unit_price": 449
+      },
+      {
+        "sku": "SKU-FW-001",
+        "name": "Everyday Face Wash 100ml",
+        "qty": 1,
+        "unit_price": 349
+      }
+    ],
+    "total_amount": 798,
+    "currency": "INR",
+    "status": "completed"
+  },
+  {
+    "order_id": "ORD-00007",
+    "customer_id": "CUST-0067",
+    "order_date": "19/02/2026",
+    "items": [
+      {
+        "sku": "SKU-SC-014",
+        "name": "Vitamin C Serum 30ml",
+        "qty": 3,
+        "unit_price": 799
+      },
+      {
+        "sku": "SKU-FM-005",
+        "name": "Clay Face Mask 75g",
+        "qty": 2,
+        "unit_price": 599
+      }
+    ],
+    "total_amount": 3595,
+    "currency": "INR",
+    "status": "completed"
+  },
+  {
+    "order_id": "ORD-00052",
+    "customer_id": "CUST-0068",
+    "order_date": "16/03/2026",
+    "items": [
+      {
+        "sku": "SKU-FM-005",
+        "name": "Clay Face Mask 75g",
+        "qty": 2,
+        "unit_price": 599
+      },
+      {
+        "sku": "SKU-LB-003",
+        "name": "Nourishing Lip Balm",
+        "qty": 1,
+        "unit_price": 199
+      },
+      {
+        "sku": "SKU-BW-011",
+        "name": "Body Wash Citrus 250ml",
+        "qty": 3,
+        "unit_price": 399
+      }
+    ],
+    "total_amount": 2594,
+    "currency": "INR",
+    "status": "completed"
+  },
+  {
+    "order_id": "ORD-00285",
+    "customer_id": "CUST-9000",
+    "order_date": "22/05/2026",
+    "items": [
+      {
+        "sku": "SKU-SH-019",
+        "name": "Anti-Dandruff Shampoo 200ml",
+        "qty": 2,
+        "unit_price": 449
+      }
+    ],
+    "total_amount": 898,
+    "currency": "INR",
+    "status": "completed"
+  },
+  {
+    "order_id": "ORD-00016",
+    "customer_id": "CUST-0030",
+    "order_date": "29/05/2026",
+    "items": [
+      {
+        "sku": "SKU-LB-003",
+        "name": "Nourishing Lip Balm",
+        "qty": 1,
+        "unit_price": 199
+      },
+      {
+        "sku": "SKU-SH-019",
+        "name": "Anti-Dandruff Shampoo 200ml",
+        "qty": 3,
+        "unit_price": 449
+      },
+      {
+        "sku": "SKU-SS-022",
+        "name": "Mineral Sunscreen SPF50 50ml",
+        "qty": 1,
+        "unit_price": 649
+      }
+    ],
+    "total_amount": -2195,
+    "currency": "INR",
+    "status": "refunded"
+  },
+  {
+    "order_id": "ORD-00090",
+    "customer_id": "CUST-0042",
+    "order_date": "2026-01-01T17:18:00Z",
+    "items": [
+      {
+        "sku": "SKU-SC-014",
+        "name": "Vitamin C Serum 30ml",
+        "qty": 2,
+        "unit_price": 799
+      }
+    ],
+    "total_amount": 1598,
+    "currency": "INR",
+    "status": "completed"
+  },
+  {
+    "order_id": "ORD-00261",
+    "customer_id": "CUST-0092",
+    "order_date": "2025-12-13T10:55:00Z",
+    "items": [
+      {
+        "sku": "SKU-SC-014",
+        "name": "Vitamin C Serum 30ml",
+        "qty": 2,
+        "unit_price": 799
+      },
+      {
+        "sku": "SKU-SS-022",
+        "name": "Mineral Sunscreen SPF50 50ml",
+        "qty": 3,
+        "unit_price": 649
+      }
+    ],
+    "total_amount": 3545,
+    "currency": "INR",
+    "status": "cancelled"
+  },
+  {
+    "order_id": "ORD-00054",
+    "customer_id": "CUST-0088",
+    "order_date": "2026-02-08T11:09:00Z",
+    "items": [
+      {
+        "sku": "SKU-SC-014",
+        "name": "Vitamin C Serum 30ml",
+        "qty": 2,
+        "unit_price": 799
+      },
+      {
+        "sku": "SKU-FW-001",
+        "name": "Everyday Face Wash 100ml",
+        "qty": 1,
+        "unit_price": 349
+      },
+      {
+        "sku": "SKU-BW-011",
+        "name": "Body Wash Citrus 250ml",
+        "qty": 3,
+        "unit_price": 399
+      },
+      {
+        "sku": "SKU-SH-019",
+        "name": "Anti-Dandruff Shampoo 200ml",
+        "qty": 3,
+        "unit_price": 449
+      }
+    ],
+    "total_amount": 4491,
+    "currency": "INR",
+    "status": "completed"
+  },
+  {
+    "order_id": "ORD-00232",
+    "customer_id": "CUST-0010",
+    "order_date": "2026-01-24T05:53:00Z",
+    "items": [
+      {
+        "sku": "SKU-LB-003",
+        "name": "Nourishing Lip Balm",
+        "qty": 1,
+        "unit_price": 199
+      }
+    ],
+    "total_amount": 199,
+    "currency": "INR",
+    "status": "completed"
+  },
+  {
+    "order_id": "ORD-00207",
+    "customer_id": "CUST-0048",
+    "order_date": 1771211160,
+    "items": [
+      {
+        "sku": "SKU-FW-001",
+        "name": "Everyday Face Wash 100ml",
+        "qty": 1,
+        "unit_price": 349
+      }
+    ],
+    "total_amount": 349,
+    "currency": "INR",
+    "status": "completed"
+  },
+  {
+    "order_id": "ORD-00164",
+    "customer_id": "CUST-0105",
+    "order_date": "2026-05-14T10:27:00Z",
+    "items": [
+      {
+        "sku": "SKU-LB-003",
+        "name": "Nourishing Lip Balm",
+        "qty": 3,
+        "unit_price": 199
+      },
+      {
+        "sku": "SKU-MC-007",
+        "name": "Hydrating Moisturizer 50ml",
+        "qty": 3,
+        "unit_price": 549
+      }
+    ],
+    "total_amount": 2244,
+    "currency": "INR",
+    "status": "completed"
+  },
+  {
+    "order_id": "ORD-00108",
+    "customer_id": "CUST-0064",
+    "order_date": "2025-10-25T01:18:00Z",
+    "items": [
+      {
+        "sku": "SKU-LB-003",
+        "name": "Nourishing Lip Balm",
+        "qty": 2,
+        "unit_price": 199
+      },
+      {
+        "sku": "SKU-FM-005",
+        "name": "Clay Face Mask 75g",
+        "qty": 1,
+        "unit_price": 599
+      },
+      {
+        "sku": "SKU-FW-001",
+        "name": "Everyday Face Wash 100ml",
+        "qty": 2,
+        "unit_price": 349
+      },
+      {
+        "sku": "SKU-SH-019",
+        "name": "Anti-Dandruff Shampoo 200ml",
+        "qty": 3,
+        "unit_price": 449
+      }
+    ],
+    "total_amount": 3042,
+    "currency": "INR",
+    "status": "completed"
+  },
+  {
+    "order_id": "ORD-00021",
+    "customer_id": "CUST-0045",
+    "order_date": "09/06/2026",
+    "items": [
+      {
+        "sku": "SKU-SH-019",
+        "name": "Anti-Dandruff Shampoo 200ml",
+        "qty": 1,
+        "unit_price": 449
+      },
+      {
+        "sku": "SKU-MC-007",
+        "name": "Hydrating Moisturizer 50ml",
+        "qty": 2,
+        "unit_price": 549
+      },
+      {
+        "sku": "SKU-FM-005",
+        "name": "Clay Face Mask 75g",
+        "qty": 2,
+        "unit_price": 599
+      },
+      {
+        "sku": "SKU-FW-001",
+        "name": "Everyday Face Wash 100ml",
+        "qty": 3,
+        "unit_price": 349
+      }
+    ],
+    "total_amount": 3792,
+    "currency": "INR",
+    "status": "completed"
+  },
+  {
+    "order_id": "ORD-00195",
+    "customer_id": "CUST-0094",
+    "order_date": "11/12/2025",
+    "items": [
+      {
+        "sku": "SKU-SH-019",
+        "name": "Anti-Dandruff Shampoo 200ml",
+        "qty": 1,
+        "unit_price": 449
+      },
+      {
+        "sku": "SKU-SS-022",
+        "name": "Mineral Sunscreen SPF50 50ml",
+        "qty": 2,
+        "unit_price": 649
+      },
+      {
+        "sku": "SKU-MC-007",
+        "name": "Hydrating Moisturizer 50ml",
+        "qty": 3,
+        "unit_price": 549
+      },
+      {
+        "sku": "SKU-SC-014",
+        "name": "Vitamin C Serum 30ml",
+        "qty": 1,
+        "unit_price": 799
+      }
+    ],
+    "total_amount": 4193,
+    "currency": "INR",
+    "status": "completed"
+  },
+  {
+    "order_id": "ORD-00071",
+    "customer_id": "CUST-0118",
+    "order_date": "21/12/2025",
+    "items": [
+      {
+        "sku": "SKU-BW-011",
+        "name": "Body Wash Citrus 250ml",
+        "qty": 3,
+        "unit_price": 399
+      },
+      {
+        "sku": "SKU-SS-022",
+        "name": "Mineral Sunscreen SPF50 50ml",
+        "qty": 3,
+        "unit_price": 649
+      },
+      {
+        "sku": "SKU-MC-007",
+        "name": "Hydrating Moisturizer 50ml",
+        "qty": 1,
+        "unit_price": 549
+      }
+    ],
+    "total_amount": 3693,
+    "currency": "INR",
+    "status": "completed"
+  },
+  {
+    "order_id": "ORD-00147",
+    "customer_id": "CUST-0026",
+    "order_date": "02/05/2026",
+    "items": [
+      {
+        "sku": "SKU-SS-022",
+        "name": "Mineral Sunscreen SPF50 50ml",
+        "qty": 1,
+        "unit_price": 649
+      },
+      {
+        "sku": "SKU-FM-005",
+        "name": "Clay Face Mask 75g",
+        "qty": 2,
+        "unit_price": 599
+      },
+      {
+        "sku": "SKU-LB-003",
+        "name": "Nourishing Lip Balm",
+        "qty": 3,
+        "unit_price": 199
+      }
+    ],
+    "total_amount": 2444,
+    "currency": "INR",
+    "status": "completed"
+  },
+  {
+    "order_id": "ORD-00135",
+    "customer_id": "CUST-0003",
+    "order_date": "2026-01-23T00:48:00Z",
+    "items": [
+      {
+        "sku": "SKU-FM-005",
+        "name": "Clay Face Mask 75g",
+        "qty": 3,
+        "unit_price": 599
+      },
+      {
+        "sku": "SKU-SH-019",
+        "name": "Anti-Dandruff Shampoo 200ml",
+        "qty": 2,
+        "unit_price": 449
+      },
+      {
+        "sku": "SKU-BW-011",
+        "name": "Body Wash Citrus 250ml",
+        "qty": 3,
+        "unit_price": 399
+      }
+    ],
+    "total_amount": 3892,
+    "currency": "INR",
+    "status": "completed"
+  },
+  {
+    "order_id": "ORD-00036",
+    "customer_id": "CUST-0074",
+    "order_date": "14/04/2026",
+    "items": [
+      {
+        "sku": "SKU-LB-003",
+        "name": "Nourishing Lip Balm",
+        "qty": 2,
+        "unit_price": 199
+      },
+      {
+        "sku": "SKU-FW-001",
+        "name": "Everyday Face Wash 100ml",
+        "qty": 2,
+        "unit_price": 349
+      },
+      {
+        "sku": "SKU-SH-019",
+        "name": "Anti-Dandruff Shampoo 200ml",
+        "qty": 1,
+        "unit_price": 449
+      }
+    ],
+    "total_amount": 1545,
+    "currency": "INR",
+    "status": "completed"
+  },
+  {
+    "order_id": "ORD-00253",
+    "customer_id": "CUST-0049",
+    "order_date": "18/02/2026",
+    "items": [
+      {
+        "sku": "SKU-FM-005",
+        "name": "Clay Face Mask 75g",
+        "qty": 2,
+        "unit_price": 599
+      },
+      {
+        "sku": "SKU-MC-007",
+        "name": "Hydrating Moisturizer 50ml",
+        "qty": 2,
+        "unit_price": 549
+      },
+      {
+        "sku": "SKU-SC-014",
+        "name": "Vitamin C Serum 30ml",
+        "qty": 3,
+        "unit_price": 799
+      }
+    ],
+    "total_amount": 4693,
+    "currency": "INR",
+    "status": "completed"
+  },
+  {
+    "order_id": "ORD-00212",
+    "customer_id": "CUST-0017",
+    "order_date": "01/11/2025",
+    "items": [
+      {
+        "sku": "SKU-LB-003",
+        "name": "Nourishing Lip Balm",
+        "qty": 2,
+        "unit_price": 199
+      },
+      {
+        "sku": "SKU-MC-007",
+        "name": "Hydrating Moisturizer 50ml",
+        "qty": 2,
+        "unit_price": 549
+      }
+    ],
+    "total_amount": 1496,
+    "currency": "INR",
+    "status": "completed"
+  },
+  {
+    "order_id": "ORD-00137",
+    "customer_id": "CUST-0009",
+    "order_date": "09/10/2025",
+    "items": [
+      {
+        "sku": "SKU-FW-001",
+        "name": "Everyday Face Wash 100ml",
+        "qty": 2,
+        "unit_price": 349
+      }
+    ],
+    "total_amount": 698,
+    "currency": "INR",
+    "status": "completed"
+  },
+  {
+    "order_id": "ORD-00255",
+    "customer_id": "CUST-0092",
+    "order_date": "2026-02-19T08:41:00Z",
+    "items": [
+      {
+        "sku": "SKU-SS-022",
+        "name": "Mineral Sunscreen SPF50 50ml",
+        "qty": 1,
+        "unit_price": 649
+      },
+      {
+        "sku": "SKU-SC-014",
+        "name": "Vitamin C Serum 30ml",
+        "qty": 1,
+        "unit_price": 799
+      },
+      {
+        "sku": "SKU-LB-003",
+        "name": "Nourishing Lip Balm",
+        "qty": 3,
+        "unit_price": 199
+      }
+    ],
+    "total_amount": 2045,
+    "currency": "INR",
+    "status": "completed"
+  },
+  {
+    "order_id": "ORD-00040",
+    "customer_id": "CUST-0038",
+    "order_date": 1770652260,
+    "items": [
+      {
+        "sku": "SKU-SC-014",
+        "name": "Vitamin C Serum 30ml",
+        "qty": 1,
+        "unit_price": 799
+      },
+      {
+        "sku": "SKU-SS-022",
+        "name": "Mineral Sunscreen SPF50 50ml",
+        "qty": 1,
+        "unit_price": 649
+      },
+      {
+        "sku": "SKU-FW-001",
+        "name": "Everyday Face Wash 100ml",
+        "qty": 3,
+        "unit_price": 349
+      }
+    ],
+    "total_amount": 2495,
+    "currency": "INR",
+    "status": "completed"
+  },
+  {
+    "order_id": "ORD-00134",
+    "customer_id": "CUST-0049",
+    "order_date": "2026-05-04T11:57:00Z",
+    "items": [
+      {
+        "sku": "SKU-BW-011",
+        "name": "Body Wash Citrus 250ml",
+        "qty": 1,
+        "unit_price": 399
+      },
+      {
+        "sku": "SKU-SS-022",
+        "name": "Mineral Sunscreen SPF50 50ml",
+        "qty": 3,
+        "unit_price": 649
+      },
+      {
+        "sku": "SKU-FW-001",
+        "name": "Everyday Face Wash 100ml",
+        "qty": 2,
+        "unit_price": 349
+      },
+      {
+        "sku": "SKU-LB-003",
+        "name": "Nourishing Lip Balm",
+        "qty": 1,
+        "unit_price": 199
+      }
+    ],
+    "total_amount": 3243,
+    "currency": "INR",
+    "status": "completed"
+  },
+  {
+    "order_id": "ORD-00078",
+    "customer_id": "CUST-0049",
+    "order_date": "2026-05-25T09:49:00Z",
+    "items": [
+      {
+        "sku": "SKU-MC-007",
+        "name": "Hydrating Moisturizer 50ml",
+        "qty": 1,
+        "unit_price": 549
+      },
+      {
+        "sku": "SKU-BW-011",
+        "name": "Body Wash Citrus 250ml",
+        "qty": 2,
+        "unit_price": 399
+      },
+      {
+        "sku": "SKU-SC-014",
+        "name": "Vitamin C Serum 30ml",
+        "qty": 1,
+        "unit_price": 799
+      },
+      {
+        "sku": "SKU-LB-003",
+        "name": "Nourishing Lip Balm",
+        "qty": 3,
+        "unit_price": 199
+      }
+    ],
+    "total_amount": 2743,
+    "currency": "INR",
+    "status": "completed"
+  },
+  {
+    "order_id": "ORD-00144",
+    "customer_id": "CUST-0112",
+    "order_date": "20/01/2026",
+    "items": [
+      {
+        "sku": "SKU-LB-003",
+        "name": "Nourishing Lip Balm",
+        "qty": 1,
+        "unit_price": 199
+      },
+      {
+        "sku": "SKU-FW-001",
+        "name": "Everyday Face Wash 100ml",
+        "qty": 3,
+        "unit_price": 349
+      },
+      {
+        "sku": "SKU-SC-014",
+        "name": "Vitamin C Serum 30ml",
+        "qty": 1,
+        "unit_price": 799
+      }
+    ],
+    "total_amount": 2045,
+    "currency": "INR",
+    "status": "completed"
+  },
+  {
+    "order_id": "ORD-00004",
+    "customer_id": "CUST-0063",
+    "order_date": "07/10/2025",
+    "items": [
+      {
+        "sku": "SKU-BW-011",
+        "name": "Body Wash Citrus 250ml",
+        "qty": 2,
+        "unit_price": 399
+      }
+    ],
+    "total_amount": 798,
+    "currency": "INR",
+    "status": "completed"
+  },
+  {
+    "order_id": "ORD-00095",
+    "customer_id": "CUST-0034",
+    "order_date": 1764492540,
+    "items": [
+      {
+        "sku": "SKU-SS-022",
+        "name": "Mineral Sunscreen SPF50 50ml",
+        "qty": 1,
+        "unit_price": 649
+      },
+      {
+        "sku": "SKU-LB-003",
+        "name": "Nourishing Lip Balm",
+        "qty": 1,
+        "unit_price": 199
+      },
+      {
+        "sku": "SKU-MC-007",
+        "name": "Hydrating Moisturizer 50ml",
+        "qty": 1,
+        "unit_price": 549
+      },
+      {
+        "sku": "SKU-FM-005",
+        "name": "Clay Face Mask 75g",
+        "qty": 1,
+        "unit_price": 599
+      }
+    ],
+    "total_amount": 1996,
+    "currency": "INR",
+    "status": "completed"
+  },
+  {
+    "order_id": "ORD-00001",
+    "customer_id": "CUST-0060",
+    "order_date": "28/11/2025",
+    "items": [
+      {
+        "sku": "SKU-SH-019",
+        "name": "Anti-Dandruff Shampoo 200ml",
+        "qty": 3,
+        "unit_price": 449
+      },
+      {
+        "sku": "SKU-SC-014",
+        "name": "Vitamin C Serum 30ml",
+        "qty": 3,
+        "unit_price": 799
+      },
+      {
+        "sku": "SKU-LB-003",
+        "name": "Nourishing Lip Balm",
+        "qty": 3,
+        "unit_price": 199
+      }
+    ],
+    "total_amount": 4341,
+    "currency": "INR",
+    "status": "completed"
+  },
+  {
+    "order_id": "ORD-00190",
+    "customer_id": "CUST-0120",
+    "order_date": "04/03/2026",
+    "items": [
+      {
+        "sku": "SKU-SC-014",
+        "name": "Vitamin C Serum 30ml",
+        "qty": 2,
+        "unit_price": 799
+      },
+      {
+        "sku": "SKU-SH-019",
+        "name": "Anti-Dandruff Shampoo 200ml",
+        "qty": 1,
+        "unit_price": 449
+      },
+      {
+        "sku": "SKU-MC-007",
+        "name": "Hydrating Moisturizer 50ml",
+        "qty": 2,
+        "unit_price": 549
+      }
+    ],
+    "total_amount": 3145,
+    "currency": "INR",
+    "status": "completed"
+  },
+  {
+    "order_id": "ORD-00271",
+    "customer_id": "CUST-0120",
+    "order_date": "2026-06-12T06:44:00Z",
+    "items": [
+      {
+        "sku": "SKU-SH-019",
+        "name": "Anti-Dandruff Shampoo 200ml",
+        "qty": 3,
+        "unit_price": 449
+      },
+      {
+        "sku": "SKU-SC-014",
+        "name": "Vitamin C Serum 30ml",
+        "qty": 1,
+        "unit_price": 799
+      },
+      {
+        "sku": "SKU-FW-001",
+        "name": "Everyday Face Wash 100ml",
+        "qty": 1,
+        "unit_price": 349
+      },
+      {
+        "sku": "SKU-FM-005",
+        "name": "Clay Face Mask 75g",
+        "qty": 3,
+        "unit_price": 599
+      }
+    ],
+    "total_amount": 4292,
+    "currency": "INR",
+    "status": "completed"
+  },
+  {
+    "order_id": "ORD-00238",
+    "customer_id": "CUST-0097",
+    "order_date": "2026-03-26T17:26:00Z",
+    "items": [
+      {
+        "sku": "SKU-FW-001",
+        "name": "Everyday Face Wash 100ml",
+        "qty": 2,
+        "unit_price": 349
+      },
+      {
+        "sku": "SKU-BW-011",
+        "name": "Body Wash Citrus 250ml",
+        "qty": 3,
+        "unit_price": 399
+      }
+    ],
+    "total_amount": 1895,
+    "currency": "INR",
+    "status": "completed"
+  },
+  {
+    "order_id": "ORD-00111",
+    "customer_id": "CUST-0021",
+    "order_date": 1773775680,
+    "items": [
+      {
+        "sku": "SKU-LB-003",
+        "name": "Nourishing Lip Balm",
+        "qty": 3,
+        "unit_price": 199
+      },
+      {
+        "sku": "SKU-FM-005",
+        "name": "Clay Face Mask 75g",
+        "qty": 3,
+        "unit_price": 599
+      },
+      {
+        "sku": "SKU-MC-007",
+        "name": "Hydrating Moisturizer 50ml",
+        "qty": 2,
+        "unit_price": 549
+      },
+      {
+        "sku": "SKU-BW-011",
+        "name": "Body Wash Citrus 250ml",
+        "qty": 3,
+        "unit_price": 399
+      }
+    ],
+    "total_amount": 4689,
+    "currency": "INR",
+    "status": "completed"
+  },
+  {
+    "order_id": "ORD-00186",
+    "customer_id": "CUST-0081",
+    "order_date": "08/06/2026",
+    "items": [
+      {
+        "sku": "SKU-BW-011",
+        "name": "Body Wash Citrus 250ml",
+        "qty": 1,
+        "unit_price": 399
+      },
+      {
+        "sku": "SKU-SS-022",
+        "name": "Mineral Sunscreen SPF50 50ml",
+        "qty": 3,
+        "unit_price": 649
+      },
+      {
+        "sku": "SKU-FM-005",
+        "name": "Clay Face Mask 75g",
+        "qty": 1,
+        "unit_price": 599
+      }
+    ],
+    "total_amount": 2945,
+    "currency": "INR",
+    "status": "completed"
+  },
+  {
+    "order_id": "ORD-00074",
+    "customer_id": "CUST-0055",
+    "order_date": "2025-11-17T20:42:00Z",
+    "items": [
+      {
+        "sku": "SKU-FW-001",
+        "name": "Everyday Face Wash 100ml",
+        "qty": 1,
+        "unit_price": 349
+      },
+      {
+        "sku": "SKU-MC-007",
+        "name": "Hydrating Moisturizer 50ml",
+        "qty": 1,
+        "unit_price": 549
+      },
+      {
+        "sku": "SKU-BW-011",
+        "name": "Body Wash Citrus 250ml",
+        "qty": 2,
+        "unit_price": 399
+      }
+    ],
+    "total_amount": -1696,
+    "currency": "INR",
+    "status": "refunded"
+  },
+  {
+    "order_id": "ORD-00127",
+    "customer_id": "CUST-0047",
+    "order_date": "2025-10-06T08:41:00Z",
+    "items": [
+      {
+        "sku": "SKU-FW-001",
+        "name": "Everyday Face Wash 100ml",
+        "qty": 1,
+        "unit_price": 349
+      },
+      {
+        "sku": "SKU-SH-019",
+        "name": "Anti-Dandruff Shampoo 200ml",
+        "qty": 2,
+        "unit_price": 449
+      }
+    ],
+    "total_amount": 1247,
+    "currency": "INR",
+    "status": "completed"
+  },
+  {
+    "order_id": "ORD-00252",
+    "customer_id": "CUST-0017",
+    "order_date": "2025-10-05T15:58:00Z",
+    "items": [
+      {
+        "sku": "SKU-FW-001",
+        "name": "Everyday Face Wash 100ml",
+        "qty": 2,
+        "unit_price": 349
+      },
+      {
+        "sku": "SKU-SC-014",
+        "name": "Vitamin C Serum 30ml",
+        "qty": 3,
+        "unit_price": 799
+      }
+    ],
+    "total_amount": 3095,
+    "currency": "INR",
+    "status": "completed"
+  },
+  {
+    "order_id": "ORD-00236",
+    "customer_id": "CUST-0085",
+    "order_date": "2026-05-30T15:57:00Z",
+    "items": [
+      {
+        "sku": "SKU-SC-014",
+        "name": "Vitamin C Serum 30ml",
+        "qty": 2,
+        "unit_price": 799
+      },
+      {
+        "sku": "SKU-SH-019",
+        "name": "Anti-Dandruff Shampoo 200ml",
+        "qty": 1,
+        "unit_price": 449
+      },
+      {
+        "sku": "SKU-LB-003",
+        "name": "Nourishing Lip Balm",
+        "qty": 2,
+        "unit_price": 199
+      }
+    ],
+    "total_amount": 2445,
+    "currency": "INR",
+    "status": "completed"
+  },
+  {
+    "order_id": "ORD-00017",
+    "customer_id": "CUST-0070",
+    "order_date": "10/01/2026",
+    "items": [
+      {
+        "sku": "SKU-MC-007",
+        "name": "Hydrating Moisturizer 50ml",
+        "qty": 1,
+        "unit_price": 549
+      },
+      {
+        "sku": "SKU-FM-005",
+        "name": "Clay Face Mask 75g",
+        "qty": 1,
+        "unit_price": 599
+      }
+    ],
+    "total_amount": 1148,
+    "currency": "INR",
+    "status": "completed"
+  },
+  {
+    "order_id": "ORD-00247",
+    "customer_id": "CUST-0102",
+    "order_date": "10/04/2026",
+    "items": [
+      {
+        "sku": "SKU-SC-014",
+        "name": "Vitamin C Serum 30ml",
+        "qty": 3,
+        "unit_price": 799
+      },
+      {
+        "sku": "SKU-MC-007",
+        "name": "Hydrating Moisturizer 50ml",
+        "qty": 3,
+        "unit_price": 549
+      }
+    ],
+    "total_amount": 4044,
+    "currency": "INR",
+    "status": "completed"
+  },
+  {
+    "order_id": "ORD-00067",
+    "customer_id": "CUST-0081",
+    "order_date": "08/11/2025",
+    "items": [
+      {
+        "sku": "SKU-FM-005",
+        "name": "Clay Face Mask 75g",
+        "qty": 2,
+        "unit_price": 599
+      },
+      {
+        "sku": "SKU-BW-011",
+        "name": "Body Wash Citrus 250ml",
+        "qty": 3,
+        "unit_price": 399
+      },
+      {
+        "sku": "SKU-LB-003",
+        "name": "Nourishing Lip Balm",
+        "qty": 3,
+        "unit_price": 199
+      },
+      {
+        "sku": "SKU-SH-019",
+        "name": "Anti-Dandruff Shampoo 200ml",
+        "qty": 3,
+        "unit_price": 449
+      }
+    ],
+    "total_amount": 4339,
+    "currency": "INR",
+    "status": "completed"
+  },
+  {
+    "order_id": "ORD-00081",
+    "customer_id": "CUST-0005",
+    "order_date": "2026-03-21T04:18:00Z",
+    "items": [
+      {
+        "sku": "SKU-FM-005",
+        "name": "Clay Face Mask 75g",
+        "qty": 3,
+        "unit_price": 599
+      },
+      {
+        "sku": "SKU-SH-019",
+        "name": "Anti-Dandruff Shampoo 200ml",
+        "qty": 2,
+        "unit_price": 449
+      },
+      {
+        "sku": "SKU-SC-014",
+        "name": "Vitamin C Serum 30ml",
+        "qty": 2,
+        "unit_price": 799
+      }
+    ],
+    "total_amount": 4293,
+    "currency": "INR",
+    "status": "completed"
+  },
+  {
+    "order_id": "ORD-00103",
+    "customer_id": "CUST-0006",
+    "order_date": 1761091500,
+    "items": [
+      {
+        "sku": "SKU-SS-022",
+        "name": "Mineral Sunscreen SPF50 50ml",
+        "qty": 2,
+        "unit_price": 649
+      },
+      {
+        "sku": "SKU-BW-011",
+        "name": "Body Wash Citrus 250ml",
+        "qty": 3,
+        "unit_price": 399
+      },
+      {
+        "sku": "SKU-LB-003",
+        "name": "Nourishing Lip Balm",
+        "qty": 3,
+        "unit_price": 199
+      }
+    ],
+    "total_amount": 3092,
+    "currency": "INR",
+    "status": "completed"
+  },
+  {
+    "order_id": "ORD-00084",
+    "customer_id": "CUST-0024",
+    "order_date": "2026-02-01T18:26:00Z",
+    "items": [
+      {
+        "sku": "SKU-SH-019",
+        "name": "Anti-Dandruff Shampoo 200ml",
+        "qty": 1,
+        "unit_price": 449
+      }
+    ],
+    "total_amount": -449,
+    "currency": "INR",
+    "status": "refunded"
+  },
+  {
+    "order_id": "ORD-00108",
+    "customer_id": "CUST-0064",
+    "order_date": "2025-10-25T01:54:00Z",
+    "items": [
+      {
+        "sku": "SKU-LB-003",
+        "name": "Nourishing Lip Balm",
+        "qty": 2,
+        "unit_price": 199
+      },
+      {
+        "sku": "SKU-FM-005",
+        "name": "Clay Face Mask 75g",
+        "qty": 1,
+        "unit_price": 599
+      },
+      {
+        "sku": "SKU-FW-001",
+        "name": "Everyday Face Wash 100ml",
+        "qty": 2,
+        "unit_price": 349
+      },
+      {
+        "sku": "SKU-SH-019",
+        "name": "Anti-Dandruff Shampoo 200ml",
+        "qty": 3,
+        "unit_price": 449
+      }
+    ],
+    "total_amount": 3042,
+    "currency": "INR",
+    "status": "completed"
+  },
+  {
+    "order_id": "ORD-00145",
+    "customer_id": "CUST-0031",
+    "order_date": "2026-01-13T12:58:00Z",
+    "items": [
+      {
+        "sku": "SKU-LB-003",
+        "name": "Nourishing Lip Balm",
+        "qty": 3,
+        "unit_price": 199
+      },
+      {
+        "sku": "SKU-SS-022",
+        "name": "Mineral Sunscreen SPF50 50ml",
+        "qty": 3,
+        "unit_price": 649
+      },
+      {
+        "sku": "SKU-BW-011",
+        "name": "Body Wash Citrus 250ml",
+        "qty": 2,
+        "unit_price": 399
+      }
+    ],
+    "total_amount": 3342,
+    "currency": "INR",
+    "status": "completed"
+  },
+  {
+    "order_id": "ORD-00224",
+    "customer_id": "CUST-0108",
+    "order_date": "2025-12-12T18:12:00Z",
+    "items": [
+      {
+        "sku": "SKU-LB-003",
+        "name": "Nourishing Lip Balm",
+        "qty": 1,
+        "unit_price": 199
+      },
+      {
+        "sku": "SKU-SC-014",
+        "name": "Vitamin C Serum 30ml",
+        "qty": 1,
+        "unit_price": 799
+      },
+      {
+        "sku": "SKU-SS-022",
+        "name": "Mineral Sunscreen SPF50 50ml",
+        "qty": 1,
+        "unit_price": 649
+      },
+      {
+        "sku": "SKU-FW-001",
+        "name": "Everyday Face Wash 100ml",
+        "qty": 3,
+        "unit_price": 349
+      }
+    ],
+    "total_amount": 2694,
+    "currency": "INR",
+    "status": "completed"
+  },
+  {
+    "order_id": "ORD-00033",
+    "customer_id": "CUST-0056",
+    "order_date": "2026-02-28T11:23:00Z",
+    "items": [
+      {
+        "sku": "SKU-SS-022",
+        "name": "Mineral Sunscreen SPF50 50ml",
+        "qty": 2,
+        "unit_price": 649
+      },
+      {
+        "sku": "SKU-LB-003",
+        "name": "Nourishing Lip Balm",
+        "qty": 3,
+        "unit_price": 199
+      }
+    ],
+    "total_amount": 1895,
+    "currency": "INR",
+    "status": "completed"
+  },
+  {
+    "order_id": "ORD-00029",
+    "customer_id": "CUST-0102",
+    "order_date": "2026-04-14T12:42:00Z",
+    "items": [
+      {
+        "sku": "SKU-FM-005",
+        "name": "Clay Face Mask 75g",
+        "qty": 1,
+        "unit_price": 599
+      },
+      {
+        "sku": "SKU-FW-001",
+        "name": "Everyday Face Wash 100ml",
+        "qty": 3,
+        "unit_price": 349
+      }
+    ],
+    "total_amount": 1646,
+    "currency": "INR",
+    "status": "cancelled"
+  },
+  {
+    "order_id": "ORD-00190",
+    "customer_id": "CUST-0120",
+    "order_date": "04/03/2026",
+    "items": [
+      {
+        "sku": "SKU-SC-014",
+        "name": "Vitamin C Serum 30ml",
+        "qty": 2,
+        "unit_price": 799
+      },
+      {
+        "sku": "SKU-SH-019",
+        "name": "Anti-Dandruff Shampoo 200ml",
+        "qty": 1,
+        "unit_price": 449
+      },
+      {
+        "sku": "SKU-MC-007",
+        "name": "Hydrating Moisturizer 50ml",
+        "qty": 2,
+        "unit_price": 549
+      }
+    ],
+    "total_amount": 3145,
+    "currency": "INR",
+    "status": "completed"
+  },
+  {
+    "order_id": "ORD-00115",
+    "customer_id": "CUST-0067",
+    "order_date": 1762034880,
+    "items": [
+      {
+        "sku": "SKU-SH-019",
+        "name": "Anti-Dandruff Shampoo 200ml",
+        "qty": 2,
+        "unit_price": 449
+      },
+      {
+        "sku": "SKU-FM-005",
+        "name": "Clay Face Mask 75g",
+        "qty": 3,
+        "unit_price": 599
+      }
+    ],
+    "total_amount": 2695,
+    "currency": "INR",
+    "status": "completed"
+  },
+  {
+    "order_id": "ORD-00045",
+    "customer_id": "CUST-0088",
+    "order_date": "29/01/2026",
+    "items": [
+      {
+        "sku": "SKU-SH-019",
+        "name": "Anti-Dandruff Shampoo 200ml",
+        "qty": 2,
+        "unit_price": 449
+      },
+      {
+        "sku": "SKU-FW-001",
+        "name": "Everyday Face Wash 100ml",
+        "qty": 1,
+        "unit_price": 349
+      },
+      {
+        "sku": "SKU-SS-022",
+        "name": "Mineral Sunscreen SPF50 50ml",
+        "qty": 1,
+        "unit_price": 649
+      }
+    ],
+    "total_amount": -1896,
+    "currency": "INR",
+    "status": "refunded"
+  },
+  {
+    "order_id": "ORD-00111",
+    "customer_id": "CUST-0021",
+    "order_date": "2026-03-17T19:20:00Z",
+    "items": [
+      {
+        "sku": "SKU-LB-003",
+        "name": "Nourishing Lip Balm",
+        "qty": 3,
+        "unit_price": 199
+      },
+      {
+        "sku": "SKU-FM-005",
+        "name": "Clay Face Mask 75g",
+        "qty": 3,
+        "unit_price": 599
+      },
+      {
+        "sku": "SKU-MC-007",
+        "name": "Hydrating Moisturizer 50ml",
+        "qty": 2,
+        "unit_price": 549
+      },
+      {
+        "sku": "SKU-BW-011",
+        "name": "Body Wash Citrus 250ml",
+        "qty": 3,
+        "unit_price": 399
+      }
+    ],
+    "total_amount": 4689,
+    "currency": "INR",
+    "status": "completed"
+  },
+  {
+    "order_id": "ORD-00113",
+    "customer_id": "CUST-0075",
+    "order_date": 1769382180,
+    "items": [
+      {
+        "sku": "SKU-MC-007",
+        "name": "Hydrating Moisturizer 50ml",
+        "qty": 2,
+        "unit_price": 549
+      },
+      {
+        "sku": "SKU-LB-003",
+        "name": "Nourishing Lip Balm",
+        "qty": 1,
+        "unit_price": 199
+      },
+      {
+        "sku": "SKU-SH-019",
+        "name": "Anti-Dandruff Shampoo 200ml",
+        "qty": 3,
+        "unit_price": 449
+      },
+      {
+        "sku": "SKU-BW-011",
+        "name": "Body Wash Citrus 250ml",
+        "qty": 1,
+        "unit_price": 399
+      }
+    ],
+    "total_amount": 3043,
+    "currency": "INR",
+    "status": "completed"
+  },
+  {
+    "order_id": "ORD-00028",
+    "customer_id": "CUST-0071",
+    "order_date": "05/06/2026",
+    "items": [
+      {
+        "sku": "SKU-FM-005",
+        "name": "Clay Face Mask 75g",
+        "qty": 3,
+        "unit_price": 599
+      },
+      {
+        "sku": "SKU-MC-007",
+        "name": "Hydrating Moisturizer 50ml",
+        "qty": 2,
+        "unit_price": 549
+      },
+      {
+        "sku": "SKU-SC-014",
+        "name": "Vitamin C Serum 30ml",
+        "qty": 1,
+        "unit_price": 799
+      },
+      {
+        "sku": "SKU-SH-019",
+        "name": "Anti-Dandruff Shampoo 200ml",
+        "qty": 2,
+        "unit_price": 449
+      }
+    ],
+    "total_amount": 4592,
+    "currency": "INR",
+    "status": "completed"
+  },
+  {
+    "order_id": "ORD-00207",
+    "customer_id": "CUST-0048",
+    "order_date": "2026-02-16T02:36:00Z",
+    "items": [
+      {
+        "sku": "SKU-FW-001",
+        "name": "Everyday Face Wash 100ml",
+        "qty": 1,
+        "unit_price": 349
+      }
+    ],
+    "total_amount": 349,
+    "currency": "INR",
+    "status": "completed"
+  },
+  {
+    "order_id": "ORD-00139",
+    "customer_id": "CUST-0113",
+    "order_date": 1773472740,
+    "items": [
+      {
+        "sku": "SKU-SS-022",
+        "name": "Mineral Sunscreen SPF50 50ml",
+        "qty": 2,
+        "unit_price": 649
+      },
+      {
+        "sku": "SKU-FM-005",
+        "name": "Clay Face Mask 75g",
+        "qty": 2,
+        "unit_price": 599
+      }
+    ],
+    "total_amount": 2496,
+    "currency": "INR",
+    "status": "completed"
+  },
+  {
+    "order_id": "ORD-00096",
+    "customer_id": "CUST-0041",
+    "order_date": 1763157240,
+    "items": [
+      {
+        "sku": "SKU-SC-014",
+        "name": "Vitamin C Serum 30ml",
+        "qty": 2,
+        "unit_price": 799
+      },
+      {
+        "sku": "SKU-LB-003",
+        "name": "Nourishing Lip Balm",
+        "qty": 2,
+        "unit_price": 199
+      },
+      {
+        "sku": "SKU-BW-011",
+        "name": "Body Wash Citrus 250ml",
+        "qty": 1,
+        "unit_price": 399
+      }
+    ],
+    "total_amount": 2395,
+    "currency": "INR",
+    "status": "completed"
+  },
+  {
+    "order_id": "ORD-00173",
+    "customer_id": "CUST-0071",
+    "order_date": "2026-02-02T16:11:00Z",
+    "items": [
+      {
+        "sku": "SKU-SH-019",
+        "name": "Anti-Dandruff Shampoo 200ml",
+        "qty": 2,
+        "unit_price": 449
+      },
+      {
+        "sku": "SKU-LB-003",
+        "name": "Nourishing Lip Balm",
+        "qty": 2,
+        "unit_price": 199
+      }
+    ],
+    "total_amount": 1296,
+    "currency": "INR",
+    "status": "completed"
+  },
+  {
+    "order_id": "ORD-00119",
+    "customer_id": "CUST-0106",
+    "order_date": "2026-06-03T06:12:00Z",
+    "items": [
+      {
+        "sku": "SKU-LB-003",
+        "name": "Nourishing Lip Balm",
+        "qty": 3,
+        "unit_price": 199
+      },
+      {
+        "sku": "SKU-SC-014",
+        "name": "Vitamin C Serum 30ml",
+        "qty": 3,
+        "unit_price": 799
+      },
+      {
+        "sku": "SKU-FW-001",
+        "name": "Everyday Face Wash 100ml",
+        "qty": 3,
+        "unit_price": 349
+      }
+    ],
+    "total_amount": 4041,
+    "currency": "INR",
+    "status": "completed"
+  },
+  {
+    "order_id": "ORD-00124",
+    "customer_id": "CUST-0065",
+    "order_date": "2026-06-10T04:54:00Z",
+    "items": [
+      {
+        "sku": "SKU-LB-003",
+        "name": "Nourishing Lip Balm",
+        "qty": 1,
+        "unit_price": 199
+      },
+      {
+        "sku": "SKU-SC-014",
+        "name": "Vitamin C Serum 30ml",
+        "qty": 3,
+        "unit_price": 799
+      },
+      {
+        "sku": "SKU-FW-001",
+        "name": "Everyday Face Wash 100ml",
+        "qty": 2,
+        "unit_price": 349
+      },
+      {
+        "sku": "SKU-MC-007",
+        "name": "Hydrating Moisturizer 50ml",
+        "qty": 3,
+        "unit_price": 549
+      }
+    ],
+    "total_amount": 4941,
+    "currency": "INR",
+    "status": "completed"
+  },
+  {
+    "order_id": "ORD-00243",
+    "customer_id": "CUST-0045",
+    "order_date": "2026-02-24T17:56:00Z",
+    "items": [
+      {
+        "sku": "SKU-LB-003",
+        "name": "Nourishing Lip Balm",
+        "qty": 3,
+        "unit_price": 199
+      },
+      {
+        "sku": "SKU-SS-022",
+        "name": "Mineral Sunscreen SPF50 50ml",
+        "qty": 3,
+        "unit_price": 649
+      },
+      {
+        "sku": "SKU-SH-019",
+        "name": "Anti-Dandruff Shampoo 200ml",
+        "qty": 2,
+        "unit_price": 449
+      },
+      {
+        "sku": "SKU-BW-011",
+        "name": "Body Wash Citrus 250ml",
+        "qty": 1,
+        "unit_price": 399
+      }
+    ],
+    "total_amount": 3841,
+    "currency": "INR",
+    "status": "completed"
+  },
+  {
+    "order_id": "ORD-00094",
+    "customer_id": "CUST-0068",
+    "order_date": "2025-11-09T18:08:00Z",
+    "items": [
+      {
+        "sku": "SKU-BW-011",
+        "name": "Body Wash Citrus 250ml",
+        "qty": 2,
+        "unit_price": 399
+      },
+      {
+        "sku": "SKU-MC-007",
+        "name": "Hydrating Moisturizer 50ml",
+        "qty": 1,
+        "unit_price": 549
+      },
+      {
+        "sku": "SKU-SH-019",
+        "name": "Anti-Dandruff Shampoo 200ml",
+        "qty": 1,
+        "unit_price": 449
+      }
+    ],
+    "total_amount": 1796,
+    "currency": "INR",
+    "status": "completed"
+  },
+  {
+    "order_id": "ORD-00072",
+    "customer_id": "CUST-0085",
+    "order_date": "2026-02-07T23:54:00Z",
+    "items": [
+      {
+        "sku": "SKU-SH-019",
+        "name": "Anti-Dandruff Shampoo 200ml",
+        "qty": 3,
+        "unit_price": 449
+      },
+      {
+        "sku": "SKU-FW-001",
+        "name": "Everyday Face Wash 100ml",
+        "qty": 3,
+        "unit_price": 349
+      }
+    ],
+    "total_amount": 2394,
+    "currency": "INR",
+    "status": "completed"
+  },
+  {
+    "order_id": "ORD-00206",
+    "customer_id": "CUST-0110",
+    "order_date": "2025-12-16T05:59:00Z",
+    "items": [
+      {
+        "sku": "SKU-BW-011",
+        "name": "Body Wash Citrus 250ml",
+        "qty": 1,
+        "unit_price": 399
+      }
+    ],
+    "total_amount": 399,
+    "currency": "INR",
+    "status": "completed"
+  },
+  {
+    "order_id": "ORD-00166",
+    "customer_id": "CUST-0091",
+    "order_date": "14/10/2025",
+    "items": [
+      {
+        "sku": "SKU-FM-005",
+        "name": "Clay Face Mask 75g",
+        "qty": 2,
+        "unit_price": 599
+      },
+      {
+        "sku": "SKU-BW-011",
+        "name": "Body Wash Citrus 250ml",
+        "qty": 3,
+        "unit_price": 399
+      }
+    ],
+    "total_amount": 2395,
+    "currency": "INR",
+    "status": "completed"
+  },
+  {
+    "order_id": "ORD-00043",
+    "customer_id": "CUST-0082",
+    "order_date": "2026-01-22T20:04:00Z",
+    "items": [
+      {
+        "sku": "SKU-LB-003",
+        "name": "Nourishing Lip Balm",
+        "qty": 1,
+        "unit_price": 199
+      },
+      {
+        "sku": "SKU-SH-019",
+        "name": "Anti-Dandruff Shampoo 200ml",
+        "qty": 1,
+        "unit_price": 449
+      },
+      {
+        "sku": "SKU-SS-022",
+        "name": "Mineral Sunscreen SPF50 50ml",
+        "qty": 1,
+        "unit_price": 649
+      },
+      {
+        "sku": "SKU-FW-001",
+        "name": "Everyday Face Wash 100ml",
+        "qty": 2,
+        "unit_price": 349
+      }
+    ],
+    "total_amount": 1995,
+    "currency": "INR",
+    "status": "cancelled"
+  },
+  {
+    "order_id": "ORD-00079",
+    "customer_id": "CUST-0098",
+    "order_date": "2025-12-03T09:05:00Z",
+    "items": [
+      {
+        "sku": "SKU-LB-003",
+        "name": "Nourishing Lip Balm",
+        "qty": 3,
+        "unit_price": 199
+      },
+      {
+        "sku": "SKU-SS-022",
+        "name": "Mineral Sunscreen SPF50 50ml",
+        "qty": 1,
+        "unit_price": 649
+      }
+    ],
+    "total_amount": 1246,
+    "currency": "INR",
+    "status": "completed"
+  },
+  {
+    "order_id": "ORD-00039",
+    "customer_id": "CUST-0054",
+    "order_date": 1772362020,
+    "items": [
+      {
+        "sku": "SKU-SS-022",
+        "name": "Mineral Sunscreen SPF50 50ml",
+        "qty": 3,
+        "unit_price": 649
+      },
+      {
+        "sku": "SKU-SC-014",
+        "name": "Vitamin C Serum 30ml",
+        "qty": 2,
+        "unit_price": 799
+      }
+    ],
+    "total_amount": 3545,
+    "currency": "INR",
+    "status": "completed"
+  },
+  {
+    "order_id": "ORD-00140",
+    "customer_id": "CUST-0055",
+    "order_date": "2025-12-29T20:43:00Z",
+    "items": [
+      {
+        "sku": "SKU-FW-001",
+        "name": "Everyday Face Wash 100ml",
+        "qty": 3,
+        "unit_price": 349
+      },
+      {
+        "sku": "SKU-MC-007",
+        "name": "Hydrating Moisturizer 50ml",
+        "qty": 2,
+        "unit_price": 549
+      },
+      {
+        "sku": "SKU-SH-019",
+        "name": "Anti-Dandruff Shampoo 200ml",
+        "qty": 3,
+        "unit_price": 449
+      },
+      {
+        "sku": "SKU-SS-022",
+        "name": "Mineral Sunscreen SPF50 50ml",
+        "qty": 2,
+        "unit_price": 649
+      }
+    ],
+    "total_amount": 4790,
+    "currency": "INR",
+    "status": "completed"
+  },
+  {
+    "order_id": "ORD-00179",
+    "customer_id": "CUST-0018",
+    "order_date": "02/04/2026",
+    "items": [
+      {
+        "sku": "SKU-BW-011",
+        "name": "Body Wash Citrus 250ml",
+        "qty": 3,
+        "unit_price": 399
+      },
+      {
+        "sku": "SKU-LB-003",
+        "name": "Nourishing Lip Balm",
+        "qty": 3,
+        "unit_price": 199
+      }
+    ],
+    "total_amount": 1794,
+    "currency": "INR",
+    "status": "completed"
+  },
+  {
+    "order_id": "ORD-00259",
+    "customer_id": "CUST-0075",
+    "order_date": 1773918960,
+    "items": [
+      {
+        "sku": "SKU-FM-005",
+        "name": "Clay Face Mask 75g",
+        "qty": 2,
+        "unit_price": 599
+      },
+      {
+        "sku": "SKU-BW-011",
+        "name": "Body Wash Citrus 250ml",
+        "qty": 1,
+        "unit_price": 399
+      },
+      {
+        "sku": "SKU-FW-001",
+        "name": "Everyday Face Wash 100ml",
+        "qty": 3,
+        "unit_price": 349
+      }
+    ],
+    "total_amount": 2644,
+    "currency": "INR",
+    "status": "completed"
+  },
+  {
+    "order_id": "ORD-00219",
+    "customer_id": "CUST-0023",
+    "order_date": "14/04/2026",
+    "items": [
+      {
+        "sku": "SKU-SS-022",
+        "name": "Mineral Sunscreen SPF50 50ml",
+        "qty": 2,
+        "unit_price": 649
+      },
+      {
+        "sku": "SKU-SC-014",
+        "name": "Vitamin C Serum 30ml",
+        "qty": 2,
+        "unit_price": 799
+      },
+      {
+        "sku": "SKU-MC-007",
+        "name": "Hydrating Moisturizer 50ml",
+        "qty": 1,
+        "unit_price": 549
+      }
+    ],
+    "total_amount": 3445,
+    "currency": "INR",
+    "status": "completed"
+  },
+  {
+    "order_id": "ORD-00011",
+    "customer_id": "CUST-0025",
+    "order_date": "2026-02-22T03:53:00Z",
+    "items": [
+      {
+        "sku": "SKU-SS-022",
+        "name": "Mineral Sunscreen SPF50 50ml",
+        "qty": 2,
+        "unit_price": 649
+      },
+      {
+        "sku": "SKU-MC-007",
+        "name": "Hydrating Moisturizer 50ml",
+        "qty": 1,
+        "unit_price": 549
+      },
+      {
+        "sku": "SKU-SC-014",
+        "name": "Vitamin C Serum 30ml",
+        "qty": 3,
+        "unit_price": 799
+      }
+    ],
+    "total_amount": 4244,
+    "currency": "INR",
+    "status": "completed"
+  },
+  {
+    "order_id": "ORD-00141",
+    "customer_id": "CUST-0029",
+    "order_date": "31/05/2026",
+    "items": [
+      {
+        "sku": "SKU-MC-007",
+        "name": "Hydrating Moisturizer 50ml",
+        "qty": 1,
+        "unit_price": 549
+      },
+      {
+        "sku": "SKU-BW-011",
+        "name": "Body Wash Citrus 250ml",
+        "qty": 3,
+        "unit_price": 399
+      },
+      {
+        "sku": "SKU-SS-022",
+        "name": "Mineral Sunscreen SPF50 50ml",
+        "qty": 2,
+        "unit_price": 649
+      }
+    ],
+    "total_amount": 3044,
+    "currency": "INR",
+    "status": "cancelled"
+  },
+  {
+    "order_id": "ORD-00171",
+    "customer_id": "CUST-0101",
+    "order_date": "09/03/2026",
+    "items": [
+      {
+        "sku": "SKU-FM-005",
+        "name": "Clay Face Mask 75g",
+        "qty": 2,
+        "unit_price": 599
+      },
+      {
+        "sku": "SKU-MC-007",
+        "name": "Hydrating Moisturizer 50ml",
+        "qty": 1,
+        "unit_price": 549
+      }
+    ],
+    "total_amount": 1747,
+    "currency": "INR",
+    "status": "completed"
+  },
+  {
+    "order_id": "ORD-00064",
+    "customer_id": "CUST-0091",
+    "order_date": 1778264700,
+    "items": [
+      {
+        "sku": "SKU-LB-003",
+        "name": "Nourishing Lip Balm",
+        "qty": 2,
+        "unit_price": 199
+      },
+      {
+        "sku": "SKU-FW-001",
+        "name": "Everyday Face Wash 100ml",
+        "qty": 1,
+        "unit_price": 349
+      },
+      {
+        "sku": "SKU-SS-022",
+        "name": "Mineral Sunscreen SPF50 50ml",
+        "qty": 3,
+        "unit_price": 649
+      },
+      {
+        "sku": "SKU-BW-011",
+        "name": "Body Wash Citrus 250ml",
+        "qty": 2,
+        "unit_price": 399
+      }
+    ],
+    "total_amount": 3492,
+    "currency": "INR",
+    "status": "completed"
+  },
+  {
+    "order_id": "ORD-00210",
+    "customer_id": "CUST-0098",
+    "order_date": "2025-10-05T10:00:00Z",
+    "items": [
+      {
+        "sku": "SKU-LB-003",
+        "name": "Nourishing Lip Balm",
+        "qty": 1,
+        "unit_price": 199
+      },
+      {
+        "sku": "SKU-FW-001",
+        "name": "Everyday Face Wash 100ml",
+        "qty": 2,
+        "unit_price": 349
+      },
+      {
+        "sku": "SKU-SC-014",
+        "name": "Vitamin C Serum 30ml",
+        "qty": 2,
+        "unit_price": 799
+      },
+      {
+        "sku": "SKU-FM-005",
+        "name": "Clay Face Mask 75g",
+        "qty": 1,
+        "unit_price": 599
+      }
+    ],
+    "total_amount": 3094,
+    "currency": "INR",
+    "status": "cancelled"
+  },
+  {
+    "order_id": "ORD-00019",
+    "customer_id": "CUST-0004",
+    "order_date": "15/03/2026",
+    "items": [
+      {
+        "sku": "SKU-SS-022",
+        "name": "Mineral Sunscreen SPF50 50ml",
+        "qty": 3,
+        "unit_price": 649
+      }
+    ],
+    "total_amount": 1947,
+    "currency": "INR",
+    "status": "completed"
+  },
+  {
+    "order_id": "ORD-00142",
+    "customer_id": "CUST-0043",
+    "order_date": "02/02/2026",
+    "items": [
+      {
+        "sku": "SKU-FM-005",
+        "name": "Clay Face Mask 75g",
+        "qty": 2,
+        "unit_price": 599
+      }
+    ],
+    "total_amount": 1198,
+    "currency": "INR",
+    "status": "completed"
+  },
+  {
+    "order_id": "ORD-00208",
+    "customer_id": "CUST-0071",
+    "order_date": "2026-03-09T10:05:00Z",
+    "items": [
+      {
+        "sku": "SKU-FW-001",
+        "name": "Everyday Face Wash 100ml",
+        "qty": 3,
+        "unit_price": 349
+      },
+      {
+        "sku": "SKU-MC-007",
+        "name": "Hydrating Moisturizer 50ml",
+        "qty": 2,
+        "unit_price": 549
+      },
+      {
+        "sku": "SKU-SC-014",
+        "name": "Vitamin C Serum 30ml",
+        "qty": 3,
+        "unit_price": 799
+      },
+      {
+        "sku": "SKU-BW-011",
+        "name": "Body Wash Citrus 250ml",
+        "qty": 3,
+        "unit_price": 399
+      }
+    ],
+    "total_amount": 5739,
+    "currency": "INR",
+    "status": "completed"
+  },
+  {
+    "order_id": "ORD-00061",
+    "customer_id": "CUST-0040",
+    "order_date": "2026-06-07T16:42:00Z",
+    "items": [
+      {
+        "sku": "SKU-SS-022",
+        "name": "Mineral Sunscreen SPF50 50ml",
+        "qty": 2,
+        "unit_price": 649
+      }
+    ],
+    "total_amount": 1298,
+    "currency": "INR",
+    "status": "cancelled"
+  },
+  {
+    "order_id": "ORD-00254",
+    "customer_id": "CUST-0108",
+    "order_date": "2025-10-04T16:42:00Z",
+    "items": [
+      {
+        "sku": "SKU-LB-003",
+        "name": "Nourishing Lip Balm",
+        "qty": 1,
+        "unit_price": 199
+      },
+      {
+        "sku": "SKU-MC-007",
+        "name": "Hydrating Moisturizer 50ml",
+        "qty": 2,
+        "unit_price": 549
+      },
+      {
+        "sku": "SKU-SH-019",
+        "name": "Anti-Dandruff Shampoo 200ml",
+        "qty": 1,
+        "unit_price": 449
+      }
+    ],
+    "total_amount": 1746,
+    "currency": "INR",
+    "status": "completed"
+  },
+  {
+    "order_id": "ORD-00026",
+    "customer_id": "CUST-0071",
+    "order_date": "2026-05-30T07:29:00Z",
+    "items": [
+      {
+        "sku": "SKU-BW-011",
+        "name": "Body Wash Citrus 250ml",
+        "qty": 3,
+        "unit_price": 399
+      },
+      {
+        "sku": "SKU-SC-014",
+        "name": "Vitamin C Serum 30ml",
+        "qty": 3,
+        "unit_price": 799
+      }
+    ],
+    "total_amount": 3594,
+    "currency": "INR",
+    "status": "completed"
+  },
+  {
+    "order_id": "ORD-00264",
+    "customer_id": "CUST-0040",
+    "order_date": "2026-04-15T16:37:00Z",
+    "items": [
+      {
+        "sku": "SKU-SC-014",
+        "name": "Vitamin C Serum 30ml",
+        "qty": 1,
+        "unit_price": 799
+      },
+      {
+        "sku": "SKU-BW-011",
+        "name": "Body Wash Citrus 250ml",
+        "qty": 2,
+        "unit_price": 399
+      }
+    ],
+    "total_amount": -1597,
+    "currency": "INR",
+    "status": "refunded"
+  },
+  {
+    "order_id": "ORD-00037",
+    "customer_id": "CUST-0064",
+    "order_date": "26/10/2025",
+    "items": [
+      {
+        "sku": "SKU-SS-022",
+        "name": "Mineral Sunscreen SPF50 50ml",
+        "qty": 1,
+        "unit_price": 649
+      },
+      {
+        "sku": "SKU-LB-003",
+        "name": "Nourishing Lip Balm",
+        "qty": 3,
+        "unit_price": 199
+      },
+      {
+        "sku": "SKU-MC-007",
+        "name": "Hydrating Moisturizer 50ml",
+        "qty": 1,
+        "unit_price": 549
+      }
+    ],
+    "total_amount": 1795,
+    "currency": "INR",
+    "status": "completed"
+  },
+  {
+    "order_id": "ORD-00116",
+    "customer_id": "CUST-0087",
+    "order_date": 1774459320,
+    "items": [
+      {
+        "sku": "SKU-FM-005",
+        "name": "Clay Face Mask 75g",
+        "qty": 2,
+        "unit_price": 599
+      },
+      {
+        "sku": "SKU-SC-014",
+        "name": "Vitamin C Serum 30ml",
+        "qty": 3,
+        "unit_price": 799
+      },
+      {
+        "sku": "SKU-BW-011",
+        "name": "Body Wash Citrus 250ml",
+        "qty": 2,
+        "unit_price": 399
+      }
+    ],
+    "total_amount": 4393,
+    "currency": "INR",
+    "status": "completed"
+  },
+  {
+    "order_id": "ORD-00262",
+    "customer_id": "CUST-0021",
+    "order_date": "2025-12-26T18:48:00Z",
+    "items": [
+      {
+        "sku": "SKU-SC-014",
+        "name": "Vitamin C Serum 30ml",
+        "qty": 3,
+        "unit_price": 799
+      },
+      {
+        "sku": "SKU-FM-005",
+        "name": "Clay Face Mask 75g",
+        "qty": 2,
+        "unit_price": 599
+      },
+      {
+        "sku": "SKU-LB-003",
+        "name": "Nourishing Lip Balm",
+        "qty": 2,
+        "unit_price": 199
+      },
+      {
+        "sku": "SKU-SS-022",
+        "name": "Mineral Sunscreen SPF50 50ml",
+        "qty": 2,
+        "unit_price": 649
+      }
+    ],
+    "total_amount": 5291,
+    "currency": "INR",
+    "status": "cancelled"
+  },
+  {
+    "order_id": "ORD-00009",
+    "customer_id": "CUST-0068",
+    "order_date": "2026-04-07T15:35:00Z",
+    "items": [
+      {
+        "sku": "SKU-BW-011",
+        "name": "Body Wash Citrus 250ml",
+        "qty": 2,
+        "unit_price": 399
+      },
+      {
+        "sku": "SKU-SH-019",
+        "name": "Anti-Dandruff Shampoo 200ml",
+        "qty": 2,
+        "unit_price": 449
+      },
+      {
+        "sku": "SKU-LB-003",
+        "name": "Nourishing Lip Balm",
+        "qty": 3,
+        "unit_price": 199
+      }
+    ],
+    "total_amount": 2293,
+    "currency": "INR",
+    "status": "completed"
+  },
+  {
+    "order_id": "ORD-00202",
+    "customer_id": "CUST-0091",
+    "order_date": "29/12/2025",
+    "items": [
+      {
+        "sku": "SKU-FW-001",
+        "name": "Everyday Face Wash 100ml",
+        "qty": 2,
+        "unit_price": 349
+      },
+      {
+        "sku": "SKU-SC-014",
+        "name": "Vitamin C Serum 30ml",
+        "qty": 2,
+        "unit_price": 799
+      }
+    ],
+    "total_amount": 2296,
+    "currency": "INR",
+    "status": "completed"
+  },
+  {
+    "order_id": "ORD-00065",
+    "customer_id": "CUST-0076",
+    "order_date": "2025-11-24T07:27:00Z",
+    "items": [
+      {
+        "sku": "SKU-SC-014",
+        "name": "Vitamin C Serum 30ml",
+        "qty": 1,
+        "unit_price": 799
+      },
+      {
+        "sku": "SKU-SS-022",
+        "name": "Mineral Sunscreen SPF50 50ml",
+        "qty": 2,
+        "unit_price": 649
+      },
+      {
+        "sku": "SKU-MC-007",
+        "name": "Hydrating Moisturizer 50ml",
+        "qty": 1,
+        "unit_price": 549
+      },
+      {
+        "sku": "SKU-SH-019",
+        "name": "Anti-Dandruff Shampoo 200ml",
+        "qty": 1,
+        "unit_price": 449
+      }
+    ],
+    "total_amount": 3095,
+    "currency": "INR",
+    "status": "completed"
+  },
+  {
+    "order_id": "ORD-00150",
+    "customer_id": "CUST-0065",
+    "order_date": "17/12/2025",
+    "items": [
+      {
+        "sku": "SKU-SH-019",
+        "name": "Anti-Dandruff Shampoo 200ml",
+        "qty": 2,
+        "unit_price": 449
+      },
+      {
+        "sku": "SKU-FW-001",
+        "name": "Everyday Face Wash 100ml",
+        "qty": 3,
+        "unit_price": 349
+      },
+      {
+        "sku": "SKU-LB-003",
+        "name": "Nourishing Lip Balm",
+        "qty": 2,
+        "unit_price": 199
+      },
+      {
+        "sku": "SKU-FM-005",
+        "name": "Clay Face Mask 75g",
+        "qty": 1,
+        "unit_price": 599
+      }
+    ],
+    "total_amount": 2942,
+    "currency": "INR",
+    "status": "completed"
+  },
+  {
+    "order_id": "ORD-00233",
+    "customer_id": "CUST-0012",
+    "order_date": "2025-11-08T17:57:00Z",
+    "items": [
+      {
+        "sku": "SKU-FM-005",
+        "name": "Clay Face Mask 75g",
+        "qty": 2,
+        "unit_price": 599
+      },
+      {
+        "sku": "SKU-SH-019",
+        "name": "Anti-Dandruff Shampoo 200ml",
+        "qty": 3,
+        "unit_price": 449
+      },
+      {
+        "sku": "SKU-FW-001",
+        "name": "Everyday Face Wash 100ml",
+        "qty": 1,
+        "unit_price": 349
+      }
+    ],
+    "total_amount": 2894,
+    "currency": "INR",
+    "status": "completed"
+  },
+  {
+    "order_id": "ORD-00057",
+    "customer_id": "CUST-0105",
+    "order_date": "08/05/2026",
+    "items": [
+      {
+        "sku": "SKU-LB-003",
+        "name": "Nourishing Lip Balm",
+        "qty": 1,
+        "unit_price": 199
+      }
+    ],
+    "total_amount": 199,
+    "currency": "INR",
+    "status": "completed"
+  },
+  {
+    "order_id": "ORD-00035",
+    "customer_id": "CUST-0045",
+    "order_date": 1766197680,
+    "items": [
+      {
+        "sku": "SKU-BW-011",
+        "name": "Body Wash Citrus 250ml",
+        "qty": 2,
+        "unit_price": 399
+      },
+      {
+        "sku": "SKU-SH-019",
+        "name": "Anti-Dandruff Shampoo 200ml",
+        "qty": 2,
+        "unit_price": 449
+      },
+      {
+        "sku": "SKU-MC-007",
+        "name": "Hydrating Moisturizer 50ml",
+        "qty": 1,
+        "unit_price": 549
+      }
+    ],
+    "total_amount": 2245,
+    "currency": "INR",
+    "status": "cancelled"
+  },
+  {
+    "order_id": "ORD-00200",
+    "customer_id": "CUST-0051",
+    "order_date": 1766164800,
+    "items": [
+      {
+        "sku": "SKU-LB-003",
+        "name": "Nourishing Lip Balm",
+        "qty": 3,
+        "unit_price": 199
+      }
+    ],
+    "total_amount": 597,
+    "currency": "INR",
+    "status": "completed"
+  },
+  {
+    "order_id": "ORD-00099",
+    "customer_id": "CUST-0017",
+    "order_date": "28/04/2026",
+    "items": [
+      {
+        "sku": "SKU-SC-014",
+        "name": "Vitamin C Serum 30ml",
+        "qty": 3,
+        "unit_price": 799
+      },
+      {
+        "sku": "SKU-SS-022",
+        "name": "Mineral Sunscreen SPF50 50ml",
+        "qty": 3,
+        "unit_price": 649
+      },
+      {
+        "sku": "SKU-BW-011",
+        "name": "Body Wash Citrus 250ml",
+        "qty": 2,
+        "unit_price": 399
+      }
+    ],
+    "total_amount": 5142,
+    "currency": "INR",
+    "status": "completed"
+  },
+  {
+    "order_id": "ORD-00071",
+    "customer_id": "CUST-0118",
+    "order_date": "2025-12-21T12:07:00Z",
+    "items": [
+      {
+        "sku": "SKU-BW-011",
+        "name": "Body Wash Citrus 250ml",
+        "qty": 3,
+        "unit_price": 399
+      },
+      {
+        "sku": "SKU-SS-022",
+        "name": "Mineral Sunscreen SPF50 50ml",
+        "qty": 3,
+        "unit_price": 649
+      },
+      {
+        "sku": "SKU-MC-007",
+        "name": "Hydrating Moisturizer 50ml",
+        "qty": 1,
+        "unit_price": 549
+      }
+    ],
+    "total_amount": 3693,
+    "currency": "INR",
+    "status": "completed"
+  },
+  {
+    "order_id": "ORD-00189",
+    "customer_id": "CUST-0081",
+    "order_date": 1761354360,
+    "items": [
+      {
+        "sku": "SKU-FW-001",
+        "name": "Everyday Face Wash 100ml",
+        "qty": 2,
+        "unit_price": 349
+      },
+      {
+        "sku": "SKU-FM-005",
+        "name": "Clay Face Mask 75g",
+        "qty": 1,
+        "unit_price": 599
+      },
+      {
+        "sku": "SKU-SC-014",
+        "name": "Vitamin C Serum 30ml",
+        "qty": 2,
+        "unit_price": 799
+      },
+      {
+        "sku": "SKU-SS-022",
+        "name": "Mineral Sunscreen SPF50 50ml",
+        "qty": 1,
+        "unit_price": 649
+      }
+    ],
+    "total_amount": 3544,
+    "currency": "INR",
+    "status": "cancelled"
+  },
+  {
+    "order_id": "ORD-00281",
+    "customer_id": "CUST-9001",
+    "order_date": 1779580800,
+    "items": [
+      {
+        "sku": "SKU-FM-005",
+        "name": "Clay Face Mask 75g",
+        "qty": 2,
+        "unit_price": 599
+      }
+    ],
+    "total_amount": 1198,
+    "currency": "INR",
+    "status": "completed"
+  },
+  {
+    "order_id": "ORD-00178",
+    "customer_id": "CUST-0082",
+    "order_date": "05/05/2026",
+    "items": [
+      {
+        "sku": "SKU-MC-007",
+        "name": "Hydrating Moisturizer 50ml",
+        "qty": 2,
+        "unit_price": 549
+      },
+      {
+        "sku": "SKU-SS-022",
+        "name": "Mineral Sunscreen SPF50 50ml",
+        "qty": 1,
+        "unit_price": 649
+      }
+    ],
+    "total_amount": 1747,
+    "currency": "INR",
+    "status": "completed"
+  },
+  {
+    "order_id": "ORD-00221",
+    "customer_id": "CUST-0092",
+    "order_date": "2025-10-10T12:50:00Z",
+    "items": [
+      {
+        "sku": "SKU-FM-005",
+        "name": "Clay Face Mask 75g",
+        "qty": 2,
+        "unit_price": 599
+      },
+      {
+        "sku": "SKU-LB-003",
+        "name": "Nourishing Lip Balm",
+        "qty": 3,
+        "unit_price": 199
+      },
+      {
+        "sku": "SKU-SS-022",
+        "name": "Mineral Sunscreen SPF50 50ml",
+        "qty": 3,
+        "unit_price": 649
+      }
+    ],
+    "total_amount": 3742,
+    "currency": "INR",
+    "status": "completed"
+  },
+  {
+    "order_id": "ORD-00137",
+    "customer_id": "CUST-0009",
+    "order_date": "09/10/2025",
+    "items": [
+      {
+        "sku": "SKU-FW-001",
+        "name": "Everyday Face Wash 100ml",
+        "qty": 2,
+        "unit_price": 349
+      }
+    ],
+    "total_amount": 698,
+    "currency": "INR",
+    "status": "completed"
+  },
+  {
+    "order_id": "ORD-00109",
+    "customer_id": "CUST-0065",
+    "order_date": 1771986240,
+    "items": [
+      {
+        "sku": "SKU-LB-003",
+        "name": "Nourishing Lip Balm",
+        "qty": 1,
+        "unit_price": 199
+      },
+      {
+        "sku": "SKU-BW-011",
+        "name": "Body Wash Citrus 250ml",
+        "qty": 1,
+        "unit_price": 399
+      },
+      {
+        "sku": "SKU-FM-005",
+        "name": "Clay Face Mask 75g",
+        "qty": 1,
+        "unit_price": 599
+      },
+      {
+        "sku": "SKU-SH-019",
+        "name": "Anti-Dandruff Shampoo 200ml",
+        "qty": 2,
+        "unit_price": 449
+      }
+    ],
+    "total_amount": 2095,
+    "currency": "INR",
+    "status": "completed"
+  },
+  {
+    "order_id": "ORD-00114",
+    "customer_id": "CUST-0054",
+    "order_date": "10/10/2025",
+    "items": [
+      {
+        "sku": "SKU-BW-011",
+        "name": "Body Wash Citrus 250ml",
+        "qty": 1,
+        "unit_price": 399
+      },
+      {
+        "sku": "SKU-SH-019",
+        "name": "Anti-Dandruff Shampoo 200ml",
+        "qty": 2,
+        "unit_price": 449
+      }
+    ],
+    "total_amount": 1297,
+    "currency": "INR",
+    "status": "completed"
+  },
+  {
+    "order_id": "ORD-00005",
+    "customer_id": "CUST-0067",
+    "order_date": "2026-05-11T05:46:00Z",
+    "items": [
+      {
+        "sku": "SKU-FM-005",
+        "name": "Clay Face Mask 75g",
+        "qty": 3,
+        "unit_price": 599
+      },
+      {
+        "sku": "SKU-SS-022",
+        "name": "Mineral Sunscreen SPF50 50ml",
+        "qty": 3,
+        "unit_price": 649
+      },
+      {
+        "sku": "SKU-BW-011",
+        "name": "Body Wash Citrus 250ml",
+        "qty": 2,
+        "unit_price": 399
+      }
+    ],
+    "total_amount": 4542,
+    "currency": "INR",
+    "status": "completed"
+  },
+  {
+    "order_id": "ORD-00132",
+    "customer_id": "CUST-0105",
+    "order_date": "2025-10-12T12:16:00Z",
+    "items": [
+      {
+        "sku": "SKU-SS-022",
+        "name": "Mineral Sunscreen SPF50 50ml",
+        "qty": 3,
+        "unit_price": 649
+      }
+    ],
+    "total_amount": 1947,
+    "currency": "INR",
+    "status": "completed"
+  },
+  {
+    "order_id": "ORD-00234",
+    "customer_id": "CUST-0039",
+    "order_date": "2026-02-13T21:18:00Z",
+    "items": [
+      {
+        "sku": "SKU-SC-014",
+        "name": "Vitamin C Serum 30ml",
+        "qty": 2,
+        "unit_price": 799
+      },
+      {
+        "sku": "SKU-FW-001",
+        "name": "Everyday Face Wash 100ml",
+        "qty": 3,
+        "unit_price": 349
+      }
+    ],
+    "total_amount": 2645,
+    "currency": "INR",
+    "status": "completed"
+  },
+  {
+    "order_id": "ORD-00193",
+    "customer_id": "CUST-0048",
+    "order_date": "22/11/2025",
+    "items": [
+      {
+        "sku": "SKU-MC-007",
+        "name": "Hydrating Moisturizer 50ml",
+        "qty": 3,
+        "unit_price": 549
+      },
+      {
+        "sku": "SKU-SS-022",
+        "name": "Mineral Sunscreen SPF50 50ml",
+        "qty": 3,
+        "unit_price": 649
+      },
+      {
+        "sku": "SKU-SC-014",
+        "name": "Vitamin C Serum 30ml",
+        "qty": 1,
+        "unit_price": 799
+      }
+    ],
+    "total_amount": 4393,
+    "currency": "INR",
+    "status": "completed"
+  },
+  {
+    "order_id": "ORD-00110",
+    "customer_id": "CUST-0078",
+    "order_date": "06/04/2026",
+    "items": [
+      {
+        "sku": "SKU-FW-001",
+        "name": "Everyday Face Wash 100ml",
+        "qty": 3,
+        "unit_price": 349
+      },
+      {
+        "sku": "SKU-FM-005",
+        "name": "Clay Face Mask 75g",
+        "qty": 2,
+        "unit_price": 599
+      },
+      {
+        "sku": "SKU-BW-011",
+        "name": "Body Wash Citrus 250ml",
+        "qty": 2,
+        "unit_price": 399
+      },
+      {
+        "sku": "SKU-SC-014",
+        "name": "Vitamin C Serum 30ml",
+        "qty": 3,
+        "unit_price": 799
+      }
+    ],
+    "total_amount": 5440,
+    "currency": "INR",
+    "status": "completed"
+  },
+  {
+    "order_id": "ORD-00267",
+    "customer_id": "CUST-0082",
+    "order_date": "2025-10-20T12:56:00Z",
+    "items": [
+      {
+        "sku": "SKU-FW-001",
+        "name": "Everyday Face Wash 100ml",
+        "qty": 3,
+        "unit_price": 349
+      },
+      {
+        "sku": "SKU-LB-003",
+        "name": "Nourishing Lip Balm",
+        "qty": 1,
+        "unit_price": 199
+      },
+      {
+        "sku": "SKU-FM-005",
+        "name": "Clay Face Mask 75g",
+        "qty": 3,
+        "unit_price": 599
+      }
+    ],
+    "total_amount": 3043,
+    "currency": "INR",
+    "status": "completed"
+  },
+  {
+    "order_id": "ORD-00275",
+    "customer_id": "CUST-0109",
+    "order_date": "17/02/2026",
+    "items": [
+      {
+        "sku": "SKU-BW-011",
+        "name": "Body Wash Citrus 250ml",
+        "qty": 1,
+        "unit_price": 399
+      },
+      {
+        "sku": "SKU-SH-019",
+        "name": "Anti-Dandruff Shampoo 200ml",
+        "qty": 3,
+        "unit_price": 449
+      },
+      {
+        "sku": "SKU-SC-014",
+        "name": "Vitamin C Serum 30ml",
+        "qty": 3,
+        "unit_price": 799
+      },
+      {
+        "sku": "SKU-FW-001",
+        "name": "Everyday Face Wash 100ml",
+        "qty": 1,
+        "unit_price": 349
+      }
+    ],
+    "total_amount": 4492,
+    "currency": "INR",
+    "status": "cancelled"
+  },
+  {
+    "order_id": "ORD-00240",
+    "customer_id": "CUST-0028",
+    "order_date": "2026-05-18T05:10:00Z",
+    "items": [
+      {
+        "sku": "SKU-MC-007",
+        "name": "Hydrating Moisturizer 50ml",
+        "qty": 2,
+        "unit_price": 549
+      },
+      {
+        "sku": "SKU-FW-001",
+        "name": "Everyday Face Wash 100ml",
+        "qty": 1,
+        "unit_price": 349
+      }
+    ],
+    "total_amount": 1447,
+    "currency": "INR",
+    "status": "cancelled"
+  },
+  {
+    "order_id": "ORD-00170",
+    "customer_id": "CUST-0051",
+    "order_date": 1769091780,
+    "items": [
+      {
+        "sku": "SKU-MC-007",
+        "name": "Hydrating Moisturizer 50ml",
+        "qty": 1,
+        "unit_price": 549
+      },
+      {
+        "sku": "SKU-FM-005",
+        "name": "Clay Face Mask 75g",
+        "qty": 2,
+        "unit_price": 599
+      },
+      {
+        "sku": "SKU-FW-001",
+        "name": "Everyday Face Wash 100ml",
+        "qty": 2,
+        "unit_price": 349
+      },
+      {
+        "sku": "SKU-SS-022",
+        "name": "Mineral Sunscreen SPF50 50ml",
+        "qty": 1,
+        "unit_price": 649
+      }
+    ],
+    "total_amount": 3094,
+    "currency": "INR",
+    "status": "completed"
+  },
+  {
+    "order_id": "ORD-00218",
+    "customer_id": "CUST-0116",
+    "order_date": "16/05/2026",
+    "items": [
+      {
+        "sku": "SKU-SC-014",
+        "name": "Vitamin C Serum 30ml",
+        "qty": 1,
+        "unit_price": 799
+      },
+      {
+        "sku": "SKU-FW-001",
+        "name": "Everyday Face Wash 100ml",
+        "qty": 1,
+        "unit_price": 349
+      },
+      {
+        "sku": "SKU-SS-022",
+        "name": "Mineral Sunscreen SPF50 50ml",
+        "qty": 3,
+        "unit_price": 649
+      }
+    ],
+    "total_amount": 3095,
+    "currency": "INR",
+    "status": "completed"
+  },
+  {
+    "order_id": "ORD-00062",
+    "customer_id": "CUST-0033",
+    "order_date": "2026-01-17T04:48:00Z",
+    "items": [
+      {
+        "sku": "SKU-SH-019",
+        "name": "Anti-Dandruff Shampoo 200ml",
+        "qty": 2,
+        "unit_price": 449
+      },
+      {
+        "sku": "SKU-FW-001",
+        "name": "Everyday Face Wash 100ml",
+        "qty": 3,
+        "unit_price": 349
+      },
+      {
+        "sku": "SKU-BW-011",
+        "name": "Body Wash Citrus 250ml",
+        "qty": 2,
+        "unit_price": 399
+      }
+    ],
+    "total_amount": 2743,
+    "currency": "INR",
+    "status": "completed"
+  },
+  {
+    "order_id": "ORD-00265",
+    "customer_id": "CUST-0088",
+    "order_date": 1774187760,
+    "items": [
+      {
+        "sku": "SKU-SH-019",
+        "name": "Anti-Dandruff Shampoo 200ml",
+        "qty": 2,
+        "unit_price": 449
+      },
+      {
+        "sku": "SKU-SS-022",
+        "name": "Mineral Sunscreen SPF50 50ml",
+        "qty": 1,
+        "unit_price": 649
+      }
+    ],
+    "total_amount": 1547,
+    "currency": "INR",
+    "status": "completed"
+  },
+  {
+    "order_id": "ORD-00101",
+    "customer_id": "CUST-0115",
+    "order_date": "2026-01-24T11:33:00Z",
+    "items": [
+      {
+        "sku": "SKU-SC-014",
+        "name": "Vitamin C Serum 30ml",
+        "qty": 3,
+        "unit_price": 799
+      },
+      {
+        "sku": "SKU-MC-007",
+        "name": "Hydrating Moisturizer 50ml",
+        "qty": 3,
+        "unit_price": 549
+      },
+      {
+        "sku": "SKU-FM-005",
+        "name": "Clay Face Mask 75g",
+        "qty": 2,
+        "unit_price": 599
+      }
+    ],
+    "total_amount": 5242,
+    "currency": "INR",
+    "status": "completed"
+  },
+  {
+    "order_id": "ORD-00010",
+    "customer_id": "CUST-0096",
+    "order_date": "07/01/2026",
+    "items": [
+      {
+        "sku": "SKU-SS-022",
+        "name": "Mineral Sunscreen SPF50 50ml",
+        "qty": 3,
+        "unit_price": 649
+      },
+      {
+        "sku": "SKU-SC-014",
+        "name": "Vitamin C Serum 30ml",
+        "qty": 2,
+        "unit_price": 799
+      }
+    ],
+    "total_amount": 3545,
+    "currency": "INR",
+    "status": "completed"
+  },
+  {
+    "order_id": "ORD-00283",
+    "customer_id": "CUST-9006",
+    "order_date": "2025-10-10T00:00:00Z",
+    "items": [
+      {
+        "sku": "SKU-SC-014",
+        "name": "Vitamin C Serum 30ml",
+        "qty": 2,
+        "unit_price": 799
+      }
+    ],
+    "total_amount": 1598,
+    "currency": "INR",
+    "status": "completed"
+  },
+  {
+    "order_id": "ORD-00027",
+    "customer_id": "CUST-0101",
+    "order_date": "2026-05-01T10:59:00Z",
+    "items": [
+      {
+        "sku": "SKU-FW-001",
+        "name": "Everyday Face Wash 100ml",
+        "qty": 2,
+        "unit_price": 349
+      },
+      {
+        "sku": "SKU-MC-007",
+        "name": "Hydrating Moisturizer 50ml",
+        "qty": 3,
+        "unit_price": 549
+      },
+      {
+        "sku": "SKU-SH-019",
+        "name": "Anti-Dandruff Shampoo 200ml",
+        "qty": 3,
+        "unit_price": 449
+      }
+    ],
+    "total_amount": 3692,
+    "currency": "INR",
+    "status": "cancelled"
+  },
+  {
+    "order_id": "ORD-00222",
+    "customer_id": "CUST-0104",
+    "order_date": "2025-10-16T08:03:00Z",
+    "items": [
+      {
+        "sku": "SKU-SH-019",
+        "name": "Anti-Dandruff Shampoo 200ml",
+        "qty": 1,
+        "unit_price": 449
+      },
+      {
+        "sku": "SKU-BW-011",
+        "name": "Body Wash Citrus 250ml",
+        "qty": 1,
+        "unit_price": 399
+      },
+      {
+        "sku": "SKU-LB-003",
+        "name": "Nourishing Lip Balm",
+        "qty": 1,
+        "unit_price": 199
+      },
+      {
+        "sku": "SKU-SC-014",
+        "name": "Vitamin C Serum 30ml",
+        "qty": 3,
+        "unit_price": 799
+      }
+    ],
+    "total_amount": 3444,
+    "currency": "INR",
+    "status": "completed"
+  },
+  {
+    "order_id": "ORD-00041",
+    "customer_id": "CUST-0051",
+    "order_date": "2026-04-06T02:50:00Z",
+    "items": [
+      {
+        "sku": "SKU-LB-003",
+        "name": "Nourishing Lip Balm",
+        "qty": 3,
+        "unit_price": 199
+      }
+    ],
+    "total_amount": 597,
+    "currency": "INR",
+    "status": "completed"
+  },
+  {
+    "order_id": "ORD-00044",
+    "customer_id": "CUST-0048",
+    "order_date": "2025-12-09T12:29:00Z",
+    "items": [
+      {
+        "sku": "SKU-MC-007",
+        "name": "Hydrating Moisturizer 50ml",
+        "qty": 2,
+        "unit_price": 549
+      },
+      {
+        "sku": "SKU-SS-022",
+        "name": "Mineral Sunscreen SPF50 50ml",
+        "qty": 3,
+        "unit_price": 649
+      },
+      {
+        "sku": "SKU-SH-019",
+        "name": "Anti-Dandruff Shampoo 200ml",
+        "qty": 2,
+        "unit_price": 449
+      },
+      {
+        "sku": "SKU-FW-001",
+        "name": "Everyday Face Wash 100ml",
+        "qty": 2,
+        "unit_price": 349
+      }
+    ],
+    "total_amount": 4641,
+    "currency": "INR",
+    "status": "completed"
+  },
+  {
+    "order_id": "ORD-00018",
+    "customer_id": "CUST-0060",
+    "order_date": "2026-02-25T14:07:00Z",
+    "items": [
+      {
+        "sku": "SKU-BW-011",
+        "name": "Body Wash Citrus 250ml",
+        "qty": 3,
+        "unit_price": 399
+      },
+      {
+        "sku": "SKU-MC-007",
+        "name": "Hydrating Moisturizer 50ml",
+        "qty": 2,
+        "unit_price": 549
+      },
+      {
+        "sku": "SKU-LB-003",
+        "name": "Nourishing Lip Balm",
+        "qty": 2,
+        "unit_price": 199
+      }
+    ],
+    "total_amount": 2693,
+    "currency": "INR",
+    "status": "completed"
+  },
+  {
+    "order_id": "ORD-00201",
+    "customer_id": "CUST-0056",
+    "order_date": "2026-02-03T02:59:00Z",
+    "items": [
+      {
+        "sku": "SKU-FM-005",
+        "name": "Clay Face Mask 75g",
+        "qty": 3,
+        "unit_price": 599
+      }
+    ],
+    "total_amount": 1797,
+    "currency": "INR",
+    "status": "completed"
+  },
+  {
+    "order_id": "ORD-00106",
+    "customer_id": "CUST-0050",
+    "order_date": "2025-11-19T01:18:00Z",
+    "items": [
+      {
+        "sku": "SKU-SS-022",
+        "name": "Mineral Sunscreen SPF50 50ml",
+        "qty": 3,
+        "unit_price": 649
+      },
+      {
+        "sku": "SKU-BW-011",
+        "name": "Body Wash Citrus 250ml",
+        "qty": 3,
+        "unit_price": 399
+      },
+      {
+        "sku": "SKU-SC-014",
+        "name": "Vitamin C Serum 30ml",
+        "qty": 2,
+        "unit_price": 799
+      },
+      {
+        "sku": "SKU-MC-007",
+        "name": "Hydrating Moisturizer 50ml",
+        "qty": 1,
+        "unit_price": 549
+      }
+    ],
+    "total_amount": 5291,
+    "currency": "INR",
+    "status": "completed"
+  },
+  {
+    "order_id": "ORD-00234",
+    "customer_id": "CUST-0039",
+    "order_date": "2026-02-13T21:24:00Z",
+    "items": [
+      {
+        "sku": "SKU-SC-014",
+        "name": "Vitamin C Serum 30ml",
+        "qty": 2,
+        "unit_price": 799
+      },
+      {
+        "sku": "SKU-FW-001",
+        "name": "Everyday Face Wash 100ml",
+        "qty": 3,
+        "unit_price": 349
+      }
+    ],
+    "total_amount": 2645,
+    "currency": "INR",
+    "status": "completed"
+  },
+  {
+    "order_id": "ORD-00277",
+    "customer_id": "CUST-0063",
+    "order_date": "2025-12-06T15:58:00Z",
+    "items": [
+      {
+        "sku": "SKU-BW-011",
+        "name": "Body Wash Citrus 250ml",
+        "qty": 2,
+        "unit_price": 399
+      }
+    ],
+    "total_amount": 798,
+    "currency": "INR",
+    "status": "completed"
+  },
+  {
+    "order_id": "ORD-00047",
+    "customer_id": "CUST-0076",
+    "order_date": 1762362780,
+    "items": [
+      {
+        "sku": "SKU-SS-022",
+        "name": "Mineral Sunscreen SPF50 50ml",
+        "qty": 1,
+        "unit_price": 649
+      },
+      {
+        "sku": "SKU-MC-007",
+        "name": "Hydrating Moisturizer 50ml",
+        "qty": 3,
+        "unit_price": 549
+      }
+    ],
+    "total_amount": 2296,
+    "currency": "INR",
+    "status": "completed"
+  },
+  {
+    "order_id": "ORD-00129",
+    "customer_id": "CUST-0117",
+    "order_date": "2026-05-01T22:35:00Z",
+    "items": [
+      {
+        "sku": "SKU-SS-022",
+        "name": "Mineral Sunscreen SPF50 50ml",
+        "qty": 1,
+        "unit_price": 649
+      },
+      {
+        "sku": "SKU-BW-011",
+        "name": "Body Wash Citrus 250ml",
+        "qty": 3,
+        "unit_price": 399
+      },
+      {
+        "sku": "SKU-SC-014",
+        "name": "Vitamin C Serum 30ml",
+        "qty": 2,
+        "unit_price": 799
+      },
+      {
+        "sku": "SKU-LB-003",
+        "name": "Nourishing Lip Balm",
+        "qty": 3,
+        "unit_price": 199
+      }
+    ],
+    "total_amount": 4041,
+    "currency": "INR",
+    "status": "completed"
+  },
+  {
+    "order_id": "ORD-00086",
+    "customer_id": "CUST-0097",
+    "order_date": "23/11/2025",
+    "items": [
+      {
+        "sku": "SKU-MC-007",
+        "name": "Hydrating Moisturizer 50ml",
+        "qty": 3,
+        "unit_price": 549
+      },
+      {
+        "sku": "SKU-FW-001",
+        "name": "Everyday Face Wash 100ml",
+        "qty": 2,
+        "unit_price": 349
+      },
+      {
+        "sku": "SKU-FM-005",
+        "name": "Clay Face Mask 75g",
+        "qty": 3,
+        "unit_price": 599
+      }
+    ],
+    "total_amount": 4142,
+    "currency": "INR",
+    "status": "completed"
+  },
+  {
+    "order_id": "ORD-00155",
+    "customer_id": "CUST-0109",
+    "order_date": "2025-10-17T05:59:00Z",
+    "items": [
+      {
+        "sku": "SKU-FW-001",
+        "name": "Everyday Face Wash 100ml",
+        "qty": 1,
+        "unit_price": 349
+      },
+      {
+        "sku": "SKU-SC-014",
+        "name": "Vitamin C Serum 30ml",
+        "qty": 3,
+        "unit_price": 799
+      },
+      {
+        "sku": "SKU-LB-003",
+        "name": "Nourishing Lip Balm",
+        "qty": 2,
+        "unit_price": 199
+      }
+    ],
+    "total_amount": -3144,
+    "currency": "INR",
+    "status": "refunded"
+  },
+  {
+    "order_id": "ORD-00276",
+    "customer_id": "CUST-0057",
+    "order_date": "05/06/2026",
+    "items": [
+      {
+        "sku": "SKU-BW-011",
+        "name": "Body Wash Citrus 250ml",
+        "qty": 2,
+        "unit_price": 399
+      },
+      {
+        "sku": "SKU-FM-005",
+        "name": "Clay Face Mask 75g",
+        "qty": 3,
+        "unit_price": 599
+      }
+    ],
+    "total_amount": 2595,
+    "currency": "INR",
+    "status": "completed"
+  },
+  {
+    "order_id": "ORD-00282",
+    "customer_id": "CUST-9007",
+    "order_date": "17/05/2026",
+    "items": [
+      {
+        "sku": "SKU-SH-019",
+        "name": "Anti-Dandruff Shampoo 200ml",
+        "qty": 1,
+        "unit_price": 449
+      }
+    ],
+    "total_amount": 449,
+    "currency": "INR",
+    "status": "completed"
+  },
+  {
+    "order_id": "ORD-00188",
+    "customer_id": "CUST-0028",
+    "order_date": 1762104300,
+    "items": [
+      {
+        "sku": "SKU-SS-022",
+        "name": "Mineral Sunscreen SPF50 50ml",
+        "qty": 2,
+        "unit_price": 649
+      },
+      {
+        "sku": "SKU-FM-005",
+        "name": "Clay Face Mask 75g",
+        "qty": 2,
+        "unit_price": 599
+      },
+      {
+        "sku": "SKU-MC-007",
+        "name": "Hydrating Moisturizer 50ml",
+        "qty": 3,
+        "unit_price": 549
+      },
+      {
+        "sku": "SKU-SH-019",
+        "name": "Anti-Dandruff Shampoo 200ml",
+        "qty": 3,
+        "unit_price": 449
+      }
+    ],
+    "total_amount": 5490,
+    "currency": "INR",
+    "status": "completed"
+  },
+  {
+    "order_id": "ORD-00181",
+    "customer_id": "CUST-0099",
+    "order_date": "2026-05-23T18:47:00Z",
+    "items": [
+      {
+        "sku": "SKU-SC-014",
+        "name": "Vitamin C Serum 30ml",
+        "qty": 3,
+        "unit_price": 799
+      },
+      {
+        "sku": "SKU-LB-003",
+        "name": "Nourishing Lip Balm",
+        "qty": 2,
+        "unit_price": 199
+      },
+      {
+        "sku": "SKU-FW-001",
+        "name": "Everyday Face Wash 100ml",
+        "qty": 3,
+        "unit_price": 349
+      },
+      {
+        "sku": "SKU-MC-007",
+        "name": "Hydrating Moisturizer 50ml",
+        "qty": 1,
+        "unit_price": 549
+      }
+    ],
+    "total_amount": 4391,
+    "currency": "INR",
+    "status": "completed"
+  },
+  {
+    "order_id": "ORD-00175",
+    "customer_id": "CUST-0103",
+    "order_date": "02/11/2025",
+    "items": [
+      {
+        "sku": "SKU-SH-019",
+        "name": "Anti-Dandruff Shampoo 200ml",
+        "qty": 1,
+        "unit_price": 449
+      },
+      {
+        "sku": "SKU-MC-007",
+        "name": "Hydrating Moisturizer 50ml",
+        "qty": 2,
+        "unit_price": 549
+      }
+    ],
+    "total_amount": 1547,
+    "currency": "INR",
+    "status": "completed"
+  },
+  {
+    "order_id": "ORD-00279",
+    "customer_id": "CUST-0106",
+    "order_date": "2026-04-16T04:53:00Z",
+    "items": [
+      {
+        "sku": "SKU-FW-001",
+        "name": "Everyday Face Wash 100ml",
+        "qty": 3,
+        "unit_price": 349
+      }
+    ],
+    "total_amount": -1047,
+    "currency": "INR",
+    "status": "refunded"
+  },
+  {
+    "order_id": "ORD-00251",
+    "customer_id": "CUST-0029",
+    "order_date": "18/01/2026",
+    "items": [
+      {
+        "sku": "SKU-LB-003",
+        "name": "Nourishing Lip Balm",
+        "qty": 2,
+        "unit_price": 199
+      },
+      {
+        "sku": "SKU-SH-019",
+        "name": "Anti-Dandruff Shampoo 200ml",
+        "qty": 3,
+        "unit_price": 449
+      }
+    ],
+    "total_amount": 1745,
+    "currency": "INR",
+    "status": "completed"
+  },
+  {
+    "order_id": "ORD-00260",
+    "customer_id": "CUST-0088",
+    "order_date": 1781409300,
+    "items": [
+      {
+        "sku": "SKU-LB-003",
+        "name": "Nourishing Lip Balm",
+        "qty": 1,
+        "unit_price": 199
+      },
+      {
+        "sku": "SKU-SS-022",
+        "name": "Mineral Sunscreen SPF50 50ml",
+        "qty": 1,
+        "unit_price": 649
+      },
+      {
+        "sku": "SKU-FW-001",
+        "name": "Everyday Face Wash 100ml",
+        "qty": 2,
+        "unit_price": 349
+      },
+      {
+        "sku": "SKU-SC-014",
+        "name": "Vitamin C Serum 30ml",
+        "qty": 2,
+        "unit_price": 799
+      }
+    ],
+    "total_amount": 3144,
+    "currency": "INR",
+    "status": "cancelled"
+  },
+  {
+    "order_id": "ORD-00154",
+    "customer_id": "CUST-0006",
+    "order_date": "2025-11-18T16:58:00Z",
+    "items": [
+      {
+        "sku": "SKU-SS-022",
+        "name": "Mineral Sunscreen SPF50 50ml",
+        "qty": 3,
+        "unit_price": 649
+      },
+      {
+        "sku": "SKU-BW-011",
+        "name": "Body Wash Citrus 250ml",
+        "qty": 3,
+        "unit_price": 399
+      }
+    ],
+    "total_amount": 3144,
+    "currency": "INR",
+    "status": "completed"
+  },
+  {
+    "order_id": "ORD-00185",
+    "customer_id": "CUST-0090",
+    "order_date": "19/02/2026",
+    "items": [
+      {
+        "sku": "SKU-SS-022",
+        "name": "Mineral Sunscreen SPF50 50ml",
+        "qty": 3,
+        "unit_price": 649
+      },
+      {
+        "sku": "SKU-SC-014",
+        "name": "Vitamin C Serum 30ml",
+        "qty": 2,
+        "unit_price": 799
+      }
+    ],
+    "total_amount": 3545,
+    "currency": "INR",
+    "status": "completed"
+  },
+  {
+    "order_id": "ORD-00012",
+    "customer_id": "CUST-0082",
+    "order_date": 1772230080,
+    "items": [
+      {
+        "sku": "SKU-SC-014",
+        "name": "Vitamin C Serum 30ml",
+        "qty": 2,
+        "unit_price": 799
+      },
+      {
+        "sku": "SKU-BW-011",
+        "name": "Body Wash Citrus 250ml",
+        "qty": 2,
+        "unit_price": 399
+      },
+      {
+        "sku": "SKU-FW-001",
+        "name": "Everyday Face Wash 100ml",
+        "qty": 2,
+        "unit_price": 349
+      },
+      {
+        "sku": "SKU-LB-003",
+        "name": "Nourishing Lip Balm",
+        "qty": 2,
+        "unit_price": 199
+      }
+    ],
+    "total_amount": 3492,
+    "currency": "INR",
+    "status": "completed"
+  },
+  {
+    "order_id": "ORD-00169",
+    "customer_id": "CUST-0087",
+    "order_date": "2025-10-23T18:41:00Z",
+    "items": [
+      {
+        "sku": "SKU-SH-019",
+        "name": "Anti-Dandruff Shampoo 200ml",
+        "qty": 1,
+        "unit_price": 449
+      },
+      {
+        "sku": "SKU-BW-011",
+        "name": "Body Wash Citrus 250ml",
+        "qty": 1,
+        "unit_price": 399
+      },
+      {
+        "sku": "SKU-SS-022",
+        "name": "Mineral Sunscreen SPF50 50ml",
+        "qty": 2,
+        "unit_price": 649
+      },
+      {
+        "sku": "SKU-FW-001",
+        "name": "Everyday Face Wash 100ml",
+        "qty": 1,
+        "unit_price": 349
+      }
+    ],
+    "total_amount": 2495,
+    "currency": "INR",
+    "status": "completed"
+  },
+  {
+    "order_id": "ORD-00262",
+    "customer_id": "CUST-0021",
+    "order_date": 1766776320,
+    "items": [
+      {
+        "sku": "SKU-SC-014",
+        "name": "Vitamin C Serum 30ml",
+        "qty": 3,
+        "unit_price": 799
+      },
+      {
+        "sku": "SKU-FM-005",
+        "name": "Clay Face Mask 75g",
+        "qty": 2,
+        "unit_price": 599
+      },
+      {
+        "sku": "SKU-LB-003",
+        "name": "Nourishing Lip Balm",
+        "qty": 2,
+        "unit_price": 199
+      },
+      {
+        "sku": "SKU-SS-022",
+        "name": "Mineral Sunscreen SPF50 50ml",
+        "qty": 2,
+        "unit_price": 649
+      }
+    ],
+    "total_amount": 5291,
+    "currency": "INR",
+    "status": "cancelled"
+  },
+  {
+    "order_id": "ORD-00055",
+    "customer_id": "CUST-0053",
+    "order_date": "2026-03-18T21:07:00Z",
+    "items": [
+      {
+        "sku": "SKU-BW-011",
+        "name": "Body Wash Citrus 250ml",
+        "qty": 1,
+        "unit_price": 399
+      },
+      {
+        "sku": "SKU-FM-005",
+        "name": "Clay Face Mask 75g",
+        "qty": 2,
+        "unit_price": 599
+      },
+      {
+        "sku": "SKU-SH-019",
+        "name": "Anti-Dandruff Shampoo 200ml",
+        "qty": 3,
+        "unit_price": 449
+      }
+    ],
+    "total_amount": 2944,
+    "currency": "INR",
+    "status": "completed"
+  },
+  {
+    "order_id": "ORD-00091",
+    "customer_id": "CUST-0057",
+    "order_date": 1778132640,
+    "items": [
+      {
+        "sku": "SKU-FM-005",
+        "name": "Clay Face Mask 75g",
+        "qty": 2,
+        "unit_price": 599
+      },
+      {
+        "sku": "SKU-FW-001",
+        "name": "Everyday Face Wash 100ml",
+        "qty": 3,
+        "unit_price": 349
+      },
+      {
+        "sku": "SKU-SH-019",
+        "name": "Anti-Dandruff Shampoo 200ml",
+        "qty": 2,
+        "unit_price": 449
+      }
+    ],
+    "total_amount": 3143,
+    "currency": "INR",
+    "status": "completed"
+  },
+  {
+    "order_id": "ORD-00284",
+    "customer_id": "CUST-9008",
+    "order_date": "01/10/2025",
+    "items": [
+      {
+        "sku": "SKU-SC-014",
+        "name": "Vitamin C Serum 30ml",
+        "qty": 2,
+        "unit_price": 799
+      }
+    ],
+    "total_amount": 1598,
+    "currency": "INR",
+    "status": "completed"
+  },
+  {
+    "order_id": "ORD-00153",
+    "customer_id": "CUST-0002",
+    "order_date": "01/06/2026",
+    "items": [
+      {
+        "sku": "SKU-SC-014",
+        "name": "Vitamin C Serum 30ml",
+        "qty": 2,
+        "unit_price": 799
+      },
+      {
+        "sku": "SKU-SS-022",
+        "name": "Mineral Sunscreen SPF50 50ml",
+        "qty": 3,
+        "unit_price": 649
+      }
+    ],
+    "total_amount": 3545,
+    "currency": "INR",
+    "status": "completed"
+  },
+  {
+    "order_id": "ORD-00053",
+    "customer_id": "CUST-0114",
+    "order_date": "2026-01-19T13:28:00Z",
+    "items": [
+      {
+        "sku": "SKU-BW-011",
+        "name": "Body Wash Citrus 250ml",
+        "qty": 2,
+        "unit_price": 399
+      },
+      {
+        "sku": "SKU-MC-007",
+        "name": "Hydrating Moisturizer 50ml",
+        "qty": 2,
+        "unit_price": 549
+      }
+    ],
+    "total_amount": 1896,
+    "currency": "INR",
+    "status": "completed"
+  },
+  {
+    "order_id": "ORD-00192",
+    "customer_id": "CUST-0090",
+    "order_date": "2026-05-16T00:00:00Z",
+    "items": [
+      {
+        "sku": "SKU-SC-014",
+        "name": "Vitamin C Serum 30ml",
+        "qty": 3,
+        "unit_price": 799
+      },
+      {
+        "sku": "SKU-BW-011",
+        "name": "Body Wash Citrus 250ml",
+        "qty": 1,
+        "unit_price": 399
+      },
+      {
+        "sku": "SKU-SS-022",
+        "name": "Mineral Sunscreen SPF50 50ml",
+        "qty": 2,
+        "unit_price": 649
+      }
+    ],
+    "total_amount": 4094,
+    "currency": "INR",
+    "status": "completed"
+  },
+  {
+    "order_id": "ORD-00146",
+    "customer_id": "CUST-0093",
+    "order_date": "2026-05-27T03:51:00Z",
+    "items": [
+      {
+        "sku": "SKU-SH-019",
+        "name": "Anti-Dandruff Shampoo 200ml",
+        "qty": 2,
+        "unit_price": 449
+      },
+      {
+        "sku": "SKU-SC-014",
+        "name": "Vitamin C Serum 30ml",
+        "qty": 1,
+        "unit_price": 799
+      },
+      {
+        "sku": "SKU-MC-007",
+        "name": "Hydrating Moisturizer 50ml",
+        "qty": 3,
+        "unit_price": 549
+      },
+      {
+        "sku": "SKU-FM-005",
+        "name": "Clay Face Mask 75g",
+        "qty": 1,
+        "unit_price": 599
+      }
+    ],
+    "total_amount": 3943,
+    "currency": "INR",
+    "status": "completed"
+  },
+  {
+    "order_id": "ORD-00024",
+    "customer_id": "CUST-0081",
+    "order_date": "2026-06-06T03:01:00Z",
+    "items": [
+      {
+        "sku": "SKU-MC-007",
+        "name": "Hydrating Moisturizer 50ml",
+        "qty": 3,
+        "unit_price": 549
+      },
+      {
+        "sku": "SKU-FM-005",
+        "name": "Clay Face Mask 75g",
+        "qty": 1,
+        "unit_price": 599
+      }
+    ],
+    "total_amount": 2246,
+    "currency": "INR",
+    "status": "completed"
+  },
+  {
+    "order_id": "ORD-00229",
+    "customer_id": "CUST-0043",
+    "order_date": "2025-11-23T15:09:00Z",
+    "items": [
+      {
+        "sku": "SKU-SS-022",
+        "name": "Mineral Sunscreen SPF50 50ml",
+        "qty": 2,
+        "unit_price": 649
+      }
+    ],
+    "total_amount": 1298,
+    "currency": "INR",
+    "status": "cancelled"
+  },
+  {
+    "order_id": "ORD-00083",
+    "customer_id": "CUST-0069",
+    "order_date": "2025-11-26T15:38:00Z",
+    "items": [
+      {
+        "sku": "SKU-SS-022",
+        "name": "Mineral Sunscreen SPF50 50ml",
+        "qty": 3,
+        "unit_price": 649
+      }
+    ],
+    "total_amount": 1947,
+    "currency": "INR",
+    "status": "completed"
+  },
+  {
+    "order_id": "ORD-00008",
+    "customer_id": "CUST-0003",
+    "order_date": "2026-06-09T14:50:00Z",
+    "items": [
+      {
+        "sku": "SKU-LB-003",
+        "name": "Nourishing Lip Balm",
+        "qty": 1,
+        "unit_price": 199
+      }
+    ],
+    "total_amount": 199,
+    "currency": "INR",
+    "status": "completed"
+  },
+  {
+    "order_id": "ORD-00221",
+    "customer_id": "CUST-0092",
+    "order_date": "2025-10-10T12:50:00Z",
+    "items": [
+      {
+        "sku": "SKU-FM-005",
+        "name": "Clay Face Mask 75g",
+        "qty": 2,
+        "unit_price": 599
+      },
+      {
+        "sku": "SKU-LB-003",
+        "name": "Nourishing Lip Balm",
+        "qty": 3,
+        "unit_price": 199
+      },
+      {
+        "sku": "SKU-SS-022",
+        "name": "Mineral Sunscreen SPF50 50ml",
+        "qty": 3,
+        "unit_price": 649
+      }
+    ],
+    "total_amount": 3742,
+    "currency": "INR",
+    "status": "completed"
+  },
+  {
+    "order_id": "ORD-00049",
+    "customer_id": "CUST-0034",
+    "order_date": "2026-03-15T00:11:00Z",
+    "items": [
+      {
+        "sku": "SKU-MC-007",
+        "name": "Hydrating Moisturizer 50ml",
+        "qty": 3,
+        "unit_price": 549
+      }
+    ],
+    "total_amount": 1647,
+    "currency": "INR",
+    "status": "completed"
+  },
+  {
+    "order_id": "ORD-00230",
+    "customer_id": "CUST-0082",
+    "order_date": "2025-11-15T22:42:00Z",
+    "items": [
+      {
+        "sku": "SKU-FM-005",
+        "name": "Clay Face Mask 75g",
+        "qty": 1,
+        "unit_price": 599
+      },
+      {
+        "sku": "SKU-FW-001",
+        "name": "Everyday Face Wash 100ml",
+        "qty": 1,
+        "unit_price": 349
+      },
+      {
+        "sku": "SKU-MC-007",
+        "name": "Hydrating Moisturizer 50ml",
+        "qty": 3,
+        "unit_price": 549
+      }
+    ],
+    "total_amount": 2595,
+    "currency": "INR",
+    "status": "completed"
+  },
+  {
+    "order_id": "ORD-00162",
+    "customer_id": "CUST-0022",
+    "order_date": "2026-02-02T18:33:00Z",
+    "items": [
+      {
+        "sku": "SKU-MC-007",
+        "name": "Hydrating Moisturizer 50ml",
+        "qty": 2,
+        "unit_price": 549
+      },
+      {
+        "sku": "SKU-SC-014",
+        "name": "Vitamin C Serum 30ml",
+        "qty": 2,
+        "unit_price": 799
+      },
+      {
+        "sku": "SKU-FM-005",
+        "name": "Clay Face Mask 75g",
+        "qty": 1,
+        "unit_price": 599
+      },
+      {
+        "sku": "SKU-SH-019",
+        "name": "Anti-Dandruff Shampoo 200ml",
+        "qty": 1,
+        "unit_price": 449
+      }
+    ],
+    "total_amount": 3744,
+    "currency": "INR",
+    "status": "completed"
+  },
+  {
+    "order_id": "ORD-00015",
+    "customer_id": "CUST-0013",
+    "order_date": "2025-10-31T19:47:00Z",
+    "items": [
+      {
+        "sku": "SKU-SS-022",
+        "name": "Mineral Sunscreen SPF50 50ml",
+        "qty": 3,
+        "unit_price": 649
+      },
+      {
+        "sku": "SKU-MC-007",
+        "name": "Hydrating Moisturizer 50ml",
+        "qty": 1,
+        "unit_price": 549
+      }
+    ],
+    "total_amount": 2496,
+    "currency": "INR",
+    "status": "completed"
+  },
+  {
+    "order_id": "ORD-00176",
+    "customer_id": "CUST-0079",
+    "order_date": 1773170640,
+    "items": [
+      {
+        "sku": "SKU-SC-014",
+        "name": "Vitamin C Serum 30ml",
+        "qty": 3,
+        "unit_price": 799
+      },
+      {
+        "sku": "SKU-MC-007",
+        "name": "Hydrating Moisturizer 50ml",
+        "qty": 1,
+        "unit_price": 549
+      },
+      {
+        "sku": "SKU-BW-011",
+        "name": "Body Wash Citrus 250ml",
+        "qty": 3,
+        "unit_price": 399
+      },
+      {
+        "sku": "SKU-SS-022",
+        "name": "Mineral Sunscreen SPF50 50ml",
+        "qty": 3,
+        "unit_price": 649
+      }
+    ],
+    "total_amount": 6090,
+    "currency": "INR",
+    "status": "completed"
+  },
+  {
+    "order_id": "ORD-00059",
+    "customer_id": "CUST-0059",
+    "order_date": 1768825560,
+    "items": [
+      {
+        "sku": "SKU-MC-007",
+        "name": "Hydrating Moisturizer 50ml",
+        "qty": 3,
+        "unit_price": 549
+      },
+      {
+        "sku": "SKU-FM-005",
+        "name": "Clay Face Mask 75g",
+        "qty": 2,
+        "unit_price": 599
+      },
+      {
+        "sku": "SKU-BW-011",
+        "name": "Body Wash Citrus 250ml",
+        "qty": 3,
+        "unit_price": 399
+      }
+    ],
+    "total_amount": 4042,
+    "currency": "INR",
+    "status": "completed"
+  },
+  {
+    "order_id": "ORD-00274",
+    "customer_id": "CUST-0113",
+    "order_date": "2026-05-13T19:17:00Z",
+    "items": [
+      {
+        "sku": "SKU-SH-019",
+        "name": "Anti-Dandruff Shampoo 200ml",
+        "qty": 2,
+        "unit_price": 449
+      }
+    ],
+    "total_amount": 898,
+    "currency": "INR",
+    "status": "completed"
+  },
+  {
+    "order_id": "ORD-00183",
+    "customer_id": "CUST-0104",
+    "order_date": "30/11/2025",
+    "items": [
+      {
+        "sku": "SKU-BW-011",
+        "name": "Body Wash Citrus 250ml",
+        "qty": 1,
+        "unit_price": 399
+      },
+      {
+        "sku": "SKU-SC-014",
+        "name": "Vitamin C Serum 30ml",
+        "qty": 1,
+        "unit_price": 799
+      },
+      {
+        "sku": "SKU-LB-003",
+        "name": "Nourishing Lip Balm",
+        "qty": 1,
+        "unit_price": 199
+      }
+    ],
+    "total_amount": 1397,
+    "currency": "INR",
+    "status": "completed"
+  },
+  {
+    "order_id": "ORD-00038",
+    "customer_id": "CUST-0116",
+    "order_date": "2025-12-10T20:06:00Z",
+    "items": [
+      {
+        "sku": "SKU-LB-003",
+        "name": "Nourishing Lip Balm",
+        "qty": 2,
+        "unit_price": 199
+      }
+    ],
+    "total_amount": 398,
+    "currency": "INR",
+    "status": "completed"
+  },
+  {
+    "order_id": "ORD-00249",
+    "customer_id": "CUST-0051",
+    "order_date": "07/04/2026",
+    "items": [
+      {
+        "sku": "SKU-FW-001",
+        "name": "Everyday Face Wash 100ml",
+        "qty": 1,
+        "unit_price": 349
+      }
+    ],
+    "total_amount": 349,
+    "currency": "INR",
+    "status": "completed"
+  },
+  {
+    "order_id": "ORD-00211",
+    "customer_id": "CUST-0109",
+    "order_date": "2025-10-23T07:57:00Z",
+    "items": [
+      {
+        "sku": "SKU-SH-019",
+        "name": "Anti-Dandruff Shampoo 200ml",
+        "qty": 3,
+        "unit_price": 449
+      },
+      {
+        "sku": "SKU-SS-022",
+        "name": "Mineral Sunscreen SPF50 50ml",
+        "qty": 1,
+        "unit_price": 649
+      },
+      {
+        "sku": "SKU-FM-005",
+        "name": "Clay Face Mask 75g",
+        "qty": 3,
+        "unit_price": 599
+      },
+      {
+        "sku": "SKU-FW-001",
+        "name": "Everyday Face Wash 100ml",
+        "qty": 1,
+        "unit_price": 349
+      }
+    ],
+    "total_amount": 4142,
+    "currency": "INR",
+    "status": "completed"
+  },
+  {
+    "order_id": "ORD-00014",
+    "customer_id": "CUST-0102",
+    "order_date": 1777750680,
+    "items": [
+      {
+        "sku": "SKU-BW-011",
+        "name": "Body Wash Citrus 250ml",
+        "qty": 2,
+        "unit_price": 399
+      },
+      {
+        "sku": "SKU-SS-022",
+        "name": "Mineral Sunscreen SPF50 50ml",
+        "qty": 2,
+        "unit_price": 649
+      }
+    ],
+    "total_amount": 2096,
+    "currency": "INR",
+    "status": "completed"
+  },
+  {
+    "order_id": "ORD-00158",
+    "customer_id": "CUST-0035",
+    "order_date": "2026-03-17T00:40:00Z",
+    "items": [
+      {
+        "sku": "SKU-FM-005",
+        "name": "Clay Face Mask 75g",
+        "qty": 2,
+        "unit_price": 599
+      },
+      {
+        "sku": "SKU-SC-014",
+        "name": "Vitamin C Serum 30ml",
+        "qty": 2,
+        "unit_price": 799
+      },
+      {
+        "sku": "SKU-MC-007",
+        "name": "Hydrating Moisturizer 50ml",
+        "qty": 1,
+        "unit_price": 549
+      },
+      {
+        "sku": "SKU-LB-003",
+        "name": "Nourishing Lip Balm",
+        "qty": 3,
+        "unit_price": 199
+      }
+    ],
+    "total_amount": 3942,
+    "currency": "INR",
+    "status": "completed"
+  },
+  {
+    "order_id": "ORD-00013",
+    "customer_id": "CUST-0009",
+    "order_date": "2026-06-02T03:52:00Z",
+    "items": [
+      {
+        "sku": "SKU-FM-005",
+        "name": "Clay Face Mask 75g",
+        "qty": 1,
+        "unit_price": 599
+      },
+      {
+        "sku": "SKU-FW-001",
+        "name": "Everyday Face Wash 100ml",
+        "qty": 1,
+        "unit_price": 349
+      },
+      {
+        "sku": "SKU-LB-003",
+        "name": "Nourishing Lip Balm",
+        "qty": 3,
+        "unit_price": 199
+      },
+      {
+        "sku": "SKU-BW-011",
+        "name": "Body Wash Citrus 250ml",
+        "qty": 2,
+        "unit_price": 399
+      }
+    ],
+    "total_amount": 2343,
+    "currency": "INR",
+    "status": "completed"
+  },
+  {
+    "order_id": "ORD-00034",
+    "customer_id": "CUST-0031",
+    "order_date": "2026-04-14T19:43:00Z",
+    "items": [
+      {
+        "sku": "SKU-MC-007",
+        "name": "Hydrating Moisturizer 50ml",
+        "qty": 2,
+        "unit_price": 549
+      },
+      {
+        "sku": "SKU-SC-014",
+        "name": "Vitamin C Serum 30ml",
+        "qty": 2,
+        "unit_price": 799
+      },
+      {
+        "sku": "SKU-SS-022",
+        "name": "Mineral Sunscreen SPF50 50ml",
+        "qty": 3,
+        "unit_price": 649
+      },
+      {
+        "sku": "SKU-FM-005",
+        "name": "Clay Face Mask 75g",
+        "qty": 1,
+        "unit_price": 599
+      }
+    ],
+    "total_amount": 5242,
+    "currency": "INR",
+    "status": "completed"
+  },
+  {
+    "order_id": "ORD-00258",
+    "customer_id": "CUST-0043",
+    "order_date": 1767391020,
+    "items": [
+      {
+        "sku": "SKU-SS-022",
+        "name": "Mineral Sunscreen SPF50 50ml",
+        "qty": 2,
+        "unit_price": 649
+      }
+    ],
+    "total_amount": 1298,
+    "currency": "INR",
+    "status": "completed"
+  },
+  {
+    "order_id": "ORD-00006",
+    "customer_id": "CUST-0097",
+    "order_date": "2026-02-20T14:15:00Z",
+    "items": [
+      {
+        "sku": "SKU-BW-011",
+        "name": "Body Wash Citrus 250ml",
+        "qty": 2,
+        "unit_price": 399
+      },
+      {
+        "sku": "SKU-MC-007",
+        "name": "Hydrating Moisturizer 50ml",
+        "qty": 1,
+        "unit_price": 549
+      },
+      {
+        "sku": "SKU-FW-001",
+        "name": "Everyday Face Wash 100ml",
+        "qty": 2,
+        "unit_price": 349
+      },
+      {
+        "sku": "SKU-SS-022",
+        "name": "Mineral Sunscreen SPF50 50ml",
+        "qty": 1,
+        "unit_price": 649
+      }
+    ],
+    "total_amount": 2694,
+    "currency": "INR",
+    "status": "completed"
+  },
+  {
+    "order_id": "ORD-00025",
+    "customer_id": "CUST-0083",
+    "order_date": "2025-11-28T14:07:00Z",
+    "items": [
+      {
+        "sku": "SKU-FM-005",
+        "name": "Clay Face Mask 75g",
+        "qty": 2,
+        "unit_price": 599
+      },
+      {
+        "sku": "SKU-SH-019",
+        "name": "Anti-Dandruff Shampoo 200ml",
+        "qty": 3,
+        "unit_price": 449
+      }
+    ],
+    "total_amount": 2545,
+    "currency": "INR",
+    "status": "completed"
+  },
+  {
+    "order_id": "ORD-00123",
+    "customer_id": "CUST-0120",
+    "order_date": "2026-04-22T15:11:00Z",
+    "items": [
+      {
+        "sku": "SKU-FW-001",
+        "name": "Everyday Face Wash 100ml",
+        "qty": 3,
+        "unit_price": 349
+      },
+      {
+        "sku": "SKU-FM-005",
+        "name": "Clay Face Mask 75g",
+        "qty": 3,
+        "unit_price": 599
+      },
+      {
+        "sku": "SKU-MC-007",
+        "name": "Hydrating Moisturizer 50ml",
+        "qty": 1,
+        "unit_price": 549
+      }
+    ],
+    "total_amount": -3393,
+    "currency": "INR",
+    "status": "refunded"
+  },
+  {
+    "order_id": "ORD-00003",
+    "customer_id": "CUST-0104",
+    "order_date": "04/03/2026",
+    "items": [
+      {
+        "sku": "SKU-FW-001",
+        "name": "Everyday Face Wash 100ml",
+        "qty": 2,
+        "unit_price": 349
+      }
+    ],
+    "total_amount": 698,
+    "currency": "INR",
+    "status": "completed"
+  },
+  {
+    "order_id": "ORD-00100",
+    "customer_id": "CUST-0065",
+    "order_date": "2026-01-02T04:27:00Z",
+    "items": [
+      {
+        "sku": "SKU-SC-014",
+        "name": "Vitamin C Serum 30ml",
+        "qty": 3,
+        "unit_price": 799
+      }
+    ],
+    "total_amount": 2397,
+    "currency": "INR",
+    "status": "completed"
+  },
+  {
+    "order_id": "ORD-00068",
+    "customer_id": "CUST-0009",
+    "order_date": "2026-03-11T04:28:00Z",
+    "items": [
+      {
+        "sku": "SKU-FM-005",
+        "name": "Clay Face Mask 75g",
+        "qty": 3,
+        "unit_price": 599
+      },
+      {
+        "sku": "SKU-SH-019",
+        "name": "Anti-Dandruff Shampoo 200ml",
+        "qty": 1,
+        "unit_price": 449
+      },
+      {
+        "sku": "SKU-MC-007",
+        "name": "Hydrating Moisturizer 50ml",
+        "qty": 2,
+        "unit_price": 549
+      },
+      {
+        "sku": "SKU-BW-011",
+        "name": "Body Wash Citrus 250ml",
+        "qty": 3,
+        "unit_price": 399
+      }
+    ],
+    "total_amount": 4541,
+    "currency": "INR",
+    "status": "completed"
+  },
+  {
+    "order_id": "ORD-00126",
+    "customer_id": "CUST-0062",
+    "order_date": 1763442480,
+    "items": [
+      {
+        "sku": "SKU-SS-022",
+        "name": "Mineral Sunscreen SPF50 50ml",
+        "qty": 2,
+        "unit_price": 649
+      },
+      {
+        "sku": "SKU-FW-001",
+        "name": "Everyday Face Wash 100ml",
+        "qty": 1,
+        "unit_price": 349
+      },
+      {
+        "sku": "SKU-MC-007",
+        "name": "Hydrating Moisturizer 50ml",
+        "qty": 2,
+        "unit_price": 549
+      }
+    ],
+    "total_amount": 2745,
+    "currency": "INR",
+    "status": "completed"
+  },
+  {
+    "order_id": "ORD-00223",
+    "customer_id": "CUST-0109",
+    "order_date": 1761723360,
+    "items": [
+      {
+        "sku": "SKU-SH-019",
+        "name": "Anti-Dandruff Shampoo 200ml",
+        "qty": 1,
+        "unit_price": 449
+      },
+      {
+        "sku": "SKU-BW-011",
+        "name": "Body Wash Citrus 250ml",
+        "qty": 3,
+        "unit_price": 399
+      },
+      {
+        "sku": "SKU-SC-014",
+        "name": "Vitamin C Serum 30ml",
+        "qty": 2,
+        "unit_price": 799
+      },
+      {
+        "sku": "SKU-FM-005",
+        "name": "Clay Face Mask 75g",
+        "qty": 3,
+        "unit_price": 599
+      }
+    ],
+    "total_amount": 5041,
+    "currency": "INR",
+    "status": "completed"
+  },
+  {
+    "order_id": "ORD-00245",
+    "customer_id": "CUST-0090",
+    "order_date": "21/02/2026",
+    "items": [
+      {
+        "sku": "SKU-SS-022",
+        "name": "Mineral Sunscreen SPF50 50ml",
+        "qty": 1,
+        "unit_price": 649
+      }
+    ],
+    "total_amount": 649,
+    "currency": "INR",
+    "status": "completed"
+  },
+  {
+    "order_id": "ORD-00098",
+    "customer_id": "CUST-0012",
+    "order_date": "06/12/2025",
+    "items": [
+      {
+        "sku": "SKU-LB-003",
+        "name": "Nourishing Lip Balm",
+        "qty": 2,
+        "unit_price": 199
+      }
+    ],
+    "total_amount": 398,
+    "currency": "INR",
+    "status": "cancelled"
+  },
+  {
+    "order_id": "ORD-00196",
+    "customer_id": "CUST-0109",
+    "order_date": "23/02/2026",
+    "items": [
+      {
+        "sku": "SKU-SS-022",
+        "name": "Mineral Sunscreen SPF50 50ml",
+        "qty": 3,
+        "unit_price": 649
+      },
+      {
+        "sku": "SKU-LB-003",
+        "name": "Nourishing Lip Balm",
+        "qty": 1,
+        "unit_price": 199
+      },
+      {
+        "sku": "SKU-BW-011",
+        "name": "Body Wash Citrus 250ml",
+        "qty": 3,
+        "unit_price": 399
+      }
+    ],
+    "total_amount": 3343,
+    "currency": "INR",
+    "status": "completed"
+  },
+  {
+    "order_id": "ORD-00157",
+    "customer_id": "CUST-0108",
+    "order_date": 1763644440,
+    "items": [
+      {
+        "sku": "SKU-SH-019",
+        "name": "Anti-Dandruff Shampoo 200ml",
+        "qty": 3,
+        "unit_price": 449
+      }
+    ],
+    "total_amount": 1347,
+    "currency": "INR",
+    "status": "completed"
+  },
+  {
+    "order_id": "ORD-00136",
+    "customer_id": "CUST-0120",
+    "order_date": "19/12/2025",
+    "items": [
+      {
+        "sku": "SKU-FW-001",
+        "name": "Everyday Face Wash 100ml",
+        "qty": 3,
+        "unit_price": 349
+      }
+    ],
+    "total_amount": 1047,
+    "currency": "INR",
+    "status": "completed"
+  },
+  {
+    "order_id": "ORD-00272",
+    "customer_id": "CUST-0013",
+    "order_date": "2025-11-09T00:30:00Z",
+    "items": [
+      {
+        "sku": "SKU-SS-022",
+        "name": "Mineral Sunscreen SPF50 50ml",
+        "qty": 2,
+        "unit_price": 649
+      },
+      {
+        "sku": "SKU-FM-005",
+        "name": "Clay Face Mask 75g",
+        "qty": 2,
+        "unit_price": 599
+      },
+      {
+        "sku": "SKU-MC-007",
+        "name": "Hydrating Moisturizer 50ml",
+        "qty": 1,
+        "unit_price": 549
+      }
+    ],
+    "total_amount": 3045,
+    "currency": "INR",
+    "status": "completed"
+  },
+  {
+    "order_id": "ORD-00112",
+    "customer_id": "CUST-0089",
+    "order_date": "07/03/2026",
+    "items": [
+      {
+        "sku": "SKU-FM-005",
+        "name": "Clay Face Mask 75g",
+        "qty": 2,
+        "unit_price": 599
+      }
+    ],
+    "total_amount": 1198,
+    "currency": "INR",
+    "status": "cancelled"
+  },
+  {
+    "order_id": "ORD-00133",
+    "customer_id": "CUST-0061",
+    "order_date": "2025-10-31T02:59:00Z",
+    "items": [
+      {
+        "sku": "SKU-LB-003",
+        "name": "Nourishing Lip Balm",
+        "qty": 2,
+        "unit_price": 199
+      }
+    ],
+    "total_amount": 398,
+    "currency": "INR",
+    "status": "completed"
+  },
+  {
+    "order_id": "ORD-00242",
+    "customer_id": "CUST-0090",
+    "order_date": "23/05/2026",
+    "items": [
+      {
+        "sku": "SKU-SC-014",
+        "name": "Vitamin C Serum 30ml",
+        "qty": 3,
+        "unit_price": 799
+      },
+      {
+        "sku": "SKU-SS-022",
+        "name": "Mineral Sunscreen SPF50 50ml",
+        "qty": 3,
+        "unit_price": 649
+      },
+      {
+        "sku": "SKU-FM-005",
+        "name": "Clay Face Mask 75g",
+        "qty": 3,
+        "unit_price": 599
+      },
+      {
+        "sku": "SKU-SH-019",
+        "name": "Anti-Dandruff Shampoo 200ml",
+        "qty": 1,
+        "unit_price": 449
+      }
+    ],
+    "total_amount": -6590,
+    "currency": "INR",
+    "status": "refunded"
+  },
+  {
+    "order_id": "ORD-00180",
+    "customer_id": "CUST-0011",
+    "order_date": "2026-05-16T15:10:00Z",
+    "items": [
+      {
+        "sku": "SKU-SS-022",
+        "name": "Mineral Sunscreen SPF50 50ml",
+        "qty": 2,
+        "unit_price": 649
+      }
+    ],
+    "total_amount": 1298,
+    "currency": "INR",
+    "status": "completed"
+  },
+  {
+    "order_id": "ORD-00026",
+    "customer_id": "CUST-0071",
+    "order_date": "2026-05-30T07:29:00Z",
+    "items": [
+      {
+        "sku": "SKU-BW-011",
+        "name": "Body Wash Citrus 250ml",
+        "qty": 3,
+        "unit_price": 399
+      },
+      {
+        "sku": "SKU-SC-014",
+        "name": "Vitamin C Serum 30ml",
+        "qty": 3,
+        "unit_price": 799
+      }
+    ],
+    "total_amount": 3594,
+    "currency": "INR",
+    "status": "completed"
+  },
+  {
+    "order_id": "ORD-00203",
+    "customer_id": "CUST-0096",
+    "order_date": "2025-12-25T11:08:00Z",
+    "items": [
+      {
+        "sku": "SKU-SC-014",
+        "name": "Vitamin C Serum 30ml",
+        "qty": 2,
+        "unit_price": 799
+      },
+      {
+        "sku": "SKU-BW-011",
+        "name": "Body Wash Citrus 250ml",
+        "qty": 2,
+        "unit_price": 399
+      },
+      {
+        "sku": "SKU-FW-001",
+        "name": "Everyday Face Wash 100ml",
+        "qty": 2,
+        "unit_price": 349
+      }
+    ],
+    "total_amount": 3094,
+    "currency": "INR",
+    "status": "completed"
+  },
+  {
+    "order_id": "ORD-00075",
+    "customer_id": "CUST-0038",
+    "order_date": "10/12/2025",
+    "items": [
+      {
+        "sku": "SKU-FW-001",
+        "name": "Everyday Face Wash 100ml",
+        "qty": 3,
+        "unit_price": 349
+      }
+    ],
+    "total_amount": 1047,
+    "currency": "INR",
+    "status": "completed"
+  },
+  {
+    "order_id": "ORD-00151",
+    "customer_id": "CUST-0003",
+    "order_date": "18/02/2026",
+    "items": [
+      {
+        "sku": "SKU-MC-007",
+        "name": "Hydrating Moisturizer 50ml",
+        "qty": 1,
+        "unit_price": 549
+      },
+      {
+        "sku": "SKU-FW-001",
+        "name": "Everyday Face Wash 100ml",
+        "qty": 1,
+        "unit_price": 349
+      },
+      {
+        "sku": "SKU-BW-011",
+        "name": "Body Wash Citrus 250ml",
+        "qty": 1,
+        "unit_price": 399
+      },
+      {
+        "sku": "SKU-LB-003",
+        "name": "Nourishing Lip Balm",
+        "qty": 3,
+        "unit_price": 199
+      }
+    ],
+    "total_amount": 1894,
+    "currency": "INR",
+    "status": "completed"
+  },
+  {
+    "order_id": "ORD-00163",
+    "customer_id": "CUST-0032",
+    "order_date": "2025-11-09T11:16:00Z",
+    "items": [
+      {
+        "sku": "SKU-SS-022",
+        "name": "Mineral Sunscreen SPF50 50ml",
+        "qty": 2,
+        "unit_price": 649
+      },
+      {
+        "sku": "SKU-FM-005",
+        "name": "Clay Face Mask 75g",
+        "qty": 1,
+        "unit_price": 599
+      },
+      {
+        "sku": "SKU-FW-001",
+        "name": "Everyday Face Wash 100ml",
+        "qty": 2,
+        "unit_price": 349
+      },
+      {
+        "sku": "SKU-SC-014",
+        "name": "Vitamin C Serum 30ml",
+        "qty": 2,
+        "unit_price": 799
+      }
+    ],
+    "total_amount": 4193,
+    "currency": "INR",
+    "status": "completed"
+  },
+  {
+    "order_id": "ORD-00128",
+    "customer_id": "CUST-0082",
+    "order_date": "09/03/2026",
+    "items": [
+      {
+        "sku": "SKU-SH-019",
+        "name": "Anti-Dandruff Shampoo 200ml",
+        "qty": 1,
+        "unit_price": 449
+      },
+      {
+        "sku": "SKU-LB-003",
+        "name": "Nourishing Lip Balm",
+        "qty": 1,
+        "unit_price": 199
+      },
+      {
+        "sku": "SKU-SC-014",
+        "name": "Vitamin C Serum 30ml",
+        "qty": 2,
+        "unit_price": 799
+      }
+    ],
+    "total_amount": 2246,
+    "currency": "INR",
+    "status": "completed"
+  },
+  {
+    "order_id": "ORD-00118",
+    "customer_id": "CUST-0103",
+    "order_date": 1776772140,
+    "items": [
+      {
+        "sku": "SKU-LB-003",
+        "name": "Nourishing Lip Balm",
+        "qty": 2,
+        "unit_price": 199
+      },
+      {
+        "sku": "SKU-FW-001",
+        "name": "Everyday Face Wash 100ml",
+        "qty": 3,
+        "unit_price": 349
+      }
+    ],
+    "total_amount": 1445,
+    "currency": "INR",
+    "status": "completed"
+  },
+  {
+    "order_id": "ORD-00042",
+    "customer_id": "CUST-0106",
+    "order_date": "12/02/2026",
+    "items": [
+      {
+        "sku": "SKU-SC-014",
+        "name": "Vitamin C Serum 30ml",
+        "qty": 2,
+        "unit_price": 799
+      },
+      {
+        "sku": "SKU-SH-019",
+        "name": "Anti-Dandruff Shampoo 200ml",
+        "qty": 1,
+        "unit_price": 449
+      },
+      {
+        "sku": "SKU-FM-005",
+        "name": "Clay Face Mask 75g",
+        "qty": 3,
+        "unit_price": 599
+      }
+    ],
+    "total_amount": 3844,
+    "currency": "INR",
+    "status": "completed"
+  },
+  {
+    "order_id": "ORD-00154",
+    "customer_id": "CUST-0006",
+    "order_date": "2025-11-18T16:58:00Z",
+    "items": [
+      {
+        "sku": "SKU-SS-022",
+        "name": "Mineral Sunscreen SPF50 50ml",
+        "qty": 3,
+        "unit_price": 649
+      },
+      {
+        "sku": "SKU-BW-011",
+        "name": "Body Wash Citrus 250ml",
+        "qty": 3,
+        "unit_price": 399
+      }
+    ],
+    "total_amount": 3144,
+    "currency": "INR",
+    "status": "completed"
+  },
+  {
+    "order_id": "ORD-00273",
+    "customer_id": "CUST-0098",
+    "order_date": "2025-11-29T03:54:00Z",
+    "items": [
+      {
+        "sku": "SKU-FW-001",
+        "name": "Everyday Face Wash 100ml",
+        "qty": 1,
+        "unit_price": 349
+      }
+    ],
+    "total_amount": 349,
+    "currency": "INR",
+    "status": "completed"
+  },
+  {
+    "order_id": "ORD-00030",
+    "customer_id": "CUST-0117",
+    "order_date": "2026-05-14T03:33:00Z",
+    "items": [
+      {
+        "sku": "SKU-FW-001",
+        "name": "Everyday Face Wash 100ml",
+        "qty": 3,
+        "unit_price": 349
+      },
+      {
+        "sku": "SKU-SH-019",
+        "name": "Anti-Dandruff Shampoo 200ml",
+        "qty": 1,
+        "unit_price": 449
+      },
+      {
+        "sku": "SKU-SC-014",
+        "name": "Vitamin C Serum 30ml",
+        "qty": 1,
+        "unit_price": 799
+      },
+      {
+        "sku": "SKU-SS-022",
+        "name": "Mineral Sunscreen SPF50 50ml",
+        "qty": 2,
+        "unit_price": 649
+      }
+    ],
+    "total_amount": 3593,
+    "currency": "INR",
+    "status": "completed"
+  },
+  {
+    "order_id": "ORD-00159",
+    "customer_id": "CUST-0010",
+    "order_date": "01/03/2026",
+    "items": [
+      {
+        "sku": "SKU-LB-003",
+        "name": "Nourishing Lip Balm",
+        "qty": 1,
+        "unit_price": 199
+      }
+    ],
+    "total_amount": 199,
+    "currency": "INR",
+    "status": "completed"
+  },
+  {
+    "order_id": "ORD-00241",
+    "customer_id": "CUST-0041",
+    "order_date": "15/12/2025",
+    "items": [
+      {
+        "sku": "SKU-SC-014",
+        "name": "Vitamin C Serum 30ml",
+        "qty": 2,
+        "unit_price": 799
+      }
+    ],
+    "total_amount": 1598,
+    "currency": "INR",
+    "status": "completed"
+  },
+  {
+    "order_id": "ORD-00161",
+    "customer_id": "CUST-0058",
+    "order_date": "14/11/2025",
+    "items": [
+      {
+        "sku": "SKU-SC-014",
+        "name": "Vitamin C Serum 30ml",
+        "qty": 3,
+        "unit_price": 799
+      },
+      {
+        "sku": "SKU-FW-001",
+        "name": "Everyday Face Wash 100ml",
+        "qty": 1,
+        "unit_price": 349
+      },
+      {
+        "sku": "SKU-BW-011",
+        "name": "Body Wash Citrus 250ml",
+        "qty": 3,
+        "unit_price": 399
+      },
+      {
+        "sku": "SKU-MC-007",
+        "name": "Hydrating Moisturizer 50ml",
+        "qty": 3,
+        "unit_price": 549
+      }
+    ],
+    "total_amount": 5590,
+    "currency": "INR",
+    "status": "completed"
+  },
+  {
+    "order_id": "ORD-00068",
+    "customer_id": "CUST-0009",
+    "order_date": "2026-03-11T04:47:00Z",
+    "items": [
+      {
+        "sku": "SKU-FM-005",
+        "name": "Clay Face Mask 75g",
+        "qty": 3,
+        "unit_price": 599
+      },
+      {
+        "sku": "SKU-SH-019",
+        "name": "Anti-Dandruff Shampoo 200ml",
+        "qty": 1,
+        "unit_price": 449
+      },
+      {
+        "sku": "SKU-MC-007",
+        "name": "Hydrating Moisturizer 50ml",
+        "qty": 2,
+        "unit_price": 549
+      },
+      {
+        "sku": "SKU-BW-011",
+        "name": "Body Wash Citrus 250ml",
+        "qty": 3,
+        "unit_price": 399
+      }
+    ],
+    "total_amount": 4541,
+    "currency": "INR",
+    "status": "completed"
+  },
+  {
+    "order_id": "ORD-00216",
+    "customer_id": "CUST-0058",
+    "order_date": "2025-10-16T12:54:00Z",
+    "items": [
+      {
+        "sku": "SKU-SC-014",
+        "name": "Vitamin C Serum 30ml",
+        "qty": 1,
+        "unit_price": 799
+      },
+      {
+        "sku": "SKU-SS-022",
+        "name": "Mineral Sunscreen SPF50 50ml",
+        "qty": 1,
+        "unit_price": 649
+      }
+    ],
+    "total_amount": 1448,
+    "currency": "INR",
+    "status": "completed"
+  },
+  {
+    "order_id": "ORD-00148",
+    "customer_id": "CUST-0095",
+    "order_date": 1780962060,
+    "items": [
+      {
+        "sku": "SKU-FM-005",
+        "name": "Clay Face Mask 75g",
+        "qty": 1,
+        "unit_price": 599
+      },
+      {
+        "sku": "SKU-SC-014",
+        "name": "Vitamin C Serum 30ml",
+        "qty": 1,
+        "unit_price": 799
+      },
+      {
+        "sku": "SKU-SH-019",
+        "name": "Anti-Dandruff Shampoo 200ml",
+        "qty": 3,
+        "unit_price": 449
+      },
+      {
+        "sku": "SKU-MC-007",
+        "name": "Hydrating Moisturizer 50ml",
+        "qty": 3,
+        "unit_price": 549
+      }
+    ],
+    "total_amount": 4392,
+    "currency": "INR",
+    "status": "completed"
+  },
+  {
+    "order_id": "ORD-00239",
+    "customer_id": "CUST-0031",
+    "order_date": "01/06/2026",
+    "items": [
+      {
+        "sku": "SKU-LB-003",
+        "name": "Nourishing Lip Balm",
+        "qty": 3,
+        "unit_price": 199
+      },
+      {
+        "sku": "SKU-FW-001",
+        "name": "Everyday Face Wash 100ml",
+        "qty": 3,
+        "unit_price": 349
+      },
+      {
+        "sku": "SKU-SS-022",
+        "name": "Mineral Sunscreen SPF50 50ml",
+        "qty": 3,
+        "unit_price": 649
+      },
+      {
+        "sku": "SKU-BW-011",
+        "name": "Body Wash Citrus 250ml",
+        "qty": 3,
+        "unit_price": 399
+      }
+    ],
+    "total_amount": 4788,
+    "currency": "INR",
+    "status": "completed"
+  },
+  {
+    "order_id": "ORD-00048",
+    "customer_id": "CUST-0103",
+    "order_date": "06/12/2025",
+    "items": [
+      {
+        "sku": "SKU-SC-014",
+        "name": "Vitamin C Serum 30ml",
+        "qty": 1,
+        "unit_price": 799
+      },
+      {
+        "sku": "SKU-SH-019",
+        "name": "Anti-Dandruff Shampoo 200ml",
+        "qty": 1,
+        "unit_price": 449
+      }
+    ],
+    "total_amount": 1248,
+    "currency": "INR",
+    "status": "completed"
+  },
+  {
+    "order_id": "ORD-00256",
+    "customer_id": "CUST-0038",
+    "order_date": "14/10/2025",
+    "items": [
+      {
+        "sku": "SKU-BW-011",
+        "name": "Body Wash Citrus 250ml",
+        "qty": 3,
+        "unit_price": 399
+      },
+      {
+        "sku": "SKU-SS-022",
+        "name": "Mineral Sunscreen SPF50 50ml",
+        "qty": 1,
+        "unit_price": 649
+      },
+      {
+        "sku": "SKU-FM-005",
+        "name": "Clay Face Mask 75g",
+        "qty": 3,
+        "unit_price": 599
+      }
+    ],
+    "total_amount": 3643,
+    "currency": "INR",
+    "status": "completed"
+  },
+  {
+    "order_id": "ORD-00150",
+    "customer_id": "CUST-0065",
+    "order_date": "17/12/2025",
+    "items": [
+      {
+        "sku": "SKU-SH-019",
+        "name": "Anti-Dandruff Shampoo 200ml",
+        "qty": 2,
+        "unit_price": 449
+      },
+      {
+        "sku": "SKU-FW-001",
+        "name": "Everyday Face Wash 100ml",
+        "qty": 3,
+        "unit_price": 349
+      },
+      {
+        "sku": "SKU-LB-003",
+        "name": "Nourishing Lip Balm",
+        "qty": 2,
+        "unit_price": 199
+      },
+      {
+        "sku": "SKU-FM-005",
+        "name": "Clay Face Mask 75g",
+        "qty": 1,
+        "unit_price": 599
+      }
+    ],
+    "total_amount": 2942,
+    "currency": "INR",
+    "status": "completed"
+  },
+  {
+    "order_id": "ORD-00131",
+    "customer_id": "CUST-0066",
+    "order_date": "08/06/2026",
+    "items": [
+      {
+        "sku": "SKU-FW-001",
+        "name": "Everyday Face Wash 100ml",
+        "qty": 2,
+        "unit_price": 349
+      },
+      {
+        "sku": "SKU-SS-022",
+        "name": "Mineral Sunscreen SPF50 50ml",
+        "qty": 2,
+        "unit_price": 649
+      },
+      {
+        "sku": "SKU-SC-014",
+        "name": "Vitamin C Serum 30ml",
+        "qty": 3,
+        "unit_price": 799
+      },
+      {
+        "sku": "SKU-LB-003",
+        "name": "Nourishing Lip Balm",
+        "qty": 1,
+        "unit_price": 199
+      }
+    ],
+    "total_amount": 4592,
+    "currency": "INR",
+    "status": "completed"
+  },
+  {
+    "order_id": "ORD-00174",
+    "customer_id": "CUST-0095",
+    "order_date": "2026-05-10T12:01:00Z",
+    "items": [
+      {
+        "sku": "SKU-FM-005",
+        "name": "Clay Face Mask 75g",
+        "qty": 2,
+        "unit_price": 599
+      },
+      {
+        "sku": "SKU-LB-003",
+        "name": "Nourishing Lip Balm",
+        "qty": 2,
+        "unit_price": 199
+      }
+    ],
+    "total_amount": 1596,
+    "currency": "INR",
+    "status": "completed"
+  },
+  {
+    "order_id": "ORD-00168",
+    "customer_id": "CUST-0069",
+    "order_date": "03/06/2026",
+    "items": [
+      {
+        "sku": "SKU-FW-001",
+        "name": "Everyday Face Wash 100ml",
+        "qty": 3,
+        "unit_price": 349
+      },
+      {
+        "sku": "SKU-BW-011",
+        "name": "Body Wash Citrus 250ml",
+        "qty": 3,
+        "unit_price": 399
+      },
+      {
+        "sku": "SKU-MC-007",
+        "name": "Hydrating Moisturizer 50ml",
+        "qty": 1,
+        "unit_price": 549
+      },
+      {
+        "sku": "SKU-LB-003",
+        "name": "Nourishing Lip Balm",
+        "qty": 1,
+        "unit_price": 199
+      }
+    ],
+    "total_amount": 2992,
+    "currency": "INR",
+    "status": "completed"
+  },
+  {
+    "order_id": "ORD-00073",
+    "customer_id": "CUST-0091",
+    "order_date": "19/04/2026",
+    "items": [
+      {
+        "sku": "SKU-LB-003",
+        "name": "Nourishing Lip Balm",
+        "qty": 3,
+        "unit_price": 199
+      }
+    ],
+    "total_amount": 597,
+    "currency": "INR",
+    "status": "completed"
+  },
+  {
+    "order_id": "ORD-00204",
+    "customer_id": "CUST-0066",
+    "order_date": "2025-11-09T15:29:00Z",
+    "items": [
+      {
+        "sku": "SKU-FW-001",
+        "name": "Everyday Face Wash 100ml",
+        "qty": 1,
+        "unit_price": 349
+      },
+      {
+        "sku": "SKU-SS-022",
+        "name": "Mineral Sunscreen SPF50 50ml",
+        "qty": 2,
+        "unit_price": 649
+      },
+      {
+        "sku": "SKU-LB-003",
+        "name": "Nourishing Lip Balm",
+        "qty": 1,
+        "unit_price": 199
+      }
+    ],
+    "total_amount": 1846,
+    "currency": "INR",
+    "status": "completed"
+  },
+  {
+    "order_id": "ORD-00248",
+    "customer_id": "CUST-0113",
+    "order_date": "2025-10-15T05:12:00Z",
+    "items": [
+      {
+        "sku": "SKU-FW-001",
+        "name": "Everyday Face Wash 100ml",
+        "qty": 1,
+        "unit_price": 349
+      },
+      {
+        "sku": "SKU-SC-014",
+        "name": "Vitamin C Serum 30ml",
+        "qty": 2,
+        "unit_price": 799
+      }
+    ],
+    "total_amount": 1947,
+    "currency": "INR",
+    "status": "completed"
+  },
+  {
+    "order_id": "ORD-00224",
+    "customer_id": "CUST-0108",
+    "order_date": "2025-12-12T18:12:00Z",
+    "items": [
+      {
+        "sku": "SKU-LB-003",
+        "name": "Nourishing Lip Balm",
+        "qty": 1,
+        "unit_price": 199
+      },
+      {
+        "sku": "SKU-SC-014",
+        "name": "Vitamin C Serum 30ml",
+        "qty": 1,
+        "unit_price": 799
+      },
+      {
+        "sku": "SKU-SS-022",
+        "name": "Mineral Sunscreen SPF50 50ml",
+        "qty": 1,
+        "unit_price": 649
+      },
+      {
+        "sku": "SKU-FW-001",
+        "name": "Everyday Face Wash 100ml",
+        "qty": 3,
+        "unit_price": 349
+      }
+    ],
+    "total_amount": 2694,
+    "currency": "INR",
+    "status": "completed"
+  },
+  {
+    "order_id": "ORD-00199",
+    "customer_id": "CUST-0090",
+    "order_date": "2026-06-14T13:27:00Z",
+    "items": [
+      {
+        "sku": "SKU-SC-014",
+        "name": "Vitamin C Serum 30ml",
+        "qty": 3,
+        "unit_price": 799
+      },
+      {
+        "sku": "SKU-SH-019",
+        "name": "Anti-Dandruff Shampoo 200ml",
+        "qty": 1,
+        "unit_price": 449
+      },
+      {
+        "sku": "SKU-LB-003",
+        "name": "Nourishing Lip Balm",
+        "qty": 2,
+        "unit_price": 199
+      },
+      {
+        "sku": "SKU-BW-011",
+        "name": "Body Wash Citrus 250ml",
+        "qty": 1,
+        "unit_price": 399
+      }
+    ],
+    "total_amount": 3643,
+    "currency": "INR",
+    "status": "completed"
+  },
+  {
+    "order_id": "ORD-00070",
+    "customer_id": "CUST-0104",
+    "order_date": 1762005960,
+    "items": [
+      {
+        "sku": "SKU-SC-014",
+        "name": "Vitamin C Serum 30ml",
+        "qty": 1,
+        "unit_price": 799
+      },
+      {
+        "sku": "SKU-LB-003",
+        "name": "Nourishing Lip Balm",
+        "qty": 1,
+        "unit_price": 199
+      },
+      {
+        "sku": "SKU-SH-019",
+        "name": "Anti-Dandruff Shampoo 200ml",
+        "qty": 1,
+        "unit_price": 449
+      }
+    ],
+    "total_amount": 1447,
+    "currency": "INR",
+    "status": "completed"
+  },
+  {
+    "order_id": "ORD-00121",
+    "customer_id": "CUST-0021",
+    "order_date": "03/10/2025",
+    "items": [
+      {
+        "sku": "SKU-FM-005",
+        "name": "Clay Face Mask 75g",
+        "qty": 2,
+        "unit_price": 599
+      },
+      {
+        "sku": "SKU-SS-022",
+        "name": "Mineral Sunscreen SPF50 50ml",
+        "qty": 2,
+        "unit_price": 649
+      },
+      {
+        "sku": "SKU-SH-019",
+        "name": "Anti-Dandruff Shampoo 200ml",
+        "qty": 2,
+        "unit_price": 449
+      },
+      {
+        "sku": "SKU-SC-014",
+        "name": "Vitamin C Serum 30ml",
+        "qty": 3,
+        "unit_price": 799
+      }
+    ],
+    "total_amount": 5791,
+    "currency": "INR",
+    "status": "completed"
+  },
+  {
+    "order_id": "ORD-00270",
+    "customer_id": "CUST-0078",
+    "order_date": "2025-11-24T15:12:00Z",
+    "items": [
+      {
+        "sku": "SKU-LB-003",
+        "name": "Nourishing Lip Balm",
+        "qty": 3,
+        "unit_price": 199
+      },
+      {
+        "sku": "SKU-BW-011",
+        "name": "Body Wash Citrus 250ml",
+        "qty": 1,
+        "unit_price": 399
+      }
+    ],
+    "total_amount": 996,
+    "currency": "INR",
+    "status": "completed"
+  },
+  {
+    "order_id": "ORD-00209",
+    "customer_id": "CUST-0070",
+    "order_date": "2026-01-09T23:57:00Z",
+    "items": [
+      {
+        "sku": "SKU-MC-007",
+        "name": "Hydrating Moisturizer 50ml",
+        "qty": 2,
+        "unit_price": 549
+      },
+      {
+        "sku": "SKU-FW-001",
+        "name": "Everyday Face Wash 100ml",
+        "qty": 1,
+        "unit_price": 349
+      }
+    ],
+    "total_amount": 1447,
+    "currency": "INR",
+    "status": "completed"
+  },
+  {
+    "order_id": "ORD-00165",
+    "customer_id": "CUST-0089",
+    "order_date": 1773395220,
+    "items": [
+      {
+        "sku": "SKU-SS-022",
+        "name": "Mineral Sunscreen SPF50 50ml",
+        "qty": 2,
+        "unit_price": 649
+      },
+      {
+        "sku": "SKU-MC-007",
+        "name": "Hydrating Moisturizer 50ml",
+        "qty": 2,
+        "unit_price": 549
+      },
+      {
+        "sku": "SKU-FM-005",
+        "name": "Clay Face Mask 75g",
+        "qty": 1,
+        "unit_price": 599
+      },
+      {
+        "sku": "SKU-BW-011",
+        "name": "Body Wash Citrus 250ml",
+        "qty": 3,
+        "unit_price": 399
+      }
+    ],
+    "total_amount": 4192,
+    "currency": "INR",
+    "status": "completed"
+  },
+  {
+    "order_id": "ORD-00143",
+    "customer_id": "CUST-0078",
+    "order_date": "15/02/2026",
+    "items": [
+      {
+        "sku": "SKU-SC-014",
+        "name": "Vitamin C Serum 30ml",
+        "qty": 1,
+        "unit_price": 799
+      }
+    ],
+    "total_amount": 799,
+    "currency": "INR",
+    "status": "completed"
+  },
+  {
+    "order_id": "ORD-00097",
+    "customer_id": "CUST-0016",
+    "order_date": "04/04/2026",
+    "items": [
+      {
+        "sku": "SKU-MC-007",
+        "name": "Hydrating Moisturizer 50ml",
+        "qty": 2,
+        "unit_price": 549
+      },
+      {
+        "sku": "SKU-SC-014",
+        "name": "Vitamin C Serum 30ml",
+        "qty": 1,
+        "unit_price": 799
+      }
+    ],
+    "total_amount": 1897,
+    "currency": "INR",
+    "status": "completed"
+  },
+  {
+    "order_id": "ORD-00032",
+    "customer_id": "CUST-0012",
+    "order_date": "2026-02-25T07:47:00Z",
+    "items": [
+      {
+        "sku": "SKU-SC-014",
+        "name": "Vitamin C Serum 30ml",
+        "qty": 2,
+        "unit_price": 799
+      },
+      {
+        "sku": "SKU-BW-011",
+        "name": "Body Wash Citrus 250ml",
+        "qty": 1,
+        "unit_price": 399
+      },
+      {
+        "sku": "SKU-SH-019",
+        "name": "Anti-Dandruff Shampoo 200ml",
+        "qty": 3,
+        "unit_price": 449
+      },
+      {
+        "sku": "SKU-FW-001",
+        "name": "Everyday Face Wash 100ml",
+        "qty": 2,
+        "unit_price": 349
+      }
+    ],
+    "total_amount": -4042,
+    "currency": "INR",
+    "status": "refunded"
+  },
+  {
+    "order_id": "ORD-00031",
+    "customer_id": "CUST-0110",
+    "order_date": "2026-04-22T20:05:00Z",
+    "items": [
+      {
+        "sku": "SKU-BW-011",
+        "name": "Body Wash Citrus 250ml",
+        "qty": 3,
+        "unit_price": 399
+      },
+      {
+        "sku": "SKU-MC-007",
+        "name": "Hydrating Moisturizer 50ml",
+        "qty": 2,
+        "unit_price": 549
+      },
+      {
+        "sku": "SKU-SH-019",
+        "name": "Anti-Dandruff Shampoo 200ml",
+        "qty": 3,
+        "unit_price": 449
+      }
+    ],
+    "total_amount": 3642,
+    "currency": "INR",
+    "status": "completed"
+  },
+  {
+    "order_id": "ORD-00191",
+    "customer_id": "CUST-0012",
+    "order_date": "2026-01-28T13:41:00Z",
+    "items": [
+      {
+        "sku": "SKU-FW-001",
+        "name": "Everyday Face Wash 100ml",
+        "qty": 1,
+        "unit_price": 349
+      }
+    ],
+    "total_amount": 349,
+    "currency": "INR",
+    "status": "completed"
+  },
+  {
+    "order_id": "ORD-00107",
+    "customer_id": "CUST-0003",
+    "order_date": "2026-06-13T09:31:00Z",
+    "items": [
+      {
+        "sku": "SKU-BW-011",
+        "name": "Body Wash Citrus 250ml",
+        "qty": 3,
+        "unit_price": 399
+      }
+    ],
+    "total_amount": 1197,
+    "currency": "INR",
+    "status": "completed"
+  },
+  {
+    "order_id": "ORD-00069",
+    "customer_id": "CUST-0065",
+    "order_date": "2025-11-16T19:38:00Z",
+    "items": [
+      {
+        "sku": "SKU-FM-005",
+        "name": "Clay Face Mask 75g",
+        "qty": 2,
+        "unit_price": 599
+      },
+      {
+        "sku": "SKU-LB-003",
+        "name": "Nourishing Lip Balm",
+        "qty": 3,
+        "unit_price": 199
+      },
+      {
+        "sku": "SKU-BW-011",
+        "name": "Body Wash Citrus 250ml",
+        "qty": 3,
+        "unit_price": 399
+      },
+      {
+        "sku": "SKU-FW-001",
+        "name": "Everyday Face Wash 100ml",
+        "qty": 1,
+        "unit_price": 349
+      }
+    ],
+    "total_amount": 3341,
+    "currency": "INR",
+    "status": "completed"
+  },
+  {
+    "order_id": "ORD-00228",
+    "customer_id": "CUST-0051",
+    "order_date": "01/10/2025",
+    "items": [
+      {
+        "sku": "SKU-MC-007",
+        "name": "Hydrating Moisturizer 50ml",
+        "qty": 3,
+        "unit_price": 549
+      }
+    ],
+    "total_amount": 1647,
+    "currency": "INR",
+    "status": "completed"
+  },
+  {
+    "order_id": "ORD-00080",
+    "customer_id": "CUST-0004",
+    "order_date": "2026-05-19T11:59:00Z",
+    "items": [
+      {
+        "sku": "SKU-FW-001",
+        "name": "Everyday Face Wash 100ml",
+        "qty": 1,
+        "unit_price": 349
+      },
+      {
+        "sku": "SKU-SS-022",
+        "name": "Mineral Sunscreen SPF50 50ml",
+        "qty": 2,
+        "unit_price": 649
+      },
+      {
+        "sku": "SKU-LB-003",
+        "name": "Nourishing Lip Balm",
+        "qty": 1,
+        "unit_price": 199
+      },
+      {
+        "sku": "SKU-MC-007",
+        "name": "Hydrating Moisturizer 50ml",
+        "qty": 2,
+        "unit_price": 549
+      }
+    ],
+    "total_amount": 2944,
+    "currency": "INR",
+    "status": "completed"
+  },
+  {
+    "order_id": "ORD-00226",
+    "customer_id": "CUST-0091",
+    "order_date": 1775355780,
+    "items": [
+      {
+        "sku": "SKU-SC-014",
+        "name": "Vitamin C Serum 30ml",
+        "qty": 1,
+        "unit_price": 799
+      },
+      {
+        "sku": "SKU-MC-007",
+        "name": "Hydrating Moisturizer 50ml",
+        "qty": 1,
+        "unit_price": 549
+      },
+      {
+        "sku": "SKU-BW-011",
+        "name": "Body Wash Citrus 250ml",
+        "qty": 3,
+        "unit_price": 399
+      },
+      {
+        "sku": "SKU-SH-019",
+        "name": "Anti-Dandruff Shampoo 200ml",
+        "qty": 2,
+        "unit_price": 449
+      }
+    ],
+    "total_amount": 3443,
+    "currency": "INR",
+    "status": "completed"
+  },
+  {
+    "order_id": "ORD-00093",
+    "customer_id": "CUST-0073",
+    "order_date": "2026-04-06T11:24:00Z",
+    "items": [
+      {
+        "sku": "SKU-MC-007",
+        "name": "Hydrating Moisturizer 50ml",
+        "qty": 3,
+        "unit_price": 549
+      }
+    ],
+    "total_amount": 1647,
+    "currency": "INR",
+    "status": "completed"
+  },
+  {
+    "order_id": "ORD-00130",
+    "customer_id": "CUST-0065",
+    "order_date": "01/11/2025",
+    "items": [
+      {
+        "sku": "SKU-MC-007",
+        "name": "Hydrating Moisturizer 50ml",
+        "qty": 2,
+        "unit_price": 549
+      },
+      {
+        "sku": "SKU-SC-014",
+        "name": "Vitamin C Serum 30ml",
+        "qty": 3,
+        "unit_price": 799
+      }
+    ],
+    "total_amount": 3495,
+    "currency": "INR",
+    "status": "completed"
+  },
+  {
+    "order_id": "ORD-00117",
+    "customer_id": "CUST-0089",
+    "order_date": "2026-02-25T22:13:00Z",
+    "items": [
+      {
+        "sku": "SKU-SH-019",
+        "name": "Anti-Dandruff Shampoo 200ml",
+        "qty": 3,
+        "unit_price": 449
+      },
+      {
+        "sku": "SKU-SS-022",
+        "name": "Mineral Sunscreen SPF50 50ml",
+        "qty": 2,
+        "unit_price": 649
+      },
+      {
+        "sku": "SKU-MC-007",
+        "name": "Hydrating Moisturizer 50ml",
+        "qty": 2,
+        "unit_price": 549
+      },
+      {
+        "sku": "SKU-LB-003",
+        "name": "Nourishing Lip Balm",
+        "qty": 1,
+        "unit_price": 199
+      }
+    ],
+    "total_amount": 3942,
+    "currency": "INR",
+    "status": "completed"
+  },
+  {
+    "order_id": "ORD-00198",
+    "customer_id": "CUST-0111",
+    "order_date": "2026-03-12T04:50:00Z",
+    "items": [
+      {
+        "sku": "SKU-SH-019",
+        "name": "Anti-Dandruff Shampoo 200ml",
+        "qty": 2,
+        "unit_price": 449
+      },
+      {
+        "sku": "SKU-LB-003",
+        "name": "Nourishing Lip Balm",
+        "qty": 1,
+        "unit_price": 199
+      },
+      {
+        "sku": "SKU-FM-005",
+        "name": "Clay Face Mask 75g",
+        "qty": 1,
+        "unit_price": 599
+      },
+      {
+        "sku": "SKU-SC-014",
+        "name": "Vitamin C Serum 30ml",
+        "qty": 3,
+        "unit_price": 799
+      }
+    ],
+    "total_amount": 4093,
+    "currency": "INR",
+    "status": "completed"
+  },
+  {
+    "order_id": "ORD-00182",
+    "customer_id": "CUST-0107",
+    "order_date": 1778039220,
+    "items": [
+      {
+        "sku": "SKU-LB-003",
+        "name": "Nourishing Lip Balm",
+        "qty": 1,
+        "unit_price": 199
+      },
+      {
+        "sku": "SKU-BW-011",
+        "name": "Body Wash Citrus 250ml",
+        "qty": 2,
+        "unit_price": 399
+      }
+    ],
+    "total_amount": 997,
+    "currency": "INR",
+    "status": "completed"
+  },
+  {
+    "order_id": "ORD-00250",
+    "customer_id": "CUST-0045",
+    "order_date": "2026-05-31T18:35:00Z",
+    "items": [
+      {
+        "sku": "SKU-MC-007",
+        "name": "Hydrating Moisturizer 50ml",
+        "qty": 3,
+        "unit_price": 549
+      },
+      {
+        "sku": "SKU-BW-011",
+        "name": "Body Wash Citrus 250ml",
+        "qty": 3,
+        "unit_price": 399
+      },
+      {
+        "sku": "SKU-FM-005",
+        "name": "Clay Face Mask 75g",
+        "qty": 1,
+        "unit_price": 599
+      }
+    ],
+    "total_amount": 3443,
+    "currency": "INR",
+    "status": "completed"
+  },
+  {
+    "order_id": "ORD-00152",
+    "customer_id": "CUST-0052",
+    "order_date": "2026-04-22T02:23:00Z",
+    "items": [
+      {
+        "sku": "SKU-SS-022",
+        "name": "Mineral Sunscreen SPF50 50ml",
+        "qty": 3,
+        "unit_price": 649
+      },
+      {
+        "sku": "SKU-SH-019",
+        "name": "Anti-Dandruff Shampoo 200ml",
+        "qty": 1,
+        "unit_price": 449
+      },
+      {
+        "sku": "SKU-SC-014",
+        "name": "Vitamin C Serum 30ml",
+        "qty": 3,
+        "unit_price": 799
+      },
+      {
+        "sku": "SKU-MC-007",
+        "name": "Hydrating Moisturizer 50ml",
+        "qty": 3,
+        "unit_price": 549
+      }
+    ],
+    "total_amount": 6440,
+    "currency": "INR",
+    "status": "completed"
+  },
+  {
+    "order_id": "ORD-00184",
+    "customer_id": "CUST-0038",
+    "order_date": "26/12/2025",
+    "items": [
+      {
+        "sku": "SKU-LB-003",
+        "name": "Nourishing Lip Balm",
+        "qty": 3,
+        "unit_price": 199
+      },
+      {
+        "sku": "SKU-BW-011",
+        "name": "Body Wash Citrus 250ml",
+        "qty": 1,
+        "unit_price": 399
+      },
+      {
+        "sku": "SKU-FM-005",
+        "name": "Clay Face Mask 75g",
+        "qty": 1,
+        "unit_price": 599
+      }
+    ],
+    "total_amount": 1595,
+    "currency": "INR",
+    "status": "cancelled"
+  },
+  {
+    "order_id": "ORD-00049",
+    "customer_id": "CUST-0034",
+    "order_date": "2026-03-15T00:35:00Z",
+    "items": [
+      {
+        "sku": "SKU-MC-007",
+        "name": "Hydrating Moisturizer 50ml",
+        "qty": 3,
+        "unit_price": 549
+      }
+    ],
+    "total_amount": 1647,
+    "currency": "INR",
+    "status": "completed"
+  },
+  {
+    "order_id": "ORD-00060",
+    "customer_id": "CUST-0035",
+    "order_date": "2025-10-26T21:05:00Z",
+    "items": [
+      {
+        "sku": "SKU-BW-011",
+        "name": "Body Wash Citrus 250ml",
+        "qty": 2,
+        "unit_price": 399
+      },
+      {
+        "sku": "SKU-SS-022",
+        "name": "Mineral Sunscreen SPF50 50ml",
+        "qty": 2,
+        "unit_price": 649
+      },
+      {
+        "sku": "SKU-LB-003",
+        "name": "Nourishing Lip Balm",
+        "qty": 1,
+        "unit_price": 199
+      },
+      {
+        "sku": "SKU-FM-005",
+        "name": "Clay Face Mask 75g",
+        "qty": 3,
+        "unit_price": 599
+      }
+    ],
+    "total_amount": 4092,
+    "currency": "INR",
+    "status": "completed"
+  },
+  {
+    "order_id": "ORD-00081",
+    "customer_id": "CUST-0005",
+    "order_date": 1774066080,
+    "items": [
+      {
+        "sku": "SKU-FM-005",
+        "name": "Clay Face Mask 75g",
+        "qty": 3,
+        "unit_price": 599
+      },
+      {
+        "sku": "SKU-SH-019",
+        "name": "Anti-Dandruff Shampoo 200ml",
+        "qty": 2,
+        "unit_price": 449
+      },
+      {
+        "sku": "SKU-SC-014",
+        "name": "Vitamin C Serum 30ml",
+        "qty": 2,
+        "unit_price": 799
+      }
+    ],
+    "total_amount": 4293,
+    "currency": "INR",
+    "status": "completed"
+  },
+  {
+    "order_id": "ORD-00082",
+    "customer_id": "CUST-0037",
+    "order_date": "05/05/2026",
+    "items": [
+      {
+        "sku": "SKU-LB-003",
+        "name": "Nourishing Lip Balm",
+        "qty": 1,
+        "unit_price": 199
+      },
+      {
+        "sku": "SKU-FW-001",
+        "name": "Everyday Face Wash 100ml",
+        "qty": 1,
+        "unit_price": 349
+      }
+    ],
+    "total_amount": 548,
+    "currency": "INR",
+    "status": "completed"
+  },
+  {
+    "order_id": "ORD-00237",
+    "customer_id": "CUST-0034",
+    "order_date": "12/02/2026",
+    "items": [
+      {
+        "sku": "SKU-LB-003",
+        "name": "Nourishing Lip Balm",
+        "qty": 1,
+        "unit_price": 199
+      },
+      {
+        "sku": "SKU-FM-005",
+        "name": "Clay Face Mask 75g",
+        "qty": 1,
+        "unit_price": 599
+      }
+    ],
+    "total_amount": 798,
+    "currency": "INR",
+    "status": "completed"
+  },
+  {
+    "order_id": "ORD-00227",
+    "customer_id": "CUST-0089",
+    "order_date": "2025-12-29T22:35:00Z",
+    "items": [
+      {
+        "sku": "SKU-SS-022",
+        "name": "Mineral Sunscreen SPF50 50ml",
+        "qty": 1,
+        "unit_price": 649
+      },
+      {
+        "sku": "SKU-SH-019",
+        "name": "Anti-Dandruff Shampoo 200ml",
+        "qty": 2,
+        "unit_price": 449
+      },
+      {
+        "sku": "SKU-LB-003",
+        "name": "Nourishing Lip Balm",
+        "qty": 2,
+        "unit_price": 199
+      }
+    ],
+    "total_amount": 1945,
+    "currency": "INR",
+    "status": "completed"
+  },
+  {
+    "order_id": "ORD-00205",
+    "customer_id": "CUST-0066",
+    "order_date": "2025-11-29T07:47:00Z",
+    "items": [
+      {
+        "sku": "SKU-FW-001",
+        "name": "Everyday Face Wash 100ml",
+        "qty": 1,
+        "unit_price": 349
+      }
+    ],
+    "total_amount": 349,
+    "currency": "INR",
+    "status": "completed"
+  },
+  {
+    "order_id": "ORD-00022",
+    "customer_id": "CUST-0041",
+    "order_date": "2025-10-19T14:05:00Z",
+    "items": [
+      {
+        "sku": "SKU-SH-019",
+        "name": "Anti-Dandruff Shampoo 200ml",
+        "qty": 3,
+        "unit_price": 449
+      },
+      {
+        "sku": "SKU-FW-001",
+        "name": "Everyday Face Wash 100ml",
+        "qty": 1,
+        "unit_price": 349
+      },
+      {
+        "sku": "SKU-SS-022",
+        "name": "Mineral Sunscreen SPF50 50ml",
+        "qty": 3,
+        "unit_price": 649
+      }
+    ],
+    "total_amount": 3643,
+    "currency": "INR",
+    "status": "completed"
+  },
+  {
+    "order_id": "ORD-00003",
+    "customer_id": "CUST-0104",
+    "order_date": "04/03/2026",
+    "items": [
+      {
+        "sku": "SKU-FW-001",
+        "name": "Everyday Face Wash 100ml",
+        "qty": 2,
+        "unit_price": 349
+      }
+    ],
+    "total_amount": 698,
+    "currency": "INR",
+    "status": "completed"
+  },
+  {
+    "order_id": "ORD-00233",
+    "customer_id": "CUST-0012",
+    "order_date": "2025-11-08T18:10:00Z",
+    "items": [
+      {
+        "sku": "SKU-FM-005",
+        "name": "Clay Face Mask 75g",
+        "qty": 2,
+        "unit_price": 599
+      },
+      {
+        "sku": "SKU-SH-019",
+        "name": "Anti-Dandruff Shampoo 200ml",
+        "qty": 3,
+        "unit_price": 449
+      },
+      {
+        "sku": "SKU-FW-001",
+        "name": "Everyday Face Wash 100ml",
+        "qty": 1,
+        "unit_price": 349
+      }
+    ],
+    "total_amount": 2894,
+    "currency": "INR",
+    "status": "completed"
+  },
+  {
+    "order_id": "ORD-00063",
+    "customer_id": "CUST-0086",
+    "order_date": "2026-06-14T17:53:00Z",
+    "items": [
+      {
+        "sku": "SKU-SC-014",
+        "name": "Vitamin C Serum 30ml",
+        "qty": 1,
+        "unit_price": 799
+      },
+      {
+        "sku": "SKU-SS-022",
+        "name": "Mineral Sunscreen SPF50 50ml",
+        "qty": 2,
+        "unit_price": 649
+      },
+      {
+        "sku": "SKU-SH-019",
+        "name": "Anti-Dandruff Shampoo 200ml",
+        "qty": 1,
+        "unit_price": 449
+      }
+    ],
+    "total_amount": 2546,
+    "currency": "INR",
+    "status": "completed"
+  },
+  {
+    "order_id": "ORD-00235",
+    "customer_id": "CUST-0004",
+    "order_date": "2026-06-03T06:06:00Z",
+    "items": [
+      {
+        "sku": "SKU-MC-007",
+        "name": "Hydrating Moisturizer 50ml",
+        "qty": 2,
+        "unit_price": 549
+      },
+      {
+        "sku": "SKU-SH-019",
+        "name": "Anti-Dandruff Shampoo 200ml",
+        "qty": 1,
+        "unit_price": 449
+      }
+    ],
+    "total_amount": 1547,
+    "currency": "INR",
+    "status": "completed"
+  },
+  {
+    "order_id": "ORD-00259",
+    "customer_id": "CUST-0075",
+    "order_date": 1773918960,
+    "items": [
+      {
+        "sku": "SKU-FM-005",
+        "name": "Clay Face Mask 75g",
+        "qty": 2,
+        "unit_price": 599
+      },
+      {
+        "sku": "SKU-BW-011",
+        "name": "Body Wash Citrus 250ml",
+        "qty": 1,
+        "unit_price": 399
+      },
+      {
+        "sku": "SKU-FW-001",
+        "name": "Everyday Face Wash 100ml",
+        "qty": 3,
+        "unit_price": 349
+      }
+    ],
+    "total_amount": 2644,
+    "currency": "INR",
+    "status": "completed"
+  },
+  {
+    "order_id": "ORD-00213",
+    "customer_id": "CUST-0026",
+    "order_date": "2026-02-17T07:04:00Z",
+    "items": [
+      {
+        "sku": "SKU-SC-014",
+        "name": "Vitamin C Serum 30ml",
+        "qty": 1,
+        "unit_price": 799
+      },
+      {
+        "sku": "SKU-FM-005",
+        "name": "Clay Face Mask 75g",
+        "qty": 1,
+        "unit_price": 599
+      }
+    ],
+    "total_amount": 1398,
+    "currency": "INR",
+    "status": "completed"
+  },
+  {
+    "order_id": "ORD-00058",
+    "customer_id": "CUST-0024",
+    "order_date": "2026-03-23T11:00:00Z",
+    "items": [
+      {
+        "sku": "SKU-BW-011",
+        "name": "Body Wash Citrus 250ml",
+        "qty": 1,
+        "unit_price": 399
+      },
+      {
+        "sku": "SKU-FW-001",
+        "name": "Everyday Face Wash 100ml",
+        "qty": 3,
+        "unit_price": 349
+      }
+    ],
+    "total_amount": 1446,
+    "currency": "INR",
+    "status": "completed"
+  },
+  {
+    "order_id": "ORD-00268",
+    "customer_id": "CUST-0071",
+    "order_date": "2026-05-16T12:07:00Z",
+    "items": [
+      {
+        "sku": "SKU-FM-005",
+        "name": "Clay Face Mask 75g",
+        "qty": 1,
+        "unit_price": 599
+      },
+      {
+        "sku": "SKU-SH-019",
+        "name": "Anti-Dandruff Shampoo 200ml",
+        "qty": 3,
+        "unit_price": 449
+      },
+      {
+        "sku": "SKU-SC-014",
+        "name": "Vitamin C Serum 30ml",
+        "qty": 3,
+        "unit_price": 799
+      }
+    ],
+    "total_amount": 4343,
+    "currency": "INR",
+    "status": "completed"
+  },
+  {
+    "order_id": "ORD-00197",
+    "customer_id": "CUST-0015",
+    "order_date": 1769873040,
+    "items": [
+      {
+        "sku": "SKU-FM-005",
+        "name": "Clay Face Mask 75g",
+        "qty": 3,
+        "unit_price": 599
+      },
+      {
+        "sku": "SKU-SH-019",
+        "name": "Anti-Dandruff Shampoo 200ml",
+        "qty": 1,
+        "unit_price": 449
+      }
+    ],
+    "total_amount": 2246,
+    "currency": "INR",
+    "status": "completed"
+  },
+  {
+    "order_id": "ORD-00051",
+    "customer_id": "CUST-0014",
+    "order_date": "24/04/2026",
+    "items": [
+      {
+        "sku": "SKU-FM-005",
+        "name": "Clay Face Mask 75g",
+        "qty": 3,
+        "unit_price": 599
+      },
+      {
+        "sku": "SKU-FW-001",
+        "name": "Everyday Face Wash 100ml",
+        "qty": 1,
+        "unit_price": 349
+      },
+      {
+        "sku": "SKU-BW-011",
+        "name": "Body Wash Citrus 250ml",
+        "qty": 1,
+        "unit_price": 399
+      },
+      {
+        "sku": "SKU-MC-007",
+        "name": "Hydrating Moisturizer 50ml",
+        "qty": 1,
+        "unit_price": 549
+      }
+    ],
+    "total_amount": 3094,
+    "currency": "INR",
+    "status": "completed"
+  },
+  {
+    "order_id": "ORD-00160",
+    "customer_id": "CUST-0014",
+    "order_date": "18/04/2026",
+    "items": [
+      {
+        "sku": "SKU-FW-001",
+        "name": "Everyday Face Wash 100ml",
+        "qty": 2,
+        "unit_price": 349
+      }
+    ],
+    "total_amount": 698,
+    "currency": "INR",
+    "status": "completed"
+  },
+  {
+    "order_id": "ORD-00089",
+    "customer_id": "CUST-0115",
+    "order_date": "2026-04-23T23:28:00Z",
+    "items": [
+      {
+        "sku": "SKU-SH-019",
+        "name": "Anti-Dandruff Shampoo 200ml",
+        "qty": 2,
+        "unit_price": 449
+      },
+      {
+        "sku": "SKU-SC-014",
+        "name": "Vitamin C Serum 30ml",
+        "qty": 3,
+        "unit_price": 799
+      },
+      {
+        "sku": "SKU-SS-022",
+        "name": "Mineral Sunscreen SPF50 50ml",
+        "qty": 2,
+        "unit_price": 649
+      },
+      {
+        "sku": "SKU-FM-005",
+        "name": "Clay Face Mask 75g",
+        "qty": 1,
+        "unit_price": 599
+      }
+    ],
+    "total_amount": 5192,
+    "currency": "INR",
+    "status": "completed"
+  },
+  {
+    "order_id": "ORD-00217",
+    "customer_id": "CUST-0106",
+    "order_date": "2026-01-22T04:12:00Z",
+    "items": [
+      {
+        "sku": "SKU-SH-019",
+        "name": "Anti-Dandruff Shampoo 200ml",
+        "qty": 3,
+        "unit_price": 449
+      },
+      {
+        "sku": "SKU-FM-005",
+        "name": "Clay Face Mask 75g",
+        "qty": 3,
+        "unit_price": 599
+      },
+      {
+        "sku": "SKU-BW-011",
+        "name": "Body Wash Citrus 250ml",
+        "qty": 2,
+        "unit_price": 399
+      },
+      {
+        "sku": "SKU-FW-001",
+        "name": "Everyday Face Wash 100ml",
+        "qty": 1,
+        "unit_price": 349
+      }
+    ],
+    "total_amount": 4291,
+    "currency": "INR",
+    "status": "completed"
+  },
+  {
+    "order_id": "ORD-00102",
+    "customer_id": "CUST-0076",
+    "order_date": "2026-06-15T20:10:00Z",
+    "items": [
+      {
+        "sku": "SKU-MC-007",
+        "name": "Hydrating Moisturizer 50ml",
+        "qty": 3,
+        "unit_price": 549
+      },
+      {
+        "sku": "SKU-SH-019",
+        "name": "Anti-Dandruff Shampoo 200ml",
+        "qty": 3,
+        "unit_price": 449
+      }
+    ],
+    "total_amount": -2994,
+    "currency": "INR",
+    "status": "refunded"
+  },
+  {
+    "order_id": "ORD-00187",
+    "customer_id": "CUST-0042",
+    "order_date": "07/04/2026",
+    "items": [
+      {
+        "sku": "SKU-SC-014",
+        "name": "Vitamin C Serum 30ml",
+        "qty": 3,
+        "unit_price": 799
+      }
+    ],
+    "total_amount": 2397,
+    "currency": "INR",
+    "status": "cancelled"
+  },
+  {
+    "order_id": "ORD-00056",
+    "customer_id": "CUST-0029",
+    "order_date": "19/12/2025",
+    "items": [
+      {
+        "sku": "SKU-SH-019",
+        "name": "Anti-Dandruff Shampoo 200ml",
+        "qty": 3,
+        "unit_price": 449
+      }
+    ],
+    "total_amount": 1347,
+    "currency": "INR",
+    "status": "completed"
+  },
+  {
+    "order_id": "ORD-00088",
+    "customer_id": "CUST-0040",
+    "order_date": "2025-10-22T10:59:00Z",
+    "items": [
+      {
+        "sku": "SKU-FM-005",
+        "name": "Clay Face Mask 75g",
+        "qty": 2,
+        "unit_price": 599
+      },
+      {
+        "sku": "SKU-MC-007",
+        "name": "Hydrating Moisturizer 50ml",
+        "qty": 2,
+        "unit_price": 549
+      },
+      {
+        "sku": "SKU-FW-001",
+        "name": "Everyday Face Wash 100ml",
+        "qty": 1,
+        "unit_price": 349
+      },
+      {
+        "sku": "SKU-SC-014",
+        "name": "Vitamin C Serum 30ml",
+        "qty": 3,
+        "unit_price": 799
+      }
+    ],
+    "total_amount": 5042,
+    "currency": "INR",
+    "status": "completed"
+  },
+  {
+    "order_id": "ORD-00092",
+    "customer_id": "CUST-0052",
+    "order_date": "2025-11-08T21:40:00Z",
+    "items": [
+      {
+        "sku": "SKU-MC-007",
+        "name": "Hydrating Moisturizer 50ml",
+        "qty": 3,
+        "unit_price": 549
+      },
+      {
+        "sku": "SKU-FW-001",
+        "name": "Everyday Face Wash 100ml",
+        "qty": 3,
+        "unit_price": 349
+      },
+      {
+        "sku": "SKU-SC-014",
+        "name": "Vitamin C Serum 30ml",
+        "qty": 2,
+        "unit_price": 799
+      }
+    ],
+    "total_amount": 4292,
+    "currency": "INR",
+    "status": "completed"
+  },
+  {
+    "order_id": "ORD-00120",
+    "customer_id": "CUST-0007",
+    "order_date": "2026-01-24T20:14:00Z",
+    "items": [
+      {
+        "sku": "SKU-BW-011",
+        "name": "Body Wash Citrus 250ml",
+        "qty": 2,
+        "unit_price": 399
+      }
+    ],
+    "total_amount": 798,
+    "currency": "INR",
+    "status": "completed"
+  },
+  {
+    "order_id": "ORD-00269",
+    "customer_id": "CUST-0090",
+    "order_date": "2026-02-16T19:38:00Z",
+    "items": [
+      {
+        "sku": "SKU-BW-011",
+        "name": "Body Wash Citrus 250ml",
+        "qty": 1,
+        "unit_price": 399
+      },
+      {
+        "sku": "SKU-FM-005",
+        "name": "Clay Face Mask 75g",
+        "qty": 3,
+        "unit_price": 599
+      }
+    ],
+    "total_amount": 2196,
+    "currency": "INR",
+    "status": "completed"
+  },
+  {
+    "order_id": "ORD-00194",
+    "customer_id": "CUST-0093",
+    "order_date": "2025-12-24T14:22:00Z",
+    "items": [
+      {
+        "sku": "SKU-MC-007",
+        "name": "Hydrating Moisturizer 50ml",
+        "qty": 3,
+        "unit_price": 549
+      },
+      {
+        "sku": "SKU-SS-022",
+        "name": "Mineral Sunscreen SPF50 50ml",
+        "qty": 3,
+        "unit_price": 649
+      }
+    ],
+    "total_amount": 3594,
+    "currency": "INR",
+    "status": "completed"
+  },
+  {
+    "order_id": "ORD-00066",
+    "customer_id": "CUST-0105",
+    "order_date": "28/03/2026",
+    "items": [
+      {
+        "sku": "SKU-SS-022",
+        "name": "Mineral Sunscreen SPF50 50ml",
+        "qty": 1,
+        "unit_price": 649
+      },
+      {
+        "sku": "SKU-FW-001",
+        "name": "Everyday Face Wash 100ml",
+        "qty": 2,
+        "unit_price": 349
+      }
+    ],
+    "total_amount": 1347,
+    "currency": "INR",
+    "status": "completed"
+  },
+  {
+    "order_id": "ORD-00232",
+    "customer_id": "CUST-0010",
+    "order_date": 1769232480,
+    "items": [
+      {
+        "sku": "SKU-LB-003",
+        "name": "Nourishing Lip Balm",
+        "qty": 1,
+        "unit_price": 199
+      }
+    ],
+    "total_amount": 199,
+    "currency": "INR",
+    "status": "completed"
+  },
+  {
+    "order_id": "ORD-00077",
+    "customer_id": "CUST-0058",
+    "order_date": 1771890600,
+    "items": [
+      {
+        "sku": "SKU-SS-022",
+        "name": "Mineral Sunscreen SPF50 50ml",
+        "qty": 2,
+        "unit_price": 649
+      },
+      {
+        "sku": "SKU-MC-007",
+        "name": "Hydrating Moisturizer 50ml",
+        "qty": 1,
+        "unit_price": 549
+      }
+    ],
+    "total_amount": 1847,
+    "currency": "INR",
+    "status": "completed"
+  },
+  {
+    "order_id": "ORD-00022",
+    "customer_id": "CUST-0041",
+    "order_date": "2025-10-19T14:05:00Z",
+    "items": [
+      {
+        "sku": "SKU-SH-019",
+        "name": "Anti-Dandruff Shampoo 200ml",
+        "qty": 3,
+        "unit_price": 449
+      },
+      {
+        "sku": "SKU-FW-001",
+        "name": "Everyday Face Wash 100ml",
+        "qty": 1,
+        "unit_price": 349
+      },
+      {
+        "sku": "SKU-SS-022",
+        "name": "Mineral Sunscreen SPF50 50ml",
+        "qty": 3,
+        "unit_price": 649
+      }
+    ],
+    "total_amount": 3643,
+    "currency": "INR",
+    "status": "completed"
+  },
+  {
+    "order_id": "ORD-00050",
+    "customer_id": "CUST-0029",
+    "order_date": "2025-11-25T14:32:00Z",
+    "items": [
+      {
+        "sku": "SKU-LB-003",
+        "name": "Nourishing Lip Balm",
+        "qty": 2,
+        "unit_price": 199
+      }
+    ],
+    "total_amount": 398,
+    "currency": "INR",
+    "status": "completed"
+  },
+  {
+    "order_id": "ORD-00177",
+    "customer_id": "CUST-0031",
+    "order_date": "08/12/2025",
+    "items": [
+      {
+        "sku": "SKU-SC-014",
+        "name": "Vitamin C Serum 30ml",
+        "qty": 3,
+        "unit_price": 799
+      },
+      {
+        "sku": "SKU-FM-005",
+        "name": "Clay Face Mask 75g",
+        "qty": 1,
+        "unit_price": 599
+      },
+      {
+        "sku": "SKU-MC-007",
+        "name": "Hydrating Moisturizer 50ml",
+        "qty": 3,
+        "unit_price": 549
+      }
+    ],
+    "total_amount": 4643,
+    "currency": "INR",
+    "status": "completed"
+  },
+  {
+    "order_id": "ORD-00244",
+    "customer_id": "CUST-0114",
+    "order_date": "24/04/2026",
+    "items": [
+      {
+        "sku": "SKU-SS-022",
+        "name": "Mineral Sunscreen SPF50 50ml",
+        "qty": 2,
+        "unit_price": 649
+      },
+      {
+        "sku": "SKU-FW-001",
+        "name": "Everyday Face Wash 100ml",
+        "qty": 2,
+        "unit_price": 349
+      },
+      {
+        "sku": "SKU-SH-019",
+        "name": "Anti-Dandruff Shampoo 200ml",
+        "qty": 2,
+        "unit_price": 449
+      }
+    ],
+    "total_amount": 2894,
+    "currency": "INR",
+    "status": "completed"
+  },
+  {
+    "order_id": "ORD-00257",
+    "customer_id": "CUST-0082",
+    "order_date": "2026-01-22T21:34:00Z",
+    "items": [
+      {
+        "sku": "SKU-SH-019",
+        "name": "Anti-Dandruff Shampoo 200ml",
+        "qty": 3,
+        "unit_price": 449
+      },
+      {
+        "sku": "SKU-LB-003",
+        "name": "Nourishing Lip Balm",
+        "qty": 3,
+        "unit_price": 199
+      },
+      {
+        "sku": "SKU-MC-007",
+        "name": "Hydrating Moisturizer 50ml",
+        "qty": 1,
+        "unit_price": 549
+      },
+      {
+        "sku": "SKU-SC-014",
+        "name": "Vitamin C Serum 30ml",
+        "qty": 2,
+        "unit_price": 799
+      }
+    ],
+    "total_amount": 4091,
+    "currency": "INR",
+    "status": "completed"
+  },
+  {
+    "order_id": "ORD-00138",
+    "customer_id": "CUST-0070",
+    "order_date": 1777040040,
+    "items": [
+      {
+        "sku": "SKU-FW-001",
+        "name": "Everyday Face Wash 100ml",
+        "qty": 3,
+        "unit_price": 349
+      },
+      {
+        "sku": "SKU-SC-014",
+        "name": "Vitamin C Serum 30ml",
+        "qty": 2,
+        "unit_price": 799
+      }
+    ],
+    "total_amount": 2645,
+    "currency": "INR",
+    "status": "completed"
+  },
+  {
+    "order_id": "ORD-00167",
+    "customer_id": "CUST-0039",
+    "order_date": "2026-06-13T04:40:00Z",
+    "items": [
+      {
+        "sku": "SKU-LB-003",
+        "name": "Nourishing Lip Balm",
+        "qty": 1,
+        "unit_price": 199
+      },
+      {
+        "sku": "SKU-SH-019",
+        "name": "Anti-Dandruff Shampoo 200ml",
+        "qty": 3,
+        "unit_price": 449
+      }
+    ],
+    "total_amount": 1546,
+    "currency": "INR",
+    "status": "completed"
+  },
+  {
+    "order_id": "ORD-00161",
+    "customer_id": "CUST-0058",
+    "order_date": 1763098020,
+    "items": [
+      {
+        "sku": "SKU-SC-014",
+        "name": "Vitamin C Serum 30ml",
+        "qty": 3,
+        "unit_price": 799
+      },
+      {
+        "sku": "SKU-FW-001",
+        "name": "Everyday Face Wash 100ml",
+        "qty": 1,
+        "unit_price": 349
+      },
+      {
+        "sku": "SKU-BW-011",
+        "name": "Body Wash Citrus 250ml",
+        "qty": 3,
+        "unit_price": 399
+      },
+      {
+        "sku": "SKU-MC-007",
+        "name": "Hydrating Moisturizer 50ml",
+        "qty": 3,
+        "unit_price": 549
+      }
+    ],
+    "total_amount": 5590,
+    "currency": "INR",
+    "status": "completed"
+  },
+  {
+    "order_id": "ORD-00002",
+    "customer_id": "CUST-0119",
+    "order_date": "25/11/2025",
+    "items": [
+      {
+        "sku": "SKU-BW-011",
+        "name": "Body Wash Citrus 250ml",
+        "qty": 1,
+        "unit_price": 399
+      },
+      {
+        "sku": "SKU-SS-022",
+        "name": "Mineral Sunscreen SPF50 50ml",
+        "qty": 1,
+        "unit_price": 649
+      },
+      {
+        "sku": "SKU-SH-019",
+        "name": "Anti-Dandruff Shampoo 200ml",
+        "qty": 3,
+        "unit_price": 449
+      }
+    ],
+    "total_amount": 2395,
+    "currency": "INR",
+    "status": "completed"
+  },
+  {
+    "order_id": "ORD-00105",
+    "customer_id": "CUST-0045",
+    "order_date": "2026-03-13T23:55:00Z",
+    "items": [
+      {
+        "sku": "SKU-MC-007",
+        "name": "Hydrating Moisturizer 50ml",
+        "qty": 3,
+        "unit_price": 549
+      },
+      {
+        "sku": "SKU-BW-011",
+        "name": "Body Wash Citrus 250ml",
+        "qty": 1,
+        "unit_price": 399
+      },
+      {
+        "sku": "SKU-FM-005",
+        "name": "Clay Face Mask 75g",
+        "qty": 2,
+        "unit_price": 599
+      },
+      {
+        "sku": "SKU-LB-003",
+        "name": "Nourishing Lip Balm",
+        "qty": 1,
+        "unit_price": 199
+      }
+    ],
+    "total_amount": 3443,
+    "currency": "INR",
+    "status": "completed"
+  },
+  {
+    "order_id": "ORD-00046",
+    "customer_id": "CUST-0077",
+    "order_date": "2026-01-17T20:40:00Z",
+    "items": [
+      {
+        "sku": "SKU-FW-001",
+        "name": "Everyday Face Wash 100ml",
+        "qty": 2,
+        "unit_price": 349
+      }
+    ],
+    "total_amount": 698,
+    "currency": "INR",
+    "status": "completed"
+  },
+  {
+    "order_id": "ORD-00054",
+    "customer_id": "CUST-0088",
+    "order_date": "2026-02-08T11:09:00Z",
+    "items": [
+      {
+        "sku": "SKU-SC-014",
+        "name": "Vitamin C Serum 30ml",
+        "qty": 2,
+        "unit_price": 799
+      },
+      {
+        "sku": "SKU-FW-001",
+        "name": "Everyday Face Wash 100ml",
+        "qty": 1,
+        "unit_price": 349
+      },
+      {
+        "sku": "SKU-BW-011",
+        "name": "Body Wash Citrus 250ml",
+        "qty": 3,
+        "unit_price": 399
+      },
+      {
+        "sku": "SKU-SH-019",
+        "name": "Anti-Dandruff Shampoo 200ml",
+        "qty": 3,
+        "unit_price": 449
+      }
+    ],
+    "total_amount": 4491,
+    "currency": "INR",
+    "status": "completed"
+  },
+  {
+    "order_id": "ORD-00214",
+    "customer_id": "CUST-0040",
+    "order_date": "2026-04-02T06:28:00Z",
+    "items": [
+      {
+        "sku": "SKU-LB-003",
+        "name": "Nourishing Lip Balm",
+        "qty": 1,
+        "unit_price": 199
+      },
+      {
+        "sku": "SKU-BW-011",
+        "name": "Body Wash Citrus 250ml",
+        "qty": 3,
+        "unit_price": 399
+      },
+      {
+        "sku": "SKU-FW-001",
+        "name": "Everyday Face Wash 100ml",
+        "qty": 2,
+        "unit_price": 349
+      },
+      {
+        "sku": "SKU-SH-019",
+        "name": "Anti-Dandruff Shampoo 200ml",
+        "qty": 3,
+        "unit_price": 449
+      }
+    ],
+    "total_amount": 3441,
+    "currency": "INR",
+    "status": "completed"
+  },
+  {
+    "order_id": "ORD-00172",
+    "customer_id": "CUST-0091",
+    "order_date": "03/03/2026",
+    "items": [
+      {
+        "sku": "SKU-FW-001",
+        "name": "Everyday Face Wash 100ml",
+        "qty": 2,
+        "unit_price": 349
+      }
+    ],
+    "total_amount": 698,
+    "currency": "INR",
+    "status": "completed"
+  },
+  {
+    "order_id": "ORD-00223",
+    "customer_id": "CUST-0109",
+    "order_date": 1761723360,
+    "items": [
+      {
+        "sku": "SKU-SH-019",
+        "name": "Anti-Dandruff Shampoo 200ml",
+        "qty": 1,
+        "unit_price": 449
+      },
+      {
+        "sku": "SKU-BW-011",
+        "name": "Body Wash Citrus 250ml",
+        "qty": 3,
+        "unit_price": 399
+      },
+      {
+        "sku": "SKU-SC-014",
+        "name": "Vitamin C Serum 30ml",
+        "qty": 2,
+        "unit_price": 799
+      },
+      {
+        "sku": "SKU-FM-005",
+        "name": "Clay Face Mask 75g",
+        "qty": 3,
+        "unit_price": 599
+      }
+    ],
+    "total_amount": 5041,
+    "currency": "INR",
+    "status": "completed"
+  },
+  {
+    "order_id": "ORD-00280",
+    "customer_id": "CUST-0097",
+    "order_date": "2026-06-11T05:04:00Z",
+    "items": [
+      {
+        "sku": "SKU-SH-019",
+        "name": "Anti-Dandruff Shampoo 200ml",
+        "qty": 1,
+        "unit_price": 449
+      },
+      {
+        "sku": "SKU-SC-014",
+        "name": "Vitamin C Serum 30ml",
+        "qty": 3,
+        "unit_price": 799
+      },
+      {
+        "sku": "SKU-MC-007",
+        "name": "Hydrating Moisturizer 50ml",
+        "qty": 1,
+        "unit_price": 549
+      },
+      {
+        "sku": "SKU-FM-005",
+        "name": "Clay Face Mask 75g",
+        "qty": 3,
+        "unit_price": 599
+      }
+    ],
+    "total_amount": 5192,
+    "currency": "INR",
+    "status": "completed"
+  },
+  {
+    "order_id": "ORD-00261",
+    "customer_id": "CUST-0092",
+    "order_date": "13/12/2025",
+    "items": [
+      {
+        "sku": "SKU-SC-014",
+        "name": "Vitamin C Serum 30ml",
+        "qty": 2,
+        "unit_price": 799
+      },
+      {
+        "sku": "SKU-SS-022",
+        "name": "Mineral Sunscreen SPF50 50ml",
+        "qty": 3,
+        "unit_price": 649
+      }
+    ],
+    "total_amount": 3545,
+    "currency": "INR",
+    "status": "cancelled"
+  },
+  {
+    "order_id": "ORD-00156",
+    "customer_id": "CUST-0070",
+    "order_date": "18/04/2026",
+    "items": [
+      {
+        "sku": "SKU-BW-011",
+        "name": "Body Wash Citrus 250ml",
+        "qty": 1,
+        "unit_price": 399
+      },
+      {
+        "sku": "SKU-FM-005",
+        "name": "Clay Face Mask 75g",
+        "qty": 3,
+        "unit_price": 599
+      },
+      {
+        "sku": "SKU-SH-019",
+        "name": "Anti-Dandruff Shampoo 200ml",
+        "qty": 3,
+        "unit_price": 449
+      }
+    ],
+    "total_amount": 3543,
+    "currency": "INR",
+    "status": "completed"
+  },
+  {
+    "order_id": "ORD-00215",
+    "customer_id": "CUST-0092",
+    "order_date": "2026-03-17T04:05:00Z",
+    "items": [
+      {
+        "sku": "SKU-SH-019",
+        "name": "Anti-Dandruff Shampoo 200ml",
+        "qty": 3,
+        "unit_price": 449
+      },
+      {
+        "sku": "SKU-SS-022",
+        "name": "Mineral Sunscreen SPF50 50ml",
+        "qty": 1,
+        "unit_price": 649
+      }
+    ],
+    "total_amount": 1996,
+    "currency": "INR",
+    "status": "completed"
+  }
+]

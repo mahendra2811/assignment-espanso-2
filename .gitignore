@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+.pytest_cache/
+
+# Node
+node_modules/
+dist/
+
+# Local databases / env
+*.db
+.env
+
+# Editor / OS
+.DS_Store
+.idea/
+.vscode/
+
+# Local tooling
+.code-review-graph/
+.playwright-mcp/
+.claude/
+
+# Originals kept at repo root for reference — canonical copies live in data/
+/orders.json
+/customers.csv
+/Full_Stack_Assignment_Brief.docx
+/.~lock.*#
+
+# Private prep notes — never part of the submission
+/INTERVIEW_PREP.md
