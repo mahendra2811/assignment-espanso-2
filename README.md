@@ -15,7 +15,7 @@ owner (or the next engineer) can see exactly what the pipeline did.
 
 ## How to run
 
-### Option A — Docker (recommended, one command)
+### Docker (recommended, one command)
 
 ```bash
 docker compose up --build
