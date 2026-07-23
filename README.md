@@ -178,3 +178,17 @@ date buckets in the revenue endpoint (buckets exist only where orders exist).
 3. A `products` dimension table derived from SKUs (top products endpoint).
 4. Currency handling (minor-unit integers + conversion table) the moment a
    second currency appears.
+
+<img width="1919" height="945" alt="Screenshot from 2026-07-23 12-28-44" src="https://github.com/user-attachments/assets/72496905-ebf8-45c6-b87e-3ce71c3f0cbb" />
+
+<img width="1919" height="945" alt="Screenshot from 2026-07-23 12-29-06" src="https://github.com/user-attachments/assets/729e31c1-a964-469f-972d-22f9763bf9cb" /> 
+
+
+<img width="1342" height="1289" alt="Screenshot from 2026-07-23 12-30-39" src="https://github.com/user-attachments/assets/1f2c747a-473b-47ba-b477-48c664390100" /> 
+<img width="1342" height="1289" alt="Screenshot from 2026-07-23 12-30-44" src="https://github.com/user-attachments/assets/f2fca7ed-4e54-4d71-b69e-1c69c3dcaff5" />
+<img width="1342" height="1289" alt="Screenshot from 2026-07-23 12-30-50" src="https://github.com/user-attachments/assets/3c60e7c7-c30e-4bbe-933b-463407a20b9a" />
+
+
+
+
+
